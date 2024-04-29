@@ -1,0 +1,24 @@
+{
+	"releases": [
+		{
+			"name": "HV24",
+			"begin-date": "2024-05-16"
+		},
+		{
+			"name": "WV24",
+			"begin-date": "2024-08-15"
+		},
+		{
+			"name": "FV25",
+			"begin-date": "2024-11-14"
+		},
+		{
+			"name": "SV25",
+			"begin-date": "2025-02-13"
+		},
+		{
+			"name": "HV25",
+			"begin-date": "2025-05-14"
+		}
+	]
+}
