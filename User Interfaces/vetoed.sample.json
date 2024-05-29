@@ -1,0 +1,11 @@
+{
+    "document-type": "schleupen.cs.artifactlifecycle.userinterfaces.vetos",
+    "formatversion": "schleupen.cs.artifactlifecycle.userinterfaces.vetos_1.0",
+    "artifacts": [
+        {
+		    "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.0",
+            "veto-to": "2024-05-12",
+            "vetoed-by": "Team Weiß.PA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "document-type": "schleupen.cs.artifactlifecycle.packages.obsolete",
+    "formatversion": "schleupen.cs.artifactlifecycle.packages.obsolete_1.0",
+    "artifacts": [
+        {
+            "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.UserCodeClient",
+            "package-version": "[3.40.1.3,3.41)",
+            "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.UserCodeClient",
+            "successor-version": "[3.41,)",
+            "discontinuation-version": "HV24",
+            "obsolete-since": "2024-02-12",
+            "is-disruptive": false
+        },
+        {
+            "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Protocol",
+            "package-version": "3.40.1.5",
+            "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Protocol",
+            "successor-version": "[3.40.1.6,)",
+            "discontinuation-version": "HV24",
+            "obsolete-since": "2024-02-12",
+            "is-disruptive": false
+        }
+    ]
+}

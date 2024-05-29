@@ -1,0 +1,14 @@
+{
+    "document-type": "schleupen.cs.artifactlifecycle.userinterfaces.obsolete",
+    "formatversion": "schleupen.cs.artifactlifecycle.userinterfaces.obsolete_1.0",
+    "artifacts": [
+        {
+            "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.0",
+            "artifact-type": "DialogFlow",
+            "successor": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.1",
+            "discontinuation-version": "HV24",
+            "obsolete-since": "2024-02-12",
+            "is-disruptive": false
+        }
+    ]
+}
