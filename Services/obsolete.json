@@ -1147,6 +1147,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.3",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-30",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1267,6 +1275,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.LokationsbuendelstrukturGeaendertEventService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.Lokationsbuendel.LokationsbuendelGeaendertEventService_3.0",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-30",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeBeendetEventService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1352,6 +1368,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Calendars.HolidayQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-31",
       "is-disruptive": false
     },
     {
@@ -1459,14 +1483,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.wfe.wfv.gpp.WriteTestProtocolProcessService_3.0",
-      "successor": null,
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-05-17",
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.wgp.ugg.AbmeldungNetznutzungVerworfenEventService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1483,19 +1499,19 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungEmpfangenEventService.AblehnungAnfrageNachStornierungErstellenEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungEmpfangenEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungEmpfangenEventService.AblehnungAnfrageNachStornierungErstellenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
     {
