@@ -1,6 +1,6 @@
 {
     "document-type": "schleupen.cs.artifactlifecycle.packages.removed",
-    "formatversion": "schleupen.cs.artifactlifecycle.packages.removed_1.0",
+    "format-version": "schleupen.cs.artifactlifecycle.packages.removed_1.0",
     "artifacts": [
         {
             "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.UserCodeClient",

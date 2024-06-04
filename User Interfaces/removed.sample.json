@@ -1,6 +1,6 @@
 {
     "document-type": "schleupen.cs.artifactlifecycle.userinterfaces.removed",
-    "formatversion": "schleupen.cs.artifactlifecycle.userinterfaces.removed_1.0",
+    "format-version": "schleupen.cs.artifactlifecycle.userinterfaces.removed_1.0",
     "artifacts": [
         {
             "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.0",

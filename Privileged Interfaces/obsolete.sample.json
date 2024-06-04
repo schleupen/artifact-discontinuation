@@ -1,6 +1,6 @@
 {
     "document-type": "schleupen.cs.artifactlifecycle.privilegedinterfaces.obsolete",
-    "formatversion": "schleupen.cs.artifactlifecycle.privilegedinterfaces.obsolete_1.0",
+    "format-version": "schleupen.cs.artifactlifecycle.privilegedinterfaces.obsolete_1.0",
     "artifacts": [
         {
             "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
