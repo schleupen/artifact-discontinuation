@@ -1,11 +1,18 @@
 {
-    "document-type": "schleupen.cs.artifactlifecycle.services.obsolete",
-    "format-version": "schleupen.cs.artifactlifecycle.services.obsolete_1.0",
+    "document-type": "schleupen.artifactlifecycle.services.obsolete",
+    "format-version": "schleupen.artifactlifecycle.services.obsolete_1.0",
     "artifacts": [
         {
             "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
             "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.3",
             "discontinuation-version": "HV24",
+            "obsolete-since": "2024-02-12",
+            "is-disruptive": false
+        },
+		{
+            "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.1",
+            "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
+            "discontinuation-date": "2025-01-01",
             "obsolete-since": "2024-02-12",
             "is-disruptive": false
         }

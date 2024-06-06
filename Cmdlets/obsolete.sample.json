@@ -1,6 +1,6 @@
 {
-    "document-type": "schleupen.cs.artifactlifecycle.cmdlets.obsolete",
-    "format-version": "schleupen.cs.artifactlifecycle.cmdlets.obsolete_1.0",
+    "document-type": "schleupen.artifactlifecycle.cmdlets.obsolete",
+    "format-version": "schleupen.artifactlifecycle.cmdlets.obsolete_1.0",
     "artifacts": [
         {
             "command": "Set-Value",
