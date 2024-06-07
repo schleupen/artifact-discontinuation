@@ -1,5 +1,34 @@
 {
-    "document-type": "schleupen.artifactlifecycle.cmdlets.removed",
-    "formatversion": "schleupen.artifactlifecycle.cmdlets.removed_1.0",
-    "artifacts": []
+  "document-type": "schleupen.artifactlifecycle.cmdlets.removed",
+  "format-version": "schleupen.artifactlifecycle.cmdlets.removed_1.0",
+  "artifacts": [
+    {
+      "command": "Get-SqlServerName",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "command": "New-PackageRepositoryFolder",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "command": "Edit-CSScheduledService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "command": "New-TransientSubscription_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    }
+  ]
 }
