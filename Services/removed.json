@@ -1,13 +1,5 @@
 {
   "document-type": "schleupen.artifactlifecycle.services.removed",
   "format-version": "schleupen.artifactlifecycle.services.removed_1.0",
-  "artifacts": [
-    {
-      "artifact-id": "Schleupen.CS.PI.AIF.Calendars.HolidayQueryService_3.1",
-      "successor": null,
-      "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    }
-  ]
+  "artifacts": []
 }
