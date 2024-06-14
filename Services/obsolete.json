@@ -803,6 +803,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.AbrechnungslaufDetailQueryService_3.1",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.AbrechnungslaufDetailQueryService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-06-12",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Daten.EntityService_3.10",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1556,6 +1564,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.MesswerteAufbereitenActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.Lokationsbuendel.EntityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
