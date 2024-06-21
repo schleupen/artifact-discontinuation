@@ -1,5 +1,34 @@
 {
   "document-type": "schleupen.artifactlifecycle.services.removed",
   "format-version": "schleupen.artifactlifecycle.services.removed_1.0",
-  "artifacts": []
+  "artifacts": [
+    {
+      "artifact-id": "Schleupen.CS.SY.IOP.Features.Features.CheckFeatureActivityService_3.0",
+      "successor": "Schleupen.CS.PI.AIF.SystemConfiguration.Features.CheckFeatureActivityService_3.0",
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.SY.IOP.Features.Features.EnableFeatureActivityService_3.0",
+      "successor": "Schleupen.CS.PI.AIF.SystemConfiguration.Features.EnableFeatureActivityService_3.0",
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.SY.IOP.Features.Features.EnabledFeatureQueryService_3.0",
+      "successor": "Schleupen.CS.PI.AIF.SystemConfiguration.Features.EnabledFeatureQueryService_3.0",
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.SY.IOP.Features.Features.FeatureEntityService_3.0",
+      "successor": "Schleupen.CS.PI.AIF.SystemConfiguration.Features.FeatureEntityService_3.0",
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": true
+    }
+  ]
 }
