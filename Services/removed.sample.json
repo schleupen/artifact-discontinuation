@@ -6,7 +6,6 @@
             "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
             "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.3",
             "discontinuation-version": "HV24",
-            "removed-since": "2024-02-12",
             "is-disruptive": false
         }
     ]

@@ -6,7 +6,6 @@
             "command": "Set-Value",
             "successor": "Set-NewValue",
             "discontinuation-version": "HV24",
-            "removed-since": "2024-02-12",
             "is-disruptive": false
         }
     ]

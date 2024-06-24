@@ -7,7 +7,6 @@
             "artifact-type": "DialogFlow",
             "successor": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.1",
             "discontinuation-version": "HV24",
-            "removed-since": "2024-02-12",
             "is-disruptive": false
         }
     ]
