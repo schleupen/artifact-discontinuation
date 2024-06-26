@@ -10,15 +10,55 @@
 		},
 		{
 			"name": "FV25",
-			"begin-date": "2024-11-14"
+			"begin-date": "2024-11-21"
 		},
 		{
 			"name": "SV25",
-			"begin-date": "2025-02-13"
+			"begin-date": "2025-02-20"
 		},
 		{
 			"name": "HV25",
-			"begin-date": "2025-05-14"
+			"begin-date": "2025-05-22"
+		},
+		{
+			"name": "WV25",
+			"begin-date": "2025-08-21"
+		},
+		{
+			"name": "FV26",
+			"begin-date": "2025-11-20"
+		},
+		{
+			"name": "SV26",
+			"begin-date": "2026-02-19"
+		},
+		{
+			"name": "HV26",
+			"begin-date": "2026-05-21"
+		},
+		{
+			"name": "WV26",
+			"begin-date": "2026-08-20"
+		},
+		{
+			"name": "FV27",
+			"begin-date": "2026-11-19"
+		},
+		{
+			"name": "SV27",
+			"begin-date": "2027-02-18"
+		},
+		{
+			"name": "HV27",
+			"begin-date": "2027-05-20"
+		},
+		{
+			"name": "WV27",
+			"begin-date": "2027-08-19"
+		},
+		{
+			"name": "FV28",
+			"begin-date": "2027-11-18"
 		}
 	]
 }
