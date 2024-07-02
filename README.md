@@ -17,6 +17,7 @@ In jedem dieser Verzeichnisse finden sich jeweils eine `obsolet.json`- und eine 
       "discontinuation-date": null,        // Datum, ab der das Artefakt nicht mehr vorhanden sein wird
                                            // Beachte: discontinuation-version und -date sind wechselseitig gesetzt
       "obsolete-since": "2024-06-20",      // Zeitpunkt, seit dem das Artefakt abgekündigt ist
-      "is-disruptive": false               // Angabe, ob es einen überlappenden Zeitraum (is-disruptive=false) mit der Verfügbarkeit des Nachfolgers oder nicht gibt (is-disruptive=true)
+      "is-disruptive": false               // Angabe, ob es einen überlappenden Zeitraum (is-disruptive=false)
+                                           // mit der Verfügbarkeit des Nachfolgers oder nicht gibt (is-disruptive=true)
     },
 ```
