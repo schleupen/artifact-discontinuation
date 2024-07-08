@@ -3,6 +3,1063 @@
   "format-version": "schleupen.artifactlifecycle.services.removed_1.0",
   "artifacts": [
     {
+      "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.msb.Vertraege.MSBAngebotRueckabwickelnProcessService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.msb.Vertraege.MSBVertragAnlegenProcessService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbgerechneteRechnungQueryService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.17",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.7",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.12",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Konfiguration.CS20KommunikationKonfigurationMigrierenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.UEB.Kanaele.Konfigurationen.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationsverbindungen.QueryService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.PreisblattEmpfangenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.7",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ReklamationenZaehlzeitdefinition.AblehnungReklamationZaehlzeitdefinitionVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ReklamationenZaehlzeitdefinition.ReklamationZaehlzeitdefinitionVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.IOP.ImportiereCs20MesswerteActivityService_1.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungNeuVersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungEogVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Datenformatobjekte.UtilmdDatenformatobjektQueryService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Datenformatobjekte.UtilmdDatenformatobjektQueryService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Datenformatobjekte.UtilmdDatenformatobjektQueryService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.NichtBilaRelAenderungVomNbAnLf.VersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.NichtBilaRelAenderungVomNbAnMsb.VersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.NichtBilaRelAenderungVomNbVerwaltenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.VereinbarungAnlegenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.VerwaltenActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.MehrMindermengen.ErmittelnActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreiszeitreiheVerwaltenActivityService_3.52",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreiszeitreiheVerwaltenActivityService_3.53",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.QueryService_3.13",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.QueryService_3.14",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.63",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlageAendernActivityService_3.9",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlageEntityService_3.22",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlagenIdQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlagenschluesselValidierenActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AuswaehlenQueryService_3.6",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.BiomasseAbrechnungsdaten.AendernActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.InbetriebnahmeUndNetzzugangAendernActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.NutzungsartEntityService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Tarifmappings.BillingTarifmappings.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Abrechnungslaeufe.AnlegenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Daten.AnlagenIdsSuchenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Daten.EntityService_3.9",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Standardvertraege.CsvDateienErzeugenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.AbschlagPlaene.AendernActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Berechnung.SolarVerguetungBerechnenActivityService_3.6",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Preise.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.KOM.Vertraege.AbrechnungVorbereitenFehlgeschlagenEventService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.KOM.Vertraege.AnlagenbetreiberGewechseltEventService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.KOM.Vertraege.AnlagenbetreiberWechselFehlgeschlagenEventService_3.5",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.KOM.Vertragsdatenmanager.AnlagenbetreiberWechselnActivityService_3.6",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.BilanzierungsrelevanteMalodatenEntityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.GasProfildefinitionen.EntityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsbelege.ErgebnisSchreibenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsbelege.FehlerAufgabeAbschliessenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsbelege.LesenActivityService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsbelege.ReservierenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AbrechnungsbelegeAnnehmenActivityService_3.13",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.BonusAnnehmenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.14",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.15",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.CO.Kostenstellen.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Buchungsbelegarten.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Buchungsbereich.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Buchungsperioden.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Geschaeftsjahre.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Sachkonten.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.HB.Umsatzsteuerschluessel.EntityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenBeauskunftenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenBeauskunftenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisVerarbeitenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.10",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Ruecklastschriften.RuecklastschriftAnnahmeActivityService_3.13",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlungsmodellEntityService_3.11",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.7",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.AbschlagsreferenzenAendernQueryService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.EingangsrechnungAnlegenActivityService_3.7",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.EingangsrechnungAnlegenActivityService_3.8",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.QueryService_3.9",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.5",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungstypen.EntityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.NichtZahlungsavisWiderspruchEingangsrechnung.AnlegenActivityService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Girokontoauszuege.PostenAufteilungActivityService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Prozessmeldungen.ProzessmeldungNeuVersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mpw.Einzelwertversand.EinzelwerteVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mpw.Stornoversand.StornierteEinzelwerteVersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.vtm.Stammdatenaenderung.StammdatenaenderungVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.std.vam.VertragsbestaetigungsdatenBereitstellenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.raw.VertragsabschlussRueckabwickelnProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.raw.VertragsabschlussRueckabwicklungStartenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.raw.VertragsaufloesungRueckabwickelnProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.ENM.Einzelnachweise.EinzelnachweisFuerEtlQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.BIL.Lokationsbuendel.QueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.BIL.Lokationsbuendel.QueryService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationVerwaltenActivityService_3.8",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.Messwertueberwachung.MesswertqualitaetQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.PRV.MesswerteImportierenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.PRV.MesswerteImportierenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.WRM.Marktlokationen.EntityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.WRM.Marktlokationen.MarktlokationUebersichtQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.WRM.Messlokationen.EntityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStartenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeVerwaltenActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselStartenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeStartenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lwg.lwg.LieferantenwechselGasBeendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.ManageAllowedSystemUsagesForWorkflowActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.BusinessEvents.BusinessEventAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.BusinessEvents.BusinessEventRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.BusinessEvents.SubscriptionAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.BusinessEvents.SubscriptionRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.QueueAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.MessageBus.QueueRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.EndpointAddedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.EndpointRemovedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.EndpointUpdatedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceImplementationAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceImplementationGroupAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceImplementationGroupRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceImplementationRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceImplementationUpdatedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceInterfaceAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceInterfaceRemovedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.ServiceInterfaceUpdatedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.DatabaseAddedToElementEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.DatabaseRemovedFromElementEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.Databases.CreatedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.Databases.DeletedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.Databases.UpdatedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.DatabaseSchemaAddedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.DatabaseSchemaRemovedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.ElementTypes.CreatedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.ElementTypes.DeletedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.ElementTypes.UpdatedEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.SystemUsages.CreatedEventService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Views.CreatedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Views.DeletedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Views.UpdatedEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.WorkflowHosting.AppFabricPersistenceStoreCopiedEventService_3.4",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ProxyCSIT.communications.vertraganlegen_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.ProzessschrittDatenErmittelnQueryService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.StatusUebersichtErmittelnQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.RAS.Abrechnung.AbrechnungsbestandAnreichernActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugg.AbmeldungNetznutzungVerworfenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugg.AnmeldungNetznutzungVerworfenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.SY.IOP.Features.Features.CheckFeatureActivityService_3.0",
       "successor": "Schleupen.CS.PI.AIF.SystemConfiguration.Features.CheckFeatureActivityService_3.0",
       "discontinuation-version": "HV24",
