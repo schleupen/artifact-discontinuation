@@ -19,6 +19,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.abr.gas.Stammdaten.AenderungDurchStammdatenAenderungDurchfuehrenProcessService_3.0",
+      "successor": "Schleupen.CS.abr.gas.Stammdaten.AenderungDurchStammdatenAenderungDurchfuehrenProcessService_3.1",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-11",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.afp.AbrechnungVollstaendigZuruecksetzenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -32,6 +40,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbrechnungsportionenErstellenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbrechnungsportionenErstellenActivityService_3.3",
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-08",
       "is-disruptive": false
     },
     {
@@ -67,6 +83,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungssimulation.GesamtkostenErmittelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungssimulation.GesamtkostenErmittelnActivityService_3.1",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-08",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerpruefungNeuVerarbeitenQueryService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -85,7 +109,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.FreigegebenEventService_3.2",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
@@ -1515,6 +1539,62 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelAktualisierenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelAktualisierenActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelEntityService_3.8",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelEntityService_3.10",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelEntityService_3.9",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelEntityService_3.10",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelHinzufuegenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelHinzufuegenActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelQueryService_3.7",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelQueryService_3.9",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelQueryService_3.8",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelQueryService_3.9",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.CLR.Buendel.MesswertbuendelVerwaltenActivityService_3.7",
+      "successor": "Schleupen.CS.MDM.MWM.CLR.MesswertbuendelVerwaltenActivityService_3.8",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-09",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Korrekturen.ZaehlwerkMessabschnitte.UpdateTAF2ZaehlwerkVersandAnMarktActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1700,6 +1780,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeRueckabwicklungErfolgreichEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lwg.LieferantenwechselEntityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -1984,6 +2072,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugg.AnmeldungNetznutzungErstellenEventService_3.0",
+      "successor": "Schleupen.CS.wgp.ugg.AnmeldungNetznutzungErstellenEventService_3.1",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-11",
       "is-disruptive": false
     },
     {
