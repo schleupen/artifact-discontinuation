@@ -234,13 +234,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.63",
-      "successor": null,
-      "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlageAendernActivityService_3.9",
       "successor": null,
       "discontinuation-version": "HV24",
