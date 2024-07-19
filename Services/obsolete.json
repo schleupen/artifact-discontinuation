@@ -1755,6 +1755,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungsanforderungQueryService_3.2",
+      "successor": "Schleupen.CS.MHS.SMG.Parametrierung.ParametrierungsanforderungQueryService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-17",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.mlf.bag.BestellungAenderungPrognosegrundlageAbgebrochenEventService_3.0",
       "successor": "Schleupen.CS.mlf.bag.BestellungAenderungPrognosegrundlageAbbruchEventService_3.0",
       "discontinuation-version": "SV25",
