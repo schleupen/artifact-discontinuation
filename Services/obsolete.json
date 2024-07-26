@@ -3,6 +3,22 @@
   "format-version": "schleupen.artifactdiscontinuation.services.obsolete_1.0",
   "artifacts": [
     {
+      "artifact-id": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenProcessService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.ael.aba.AbschlagsbelegeAbgebenProcessService_3.2",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -651,6 +667,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.BestandteilEntityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.ArtikelId.VerwaltenActivityService_3.3",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1203,6 +1227,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.8",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.AbschlagsreferenzenAendernQueryService_3.4",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1292,6 +1324,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungstypen.EntityService_3.3",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.4",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
