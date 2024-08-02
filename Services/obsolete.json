@@ -499,6 +499,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurBeendigungDerZuordnungVerteilenActivityService_3.1",
+      "successor": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungVerteilenActivityService_3.0",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-07-29",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Datenformatobjekte.UtilmdDatenformatobjektQueryService_3.5",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -660,14 +668,6 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.BestandteilEntityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.BestandteilEntityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -1739,6 +1739,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.Energiedaten.EnergiedatenQueryService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.Energiedaten.EnergiedatenQueryService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.MarktkommunikationKontexte.MarktkommunikationKontextQueryService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -2000,6 +2008,86 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncActivityService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncServiceCompletedEventService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncServiceCompletedEventService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncServiceProcessService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.AsyncServiceProcessService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.HostActivationTestProcessService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.HostActivationTestProcessService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.ImitatingInfrastructureProcessServiceActivityService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.ImitatingInfrastructureProcessServiceActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.ImitatingProcessServiceActivityService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.ImitatingProcessServiceActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalIntermediateEventProcessService_3.3",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalIntermediateEventProcessService_3.4",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalIntermediateEventTestEventService_3.3",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalIntermediateEventTestEventService_3.4",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalStartEventTestEventService_3.2",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.SignalStartEventTestEventService_3.3",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.WriteTraceProcessService_3.1",
+      "successor": "Schleupen.CS.PI.SB.Tests.WorkflowHosting.WriteTraceProcessService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-01",
       "is-disruptive": false
     },
     {
