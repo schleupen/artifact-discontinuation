@@ -1,22 +1,5 @@
 {
   "document-type": "schleupen.artifactlifecycle.cmdlets.obsolete",
   "format-version": "schleupen.artifactlifecycle.cmdlets.obsolete_1.0",
-  "artifacts": [
-    {
-      "command": "Set-CSFeature",
-      "successor": "Enable-CSFeature",
-      "discontinuation-version": "WV24",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-06-20",
-      "is-disruptive": false
-    },
-    {
-      "command": "Remove-CSFeature",
-      "successor": "Disable-CSFeature",
-      "discontinuation-version": "WV24",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-06-20",
-      "is-disruptive": false
-    }
-  ]
+  "artifacts": []
 }
