@@ -3,6 +3,13 @@
   "format-version": "schleupen.artifactlifecycle.cmdlets.removed_1.0",
   "artifacts": [
     {
+      "command": "Edit-CSScheduledService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "command": "Get-SqlServerName",
       "successor": null,
       "discontinuation-version": "HV24",
@@ -17,16 +24,23 @@
       "is-disruptive": false
     },
     {
-      "command": "Edit-CSScheduledService_3.0",
+      "command": "New-TransientSubscription_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
       "discontinuation-date": null,
       "is-disruptive": false
     },
     {
-      "command": "New-TransientSubscription_3.0",
-      "successor": null,
-      "discontinuation-version": "HV24",
+      "command": "Remove-CSFeature",
+      "successor": "Disable-CSFeature",
+      "discontinuation-version": "WV24",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "command": "Set-CSFeature",
+      "successor": "Enable-CSFeature",
+      "discontinuation-version": "WV24",
       "discontinuation-date": null,
       "is-disruptive": false
     }
