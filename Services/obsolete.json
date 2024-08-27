@@ -443,6 +443,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.5",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-23",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.RemadvDatenformatobjektQueryService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -891,6 +899,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.FreigegebeneTarifvarianten.QueryService_3.11",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.FreigegebeneTarifvarianten.QueryService_3.8",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -979,6 +995,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preislisten.Vertriebskanaele.EntityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.61",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -988,6 +1012,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.62",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.63",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -1040,6 +1072,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.BonusMalusReservierungBearbeitenActivityService_3.4",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.BonusMalusReservierungBearbeitenActivityService_3.5",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-26",
       "is-disruptive": false
     },
     {
@@ -2096,14 +2136,6 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationStammdatenGeaendertEventService_3.0",
-      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationStammdatenGeaendertEventService_3.1",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-08-22",
       "is-disruptive": false
     },
     {
