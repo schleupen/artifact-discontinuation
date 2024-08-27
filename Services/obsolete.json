@@ -1109,7 +1109,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.66",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
@@ -2069,7 +2069,7 @@
     {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.12",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
