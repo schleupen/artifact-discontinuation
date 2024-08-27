@@ -3115,6 +3115,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.0",
+      "successor": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-27",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.1",
       "discontinuation-version": "SV25",
