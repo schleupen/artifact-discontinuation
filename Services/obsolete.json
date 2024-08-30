@@ -435,6 +435,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.3",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-29",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.3",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1075,11 +1083,11 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.BonusMalusReservierungBearbeitenActivityService_3.4",
-      "successor": "Schleupen.CS.AP.VTM.Vertraege.BonusMalusReservierungBearbeitenActivityService_3.5",
-      "discontinuation-version": "HV25",
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.VerwaltenActivityService_3.63",
+      "successor": null,
+      "discontinuation-version": "FV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-08-26",
+      "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
     {
@@ -1384,6 +1392,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsmonitor.EntityDetailSuchenActivityService_3.2",
+      "successor": "Schleupen.CS.FW.BST.Buchungsmonitor.EntityDetailSuchenActivityService_3.3",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-28",
       "is-disruptive": false
     },
     {
@@ -1704,6 +1720,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Geschaeftsvorfallbelege.LesenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.REB.Geschaeftsvorfallbelege.LesenActivityService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-28",
       "is-disruptive": false
     },
     {
@@ -2136,6 +2160,22 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.GeraetewechselDurchfuehrenActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.GeraetewechselDurchfuehrenActivityService_3.3",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-28",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.3",
+      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.4",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-28",
       "is-disruptive": false
     },
     {
@@ -2768,6 +2808,14 @@
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.0",
+      "successor": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-28",
       "is-disruptive": false
     },
     {
