@@ -1403,6 +1403,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AuswaehlenQueryService_3.7",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.AuswaehlenQueryService_3.8",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-02",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.VertragsartenErmittelnActivityService_3.4",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1536,6 +1544,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.eeg.evg.abf.AbschlagPlanAendernProcessService_3.4",
+      "successor": "Schleupen.CS.eeg.evg.abf.AbschlagPlanAendernProcessService_3.5",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-01",
       "is-disruptive": false
     },
     {
@@ -1723,11 +1739,27 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.QueryService_3.9",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.BST.KorrigiertePortionZuruecksetzenActivityService_3.2",
       "successor": "Schleupen.CS.FW.BST.KorrigiertePortionZuruecksetzenActivityService_3.3",
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-12",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-09-30",
       "is-disruptive": false
     },
     {
@@ -1924,14 +1956,6 @@
     },
     {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungsmodelle.EntityService_3.1",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.5",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -2344,6 +2368,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MesssystemErmittelnQueryService_3.0",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.MesssystemErmittelnQueryService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-09-30",
       "is-disruptive": false
     },
     {
