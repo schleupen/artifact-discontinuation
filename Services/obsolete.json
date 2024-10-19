@@ -203,6 +203,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerVerwaltenActivityService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-11",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.FreigegebenEventService_3.2",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -1131,6 +1139,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preismanagement.Preislisten.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Preismanagement.Preislisten.EntityService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.61",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1611,6 +1627,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.BilanzierungsrelevanteMalodatenQueryService_3.0",
+      "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.BilanzierungsrelevanteMalodatenQueryService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-15",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Gas.BilanzierungsrelevanteMalodatenEntityService_3.2",
       "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodatenEntityService_3.3",
       "discontinuation-version": "SV25",
@@ -1635,6 +1659,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Gas.BilanzierungsrelevanteMalodatenErfassenActivityService_3.2",
+      "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Gas.BilanzierungsrelevanteMalodatenErfassenActivityService_3.3",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-15",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Strom.BilanzierungsrelevanteMalodatenEntityService_3.2",
       "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Strom.BilanzierungsrelevanteMalodatenEntityService_3.3",
       "discontinuation-version": "SV25",
@@ -1648,6 +1680,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-04",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Strom.VersandrelevanteDatenQueryService_3.0",
+      "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.Strom.VersandrelevanteDatenQueryService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-15",
       "is-disruptive": false
     },
     {
@@ -1696,6 +1736,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-04",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Temperaturmessstellen.EntityService_3.0",
+      "successor": "Schleupen.CS.EL.AUB.Temperaturmessstellen.EntityService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-15",
       "is-disruptive": false
     },
     {
@@ -1936,6 +1984,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Zahllaufverarbeitungen.PersonenkontenPostenAbgabeActivityService_3.3",
+      "successor": "Schleupen.CS.FW.NBP.Zahllaufverarbeitungen.GeschaeftsvorfallbelegAnlegenActivityService_3.0",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-15",
       "is-disruptive": false
     },
     {
@@ -2212,6 +2268,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.7",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.8",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -2760,6 +2824,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.sdm.Lokationsbuendelstruktur.ExportiereNichtLbsZugewieseneMaMelosActivityService_3.0",
+      "successor": "Schleupen.CS.mwm.sdm.Lokationsbuendelstruktur.ExportiereNichtLbsZugewieseneMaMelosActivityService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-14",
       "is-disruptive": false
     },
     {
