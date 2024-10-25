@@ -3,6 +3,14 @@
   "format-version": "schleupen.artifactdiscontinuation.services.obsolete_1.0",
   "artifacts": [
     {
+      "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplanAnzeigenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenActivityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -80,6 +88,14 @@
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-19",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BI.DataWarehouse.InstallierenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BI.DataWarehouse.InstallierenActivityService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-24",
       "is-disruptive": false
     },
     {
@@ -1099,6 +1115,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragVersandrelevantGeandertEventService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragVersandrelevantGeandertEventService_3.1",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-22",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.VertraegeFuerNetzbetreiberQueryService_3.0",
       "successor": null,
       "discontinuation-version": "SV25",
@@ -1555,6 +1579,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kalkulationen.KalkulationslaufDetailQueryService_3.13",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Kalkulationen.KalkulationslaufDetailQueryService_3.14",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-22",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.BiomasseKategorien.EntityService_3.10",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1619,6 +1651,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EL.AUB.Bilanzierungsgebiete.BilanzierungsgebietVerwaltenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.Bilanzierungsgebiete.EntityService_3.2",
       "successor": "Schleupen.CS.EL.AUB.Bilanzierungsgebiete.EntityService_3.3",
       "discontinuation-version": "HV25",
@@ -1632,6 +1672,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-15",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.BilanzierungsrelevanteMalodatenQueryService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.BilanzierungsrelevanteMalodaten.BilanzierungsrelevanteMalodatenQueryService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-24",
       "is-disruptive": false
     },
     {
@@ -1712,6 +1760,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-24",
       "is-disruptive": false
     },
     {
@@ -2547,6 +2603,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.KopfdatenQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.3",
       "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.4",
       "discontinuation-version": "HV25",
@@ -2824,6 +2888,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.mml.mae.MesswertanforderungErfassenActivityService_3.1",
+      "successor": "Schleupen.CS.mwm.mml.mae.MesswertanforderungErfassenActivityService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-10-22",
       "is-disruptive": false
     },
     {
