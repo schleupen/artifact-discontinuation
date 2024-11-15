@@ -156,10 +156,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.8",
-      "successor": null,
-      "discontinuation-version": "FV25",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.9",
+      "discontinuation-version": "HV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
+      "obsolete-since": "2024-11-15",
       "is-disruptive": false
     },
     {
@@ -1371,6 +1371,22 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.ZD.Lokationen.EntityService_3.1",
+      "successor": "Schleupen.CS.AP.ZD.Lokationen.EntityService_3.2",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-14",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.ZD.Lokationen.LokationPruefenActivityService_3.3",
+      "successor": "Schleupen.CS.AP.ZD.Lokationen.LokationPruefenActivityService_3.4",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-11",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.1",
       "discontinuation-version": "HV25",
@@ -2340,6 +2356,14 @@
     },
     {
       "artifact-id": "Schleupen.CS.gpk.vtm.Stammdatenaenderung.StammdatenAenderungPruefenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.itp.AnfrageVerarbeitetEventService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -3336,6 +3360,14 @@
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.PBV.Abrechnung.TeilrechnungPersistierenActivityServiceActivityService_3.2",
+      "successor": "Schleupen.CS.VA.PBV.Abrechnung.TeilrechnungPersistierenActivityServiceActivityService_3.3",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-13",
       "is-disruptive": false
     },
     {
