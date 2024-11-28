@@ -1109,13 +1109,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.PruefschritteErzeugenUndPruefungenStartenActivityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.QueryService_3.10",
       "successor": null,
       "discontinuation-version": "FV25",
