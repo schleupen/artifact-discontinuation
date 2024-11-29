@@ -1027,6 +1027,22 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.ZD.Personenrollen.PersonenrolleActivityService_3.3",
+      "successor": "Schleupen.CS.AP.ZD.Personenrollen.PersonenrolleActivityService_3.4",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-28",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.ZD.Personenrollen.PersonenrolleActivityService_3.4",
+      "successor": "Schleupen.CS.AP.ZD.Personenrollen.PersonenrolleActivityService_3.5",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-28",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergebeDatenDerMeLoAn20ActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.sbs.UebergebeDatenDerMeLoAn20ActivityService_3.1",
       "discontinuation-version": "HV25",
@@ -2008,6 +2024,22 @@
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-04-29",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.EntityService_3.1",
+      "successor": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.EntityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-28",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.ErstellenOderAktualisierenActivityService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.ErstellenOderAktualisierenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-28",
       "is-disruptive": false
     },
     {
