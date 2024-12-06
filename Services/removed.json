@@ -542,6 +542,13 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.66",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.67",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.Validierung.LastprofilValidierungsErgebnisAuswertenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1249,13 +1256,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.1",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.EntityService_3.1",
       "successor": null,
       "discontinuation-version": "HV24",
@@ -1294,6 +1294,13 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.BerechnungsformelEmpfangenActivityService_3.2",
       "successor": null,
       "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.12",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
+      "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "is-disruptive": false
     },
@@ -2061,23 +2068,9 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw.bann.MwmApiActivityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStartenProcessService_3.1",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStornierungErfolgreichEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "is-disruptive": false
     },
@@ -2096,23 +2089,9 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lwg.LieferantenwechselEntityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.mlf.lwg.lwg.LieferantenwechselGasBeendetEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.mlf.lwg.lwg.LieferantenwechselGasStartenProcessService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "is-disruptive": false
     },
@@ -2176,13 +2155,6 @@
       "artifact-id": "Schleupen.CS.wgp.ugg.AnmeldungNetznutzungVerworfenEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungErstellenEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
       "discontinuation-date": null,
       "is-disruptive": false
     }
