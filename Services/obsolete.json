@@ -955,6 +955,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.BestandteilIdentifikatorenAmTarifQueryService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Tarife.BestandteilidentifikatorenAmTarifQueryService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-06",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.63",
       "successor": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.64",
       "discontinuation-version": "WV25",
@@ -1003,6 +1011,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.66",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.67",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-08-22",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.67",
       "successor": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.68",
       "discontinuation-version": "WV25",
@@ -1032,14 +1048,6 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-04",
-      "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.VertragsstatusQueryService_3.0",
-      "successor": "Schleupen.CS.AP.VTM.Vertraege.VertragsstatusQueryService_3.1",
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-12-02",
       "is-disruptive": false
     },
     {
@@ -1208,6 +1216,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-02",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AuswaehlenQueryService_3.8",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.AuswaehlenQueryService_3.9",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-06",
       "is-disruptive": false
     },
     {
@@ -1904,6 +1920,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-21",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.12",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-22",
       "is-disruptive": false
     },
     {
