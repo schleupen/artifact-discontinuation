@@ -1955,6 +1955,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.12",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-11-22",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.1",
       "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.3",
       "discontinuation-version": "HV25",
