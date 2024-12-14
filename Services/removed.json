@@ -1291,13 +1291,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.12",
-      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationAktivierenActivityService_3.2",
       "successor": null,
       "discontinuation-version": "FV25",
