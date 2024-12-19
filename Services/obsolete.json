@@ -2435,6 +2435,14 @@
       "is-disruptive": true
     },
     {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Deployment.SwitchHostingActivityService_3.0",
+      "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Deployment.SwitchHostingActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-19",
+      "is-disruptive": true
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.ReportWorkflowDeploymentStateActivityService_3.0",
       "successor": "Schleupen.CS.PI.BPE.Workflows.ReportWorkflowDeploymentStateActivityService_3.1",
       "discontinuation-version": "WV25",
