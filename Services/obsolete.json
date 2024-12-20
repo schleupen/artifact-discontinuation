@@ -459,6 +459,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.5",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-19",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ProzessmeldungVerwaltenService_3.1",
       "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungVerwaltenActivityService_3.5",
       "discontinuation-version": "HV25",
@@ -2120,6 +2128,22 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-11-25",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.EntityService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.EntityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-19",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.KopfdatenQueryService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.KopfdatenQueryService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-12-19",
       "is-disruptive": false
     },
     {
