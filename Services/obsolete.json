@@ -475,11 +475,35 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenEinerKonfiguration.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenEinerKonfiguration.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-06",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.EinrichtungenKonfigurationZuordnungLfVonNb.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.EinrichtungenKonfigurationZuordnungLfVonNb.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-06",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ProzessmeldungVerwaltenService_3.1",
       "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungVerwaltenActivityService_3.5",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-04",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ReklamationenEinerKonfiguration.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ReklamationenEinerKonfiguration.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-06",
       "is-disruptive": false
     },
     {
@@ -2395,6 +2419,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.PI.BPE.BusinessProcesses.RecoverWorkflowsActivityService_3.1",
+      "successor": "Schleupen.CS.PI.BPE.BusinessProcesses.RecoverWorkflowsActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-06",
+      "is-disruptive": true
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskAggregatingQueryService_3.6",
       "successor": "Schleupen.CS.PI.BPE.Tasks.TaskAggregatingQueryService_3.7",
       "discontinuation-version": "SV25",
@@ -2488,6 +2520,22 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Management.WorkflowInstanceInfoQueryService_3.0",
+      "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Management.WorkflowInstanceInfoQueryService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Protocol.WriteProtocolWorkflowInstancesActivityService_3.2",
+      "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Legacy.WriteProtocolWorkflowInstancesActivityService_3.0",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
       "is-disruptive": true
     },
     {
