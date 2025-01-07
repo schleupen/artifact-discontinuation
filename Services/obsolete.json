@@ -539,11 +539,123 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVersendenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVerwaltenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangVerwaltenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.ProzessmeldungVerwaltenService_3.0",
       "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungVerwaltenActivityService_3.5",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-04",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Stammdatenaenderungen.StammdatenaenderungDurchFristablaufAkzeptiertEventService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Stammdatenaenderungen.StammdatenaenderungDurchFristablaufAkzeptiertEventService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Stammdatenaenderungen.StammdatenaenderungEmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Stammdatenaenderungen.StammdatenaenderungEmpfangenEventService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.AnwendungsfehlerFuerStammdatenaenderungEmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.AnwendungsfehlerFuerStammdatenaenderungEmpfangenEventService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.GeraetewechselAbbrechenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.GeraetewechselAbbrechenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungAntwortEmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungAntwortEmpfangenEventService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungAntwortVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungAntwortVerwaltenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungBeantwortenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungBeantwortenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungsempfangBestaetigtEventService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungsempfangBestaetigtEventService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungVersendenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungVersendenActivityService_3.3",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungVersendenActivityService_3.3",
+      "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungenVomMsbMitAbhaengigkeiten.VersendenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungVerteiltEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.StammdatenaenderungenGeraetewechsel.StammdatenaenderungVerteiltEventService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
       "is-disruptive": false
     },
     {
@@ -1248,6 +1360,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-11-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
       "is-disruptive": false
     },
     {
@@ -2569,6 +2689,14 @@
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
       "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.WorkflowFormatActivityService_3.1",
+      "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Management.WorkflowFormatActivityService_3.0",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-07",
+      "is-disruptive": false
     },
     {
       "artifact-id": "Schleupen.CS.PI.SB.Sessions.CreateSessionTokenActivityService_3.4",
