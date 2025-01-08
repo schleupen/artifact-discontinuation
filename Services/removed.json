@@ -810,7 +810,7 @@
     {
       "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportLaufActivityService_3.1",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "is-disruptive": false
     },
