@@ -1627,6 +1627,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportLaufActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.1",
       "successor": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.2",
       "discontinuation-version": "HV25",
