@@ -808,13 +808,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportLaufActivityService_3.1",
-      "successor": null,
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.EL.AUB.GasProfildefinitionen.EntityService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
