@@ -129,6 +129,20 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.ReklamationenZaehlzeitdefinition.AblehnungReklamationZaehlzeitdefinitionVersendenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
