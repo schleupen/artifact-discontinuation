@@ -1475,6 +1475,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EAR.Daten.EntityService_3.2",
+      "successor": "Schleupen.CS.EEG.EAR.Daten.EntityService_3.3",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-20",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EAR.Daten.QueryService_3.1",
       "successor": "Schleupen.CS.EEG.EAR.Daten.QueryService_3.2",
       "discontinuation-version": "HV25",
@@ -2668,7 +2676,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.AllowedSystemUsagesForWorkflowQueryService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.AllowedSystemUsagesForWorkflowQueryService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2676,7 +2684,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.AsyncWorkflowDeploymentActivityService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.AsyncWorkflowDeploymentActivityService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2684,7 +2692,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.CancelExpiredWorkflowsActivityService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.CancelExpiredWorkflowsActivityService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2692,7 +2700,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.CleanOrphanedWorkflowExpressionAssembliesActivityService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.CleanOrphanedWorkflowExpressionAssembliesActivityService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2700,7 +2708,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.DoManualRetryEventService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.DoManualRetryEventService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2708,7 +2716,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Management.ManageWorkflowInstancesActivityService_3.1",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.Management.ManageWorkflowInstancesActivityService_3.2",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2716,7 +2724,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Management.PrioritizeWorkflowActivityService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.Management.PrioritizeWorkflowActivityService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2724,7 +2732,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Management.RecoverWorkflowInstancesActivityService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.Management.RecoverWorkflowInstancesActivityService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2732,7 +2740,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Management.WorkflowInstanceInfoQueryService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.Management.WorkflowInstanceInfoQueryService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2764,7 +2772,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.ReportWorkflowDeploymentStateActivityService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.ReportWorkflowDeploymentStateActivityService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2772,7 +2780,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.ResumeSuspendedWorkflowEventService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.ResumeSuspendedWorkflowEventService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2780,7 +2788,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.ResumeSuspendedWorkflowsActivityService_3.0",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.ResumeSuspendedWorkflowsActivityService_3.1",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
@@ -2788,7 +2796,7 @@
     },
     {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.WorkflowDeploymentActivityService_3.2",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.WorkflowDeploymentActivityService_3.3",
+      "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
