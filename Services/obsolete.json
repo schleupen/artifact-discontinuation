@@ -1395,6 +1395,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.StammdatenprozessbuendelQueryService_3.3",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.StammdatenprozessbuendelQueryService_3.4",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-21",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenBKRAVerbrauchendeMaloAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenBKRAVerbrauchendeMaloAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "WV25",
@@ -1544,6 +1552,14 @@
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-21",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
       "is-disruptive": false
     },
     {
@@ -1744,6 +1760,54 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-15",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenDetailVergleichActivityService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenDetailVergleichActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenImportierenActivityService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenImportierenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenQueryService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenQueryService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenTagValuesQueryService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenTagValuesQueryService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenVergleichenActivityService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenVergleichenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenVergleichenErgebnisQueryService_3.1",
+      "successor": "Schleupen.CS.EL.AUB.Zeitreihen.ZeitreihenVergleichenErgebnisQueryService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-22",
       "is-disruptive": false
     },
     {
@@ -2808,6 +2872,22 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.DP.Hosting.Nomad.BootstrappingActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-21",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.DP.Hosting.Nomad.ManageJobsActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-01-21",
       "is-disruptive": false
     },
     {
