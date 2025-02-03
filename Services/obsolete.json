@@ -1659,6 +1659,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.BiomasseKategorien.EntityService_3.13",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.BiomasseKategorien.EntityService_3.14",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-03",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.BiomasseKategorien.EntityService_3.12",
       "successor": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.BiomasseKategorien.EntityService_3.13",
       "discontinuation-version": "HV25",
@@ -1672,6 +1680,22 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-08",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.SolarKategorien.EntityService_3.12",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.SolarKategorien.EntityService_3.13",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-03",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.WindKategorien.EntityService_3.11",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Kategorien.WindKategorien.EntityService_3.12",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-03",
       "is-disruptive": false
     },
     {
