@@ -393,16 +393,6 @@
       "is-disruptive": false
     },
     {
-      "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Generation.Cli",
-      "package-version": "[3.41.1.3,3.42)",
-      "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Generation.Cli",
-      "successor-version": "[3.42,)",
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-02-11",
-      "is-disruptive": false
-    },
-    {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Testing",
       "package-version": "[3.41.1.3,3.42)",
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Testing",
