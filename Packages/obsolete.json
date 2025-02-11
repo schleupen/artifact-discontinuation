@@ -4,9 +4,9 @@
     "artifacts": [
         {
             "package-id": "Schleupen.CS.PI.Framework.Core",
-            "package-version": "[3.41.1.3,3.42)",
+            "package-version": "[3.42.1.3,3.43)",
             "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.UserCodeClient",
-            "successor-version": "[3.42,)",
+            "successor-version": "[3.43,)",
             "discontinuation-version": "FV25",
             "obsolete-since": "2024-02-01",
             "is-disruptive": false
