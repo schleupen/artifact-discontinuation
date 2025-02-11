@@ -1579,6 +1579,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AbschlagWichtung.EntityService_3.4",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.AbschlagWichtung.EntityService_3.5",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-10",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AnlageEntityService_3.23",
       "successor": "Schleupen.CS.EEG.EEG.Anlagen.AnlageEntityService_3.24",
       "discontinuation-version": "HV25",
@@ -2048,6 +2056,22 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-11-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AvisAbgabeStatusSetzenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AvisAbgabeStatusSetzenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-10",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AvisAbgabeStatusSetzenActivityService_3.2",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AvisStatusSetzenActivityService_3.0",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-10",
       "is-disruptive": false
     },
     {
@@ -3008,6 +3032,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-01-07",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.DP.Deployment.Hosts.EntityService_3.3",
+      "successor": "Schleupen.CS.PI.DP.Deployment.Hosts.EntityService_3.4",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-10",
       "is-disruptive": false
     },
     {
