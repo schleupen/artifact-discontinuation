@@ -1963,14 +1963,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AngenommenEventService_3.1",
-      "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AngenommenEventService_3.2",
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-02-07",
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.BelegeAnreichernActivityService_3.4",
       "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.BelegeAnreichernActivityService_3.5",
       "discontinuation-version": "WV25",
