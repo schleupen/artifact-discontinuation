@@ -2691,14 +2691,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.bag.BestellungAenderungPrognosegrundlageAbgebrochenEventService_3.0",
-      "successor": "Schleupen.CS.mlf.bag.BestellungAenderungPrognosegrundlageAbbruchEventService_3.0",
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-06-19",
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.1",
       "discontinuation-version": "SV25",
