@@ -38,6 +38,13 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.9",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.12",
       "successor": null,
       "discontinuation-version": "HV24",
@@ -270,6 +277,13 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Datenformatobjekte.UtilmdDatenformatobjektQueryService_3.5",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomMsbAnLf.VersendenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
@@ -900,6 +914,13 @@
     },
     {
       "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AbschlagAnnehmenActivityService_3.9",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AngenommenEventService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
       "discontinuation-date": null,
