@@ -211,6 +211,22 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.WAA.WebApiAnfragen.VerwaltenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MK.WAA.WebApiAnfragen.VerwaltenActivityService_3.1",
       "discontinuation-version": "HV25",
@@ -733,7 +749,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.BestaetigungAnnVorlageAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.BestaetigungAnnVorlageAnlegenActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-02",
       "is-disruptive": false
@@ -741,7 +757,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldeanfrageDesNetzbetreibersAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldeanfrageDesNetzbetreibersAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -749,7 +765,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldeanfrageDesNetzbetreibersEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldeanfrageDesNetzbetreibersEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -757,7 +773,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldungNetznutzungEntityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAbmeldungNetznutzungEntityService_3.4",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -765,7 +781,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-27",
       "is-disruptive": false
@@ -773,7 +789,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAnmeldungNetznutzungEntityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAnmeldungNetznutzungEntityService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -781,7 +797,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -789,7 +805,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -797,7 +813,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungEntityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungKuendigungEntityService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -805,7 +821,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldeanfrageDesNetzbetreibersEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldeanfrageDesNetzbetreibersEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -813,7 +829,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldungNetznutzungAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -821,7 +837,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldungNetznutzungEntityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAbmeldungNetznutzungEntityService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -829,7 +845,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnfrageNachStornierungAnreichernActivityService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-27",
       "is-disruptive": false
@@ -837,7 +853,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-27",
       "is-disruptive": false
@@ -845,7 +861,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungEntityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungEntityService_3.4",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -853,7 +869,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldeanfrageDesNetzbetreibersAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldeanfrageDesNetzbetreibersAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -861,7 +877,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldeanfrageDesNetzbetreibersEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldeanfrageDesNetzbetreibersEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -869,7 +885,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldungNetznutzungEntityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldungNetznutzungEntityService_3.4",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -877,7 +893,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldungNetznutzungVerteilenActivityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAbmeldungNetznutzungVerteilenActivityService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -885,7 +901,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-27",
       "is-disruptive": false
@@ -893,7 +909,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungKuendigungAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungKuendigungAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -901,7 +917,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungKuendigungEntityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungKuendigungEntityService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -909,7 +925,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungUeberExistierendeZuordnungEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungUeberExistierendeZuordnungEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -917,7 +933,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurAufhebungEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurAufhebungEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -925,7 +941,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurBeendigungDerZuordnungEntityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurBeendigungDerZuordnungEntityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -933,7 +949,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungInformationsmeldungZurBeendigungDerZuordnungVerteilenActivityService_3.1",
       "successor": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungVerteilenActivityService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-07-29",
       "is-disruptive": false
@@ -941,7 +957,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungKuendigungAnreichernActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungKuendigungAnreichernActivityService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -949,7 +965,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungKuendigungEntityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungKuendigungEntityService_3.4",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -957,7 +973,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungVerwaltenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungVerwaltenActivityService_3.5",
-      "discontinuation-version": "HV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-04",
       "is-disruptive": false
@@ -1192,6 +1208,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-09-26",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.QueryService_3.16",
+      "successor": "Schleupen.CS.AP.VTM.Preise.QueryService_3.17",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-13",
       "is-disruptive": false
     },
     {
@@ -1963,6 +1987,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AngenommenEventService_3.1",
+      "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.AngenommenEventService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-07",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.BelegeAnreichernActivityService_3.4",
       "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.BelegeAnreichernActivityService_3.5",
       "discontinuation-version": "WV25",
@@ -2355,6 +2387,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.9",
+      "successor": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-13",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.2",
       "successor": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.3",
       "discontinuation-version": "HV25",
@@ -2467,6 +2507,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Energiedaten.GasEnergiemengenStornierenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Energiedaten.GasEnergiemengenStornierenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.CreatedEventService_3.1",
       "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.CreatedEventService_3.2",
       "discontinuation-version": "WV25",
@@ -2547,6 +2595,22 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwertauftraege.GasMesswertauftragQueryService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Messwertauftraege.GasMesswertauftragQueryService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.BrennwertUndZzahlUebernehmenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.BrennwertUndZzahlUebernehmenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.Einzelwerte.EinzelwertQueryService_3.2",
       "successor": "Schleupen.CS.MDM.MWM.Messwerte.Einezelwerte.EinzelwertQueryService_3.3",
       "discontinuation-version": "SV25",
@@ -2563,11 +2627,35 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.GasMesswerteErstellenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.GasMesswerteErstellenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.GasSpeicherbarkeitPruefenActivityService_3.0",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.GasSpeicherbarkeitPruefenActivityService_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.MarktkommunikationKontexte.MarktkommunikationKontextQueryService_3.0",
       "successor": "Schleupen.CS.MDM.MWM.Messwerte.MarktkommunikationKontexte.MarktkommunikationKontextQueryService_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-11-21",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.MesswertqualitaetVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.MesswertqualitaetVerwaltenActivityService_3.2",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-14",
       "is-disruptive": false
     },
     {
@@ -2693,7 +2781,7 @@
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -2701,7 +2789,7 @@
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -2717,7 +2805,7 @@
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -2733,7 +2821,7 @@
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.2",
       "successor": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.3",
-      "discontinuation-version": "HV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-15",
       "is-disruptive": false
@@ -3259,6 +3347,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.VA.RAE.Tarifstufen.EntityService_3.4",
+      "successor": "Schleupen.CS.VA.RAE.Tarifstufen.EntityService_3.5",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-13",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.VA.RAG.Messwertpruefung.MesswertpruefauftragAnlegenActivityService_3.3",
       "successor": "Schleupen.CS.VA.RAG.Messwertpruefung.MesswertpruefauftragAnlegenActivityService_3.4",
       "discontinuation-version": "HV25",
@@ -3301,7 +3397,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.aban.AbmeldeanfrageDesNetzbetreibersEmpfangenEventService_3.1",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AbmeldeanfrageDesNetzbetreibers.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3309,7 +3405,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAbmeldeanfrageDesNetzbetreibers.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3317,7 +3413,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.1",
-      "discontinuation-version": "HV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-28",
       "is-disruptive": false
@@ -3325,7 +3421,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3333,7 +3429,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldeanfrageDesNetzbetreibersVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAbmeldeanfrageDesNetzbetreibers.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3341,7 +3437,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungAbmeldungNetznutzungEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAbmeldungNetznutzung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3349,7 +3445,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungKuendigungErstellenEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.AblehnungKuendigungErstellenEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3357,7 +3453,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungKuendigungErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.AblehnungKuendigungErstelltEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3365,7 +3461,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungKuendigungNegativContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungKuendigungBeimAltenLieferanten.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3373,7 +3469,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungKuendigungPositivContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungKuendigungBeimAltenLieferanten.PositivContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3381,7 +3477,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AblehnungKuendigungVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungKuendigungBeimAltenLieferanten.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3389,7 +3485,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungErstellenEventService_3.2",
       "successor": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungErstellenEventService_3.3",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3397,7 +3493,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungErstelltEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3405,7 +3501,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungNegativContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AbmeldungNetznutzung.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3413,7 +3509,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungPositivContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AbmeldungNetznutzung.PositivContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3421,7 +3517,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AbmeldungNetznutzungVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AbmeldungNetznutzung.VersendenActivityService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3429,7 +3525,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.abnn.AbmeldungNetznutzungVerworfenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AbmeldungNetznutzung.AperakAkzeptiertEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3437,7 +3533,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungAbgelehntEventService_3.1",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAnmeldungNetznutzung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3445,7 +3541,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungBestaetigtEventService_3.1",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAnmeldungNetznutzung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3453,7 +3549,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungErstellenEventService_3.2",
       "successor": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungErstellenEventService_3.3",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3461,7 +3557,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungErstelltEventService_3.1",
       "successor": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungErstelltEventService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-06",
       "is-disruptive": false
@@ -3469,7 +3565,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungNegativContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungNetznutzung.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3477,7 +3573,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungPositivContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungNetznutzung.PositivContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3485,7 +3581,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungUeberfaelligEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungNetznutzung.UeberfaelligEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3493,7 +3589,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungNetznutzung.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3501,7 +3597,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.AnmeldungNetznutzungVerworfenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungNetznutzung.AperakAkzeptiertEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3517,7 +3613,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungContrlEmpfangenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3525,7 +3621,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungEmpfangenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3549,7 +3645,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungVersendetEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3557,7 +3653,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AblehnungAnfrageNachStornierungVerworfenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3573,7 +3669,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungErstellenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3589,7 +3685,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungVersendetEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3605,7 +3701,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungContrlEmpfangenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3613,7 +3709,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungEmpfangenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3637,7 +3733,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungVersendetEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3645,7 +3741,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungVerworfenEventService_3.0",
       "successor": null,
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-05-24",
       "is-disruptive": false
@@ -3653,7 +3749,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNBUeberfaelligEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAbmeldeanfrageDesNetzbetreibers.UeberfaelligEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3661,7 +3757,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAbmeldeanfrageDesNetzbetreibers.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3669,7 +3765,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstellenEventService_3.1",
-      "discontinuation-version": "HV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-27",
       "is-disruptive": false
@@ -3677,7 +3773,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersErstelltEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3685,7 +3781,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldeanfrageDesNetzbetreibersVersendetEventService_3.1",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAbmeldeanfrageDesNetzbetreibers.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3693,7 +3789,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungAbmeldungNetznutzungEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAbmeldungNetznutzung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3701,7 +3797,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungErstellenEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungErstellenEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3709,7 +3805,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungErstelltEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungErstelltEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3717,7 +3813,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungNegativContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungKuendigungBeimAltenLieferanten.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3725,7 +3821,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungPositivContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungKuendigungBeimAltenLieferanten.PositivContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3733,7 +3829,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.BestaetigungKuendigungVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungKuendigungBeimAltenLieferanten.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3741,7 +3837,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.iaz.InformationsmeldungZurAufhebungEinerZuordnungEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.InfomeldungZurAufhebungZukZuordnung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3749,7 +3845,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.InformationsmeldungUeberExistierendeZuordnungEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.InfomeldungUeberExistierendeZuordnung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3757,7 +3853,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.InformationsmeldungZurBeendigungDerZuordnungEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.InfomeldungZurBeendigungDerZuordnung.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3765,7 +3861,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteilenEventService_3.1",
       "successor": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteilenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3773,7 +3869,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteiltEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteiltEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3781,7 +3877,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.kdg.KuendigungIgnoriertEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.AbgebrochenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3789,7 +3885,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.kdg.KuendigungUpdatedEventService_3.0",
       "successor": "Schleupen.CS.wgp.ugp.kdg.KuendigungUpdatedEventService_3.1",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3797,7 +3893,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.kdg.KuendigungVerworfenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.VerworfenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3805,7 +3901,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungAbgelehntEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungKuendigungBeimAltenLieferanten.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3813,7 +3909,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungBestaetigtEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungKuendigungBeimAltenLieferanten.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3821,7 +3917,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungEmpfangenEventService_3.1",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.EmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3829,7 +3925,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungErstellenEventService_3.1",
       "successor": "Schleupen.CS.wgp.ugp.KuendigungErstellenEventService_3.2",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3845,7 +3941,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungNegativContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.NegativContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3853,7 +3949,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungPositivContrlEmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.PositivContrlEmpfangenEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3861,7 +3957,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungUeberfaelligEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.UeberfaelligEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
@@ -3869,7 +3965,7 @@
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.KuendigungVersendetEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.KuendigungBeimAltenLieferanten.VersendetEventService_3.0",
-      "discontinuation-version": "SV25",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "is-disruptive": false
