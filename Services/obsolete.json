@@ -35,6 +35,38 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.abr.ael.tsa.TarifstufeBearbeitenActivityService_3.3",
+      "successor": "Schleupen.CS.abr.ael.tsa.TarifstufeBearbeitenActivityService_3.4",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.ael.tsa.TarifstufeErstellenActivityService_3.2",
+      "successor": "Schleupen.CS.abr.ael.tsa.TarifstufeErstellenActivityService_3.3",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.ael.tsa.TarifstufeLesenActivityService_3.3",
+      "successor": "Schleupen.CS.abr.ael.tsa.TarifstufeLesenActivityService_3.4",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-16",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.ael.tsa.TarifstufeValidierenActivityService_3.2",
+      "successor": "Schleupen.CS.abr.ael.tsa.TarifstufeValidierenActivityService_3.3",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.ael.Vertraege.EnergievertragAktivierenProcessService_3.0",
       "successor": "Schleupen.CS.abr.ael.Vertraege.EnergievertragAktivierenProcessService_3.1",
       "discontinuation-version": "WV25",
@@ -144,6 +176,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-25",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.9",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.10",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-12",
       "is-disruptive": false
     },
     {
