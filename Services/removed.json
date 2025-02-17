@@ -38,13 +38,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.9",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.12",
       "successor": null,
       "discontinuation-version": "HV24",
