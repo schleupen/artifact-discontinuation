@@ -229,8 +229,8 @@
     {
       "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.FreigegebenEventService_3.2",
       "successor": null,
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-06-30",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -611,6 +611,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-25",
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungEntityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungEntityService_3.4",
       "discontinuation-version": "SV26",
@@ -736,6 +744,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-09",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomMsbAnLf.VersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-25",
+      "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
     {
@@ -2035,6 +2051,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-25",
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.ENM.MengenobjektHerkuenfte.MengenobjektHerkunftVerwaltenActivityService_3.2",
       "successor": "Schleupen.CS.MDM.ENM.MengenobjektHerkuenfte.MengenobjektHerkunftVerwaltenActivityService_3.3",
       "discontinuation-version": "WV25",
@@ -2307,6 +2331,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-25",
+      "obsolete-since": "2024-05-16",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.msb.vtm.Rechnungsabwicklung.Monitor.MarktlokationAngeboteVersendenActivityService_3.0",
       "successor": "Schleupen.CS.msb.vtm.Rechnungsabwicklung.Monitor.MarktlokationAngeboteVersendenActivityService_3.1",
       "discontinuation-version": "WV25",
@@ -2365,8 +2397,8 @@
     {
       "artifact-id": "Schleupen.CS.PI.AIF.Nummernkreise.NummernkreisActivityService_3.2",
       "successor": null,
-      "discontinuation-version": "SV28",
-      "discontinuation-date": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-12-31",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2568,6 +2600,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-11-20",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-25",
+      "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
     {
