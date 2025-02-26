@@ -528,13 +528,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomMsbAnLf.VersendenActivityService_3.1",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDerLokationsbuendelstruktur.VersendenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
