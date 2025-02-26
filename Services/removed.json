@@ -528,6 +528,13 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomMsbAnLf.VersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDerLokationsbuendelstruktur.VersendenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -2584,48 +2591,6 @@
       "discontinuation-version": "HV24",
       "discontinuation-date": null,
       "is-disruptive": false
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.AnwendungsfehlerFuerStammdatenaenderungIgnoriertEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungAbgelehntEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungLesenUndVersendenActivityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungNeuVersendetEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungVerarbeitetEventService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
-    },
-    {
-      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.UmgangMitAnwendungsfehlerErmittelnActivityService_3.0",
-      "successor": null,
-      "discontinuation-version": "FV25",
-      "discontinuation-date": "2025-08-23",
-      "is-disruptive": true
     },
     {
       "artifact-id": "Schleupen.CS.gpk.mpw.Einzelwertversand.EinzelwerteVersendenActivityService_3.0",
