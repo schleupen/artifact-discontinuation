@@ -347,6 +347,30 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteQueryService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteQueryService_3.3",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-25",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteQueryService_3.2",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteQueryService_3.3",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-25",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteSynchronisierenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteSynchronisierenActivityService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-25",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.ReklamationLastgangAblehnungVersendenActivityService_3.1",
       "discontinuation-version": "WV25",
@@ -1331,6 +1355,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.VertragsdatenEntityService_3.7",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.VertragsdatenEntityService_3.8",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-09-12",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.2",
       "discontinuation-version": "WV25",
@@ -1536,6 +1568,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-01-22",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.BelegeSuchenActivityService_3.8",
+      "successor": "Schleupen.CS.FW.BST.BelegeSuchenActivityService_3.9",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-02-25",
       "is-disruptive": false
     },
     {
@@ -1889,6 +1929,54 @@
       "discontinuation-date": null,
       "obsolete-since": "2024-08-16",
       "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.AnwendungsfehlerFuerStammdatenaenderungIgnoriertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungAbgelehntEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungLesenUndVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungNeuVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungVerarbeitetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.UmgangMitAnwendungsfehlerErmittelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "obsolete-since": "2025-02-24",
+      "is-disruptive": true
     },
     {
       "artifact-id": "Schleupen.CS.ksp.itp.AnfrageVerarbeitetEventService_3.1",
