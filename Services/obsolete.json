@@ -622,7 +622,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2118,7 +2118,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2134,7 +2134,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2174,7 +2174,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2518,7 +2518,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
@@ -2798,7 +2798,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-09-10",
+      "discontinuation-date": "2025-09-11",
       "obsolete-since": "2024-05-16",
       "is-disruptive": false
     },
