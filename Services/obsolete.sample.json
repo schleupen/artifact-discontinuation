@@ -6,15 +6,14 @@
             "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
             "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.3",
             "discontinuation-version": "HV24",
-            "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "obsolete-since": "2024-02-12"
         },
-		{
+        {
             "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.1",
             "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplaeneSuchenActivityService_3.2",
             "discontinuation-date": "2025-01-01",
             "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "disruption": "24hLFW"
         }
     ]
 }
