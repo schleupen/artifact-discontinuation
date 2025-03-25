@@ -6,8 +6,7 @@
             "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.0",
             "artifact-type": "DialogFlow",
             "successor": "Schleupen.CS.PI.BPE.Tasks.TaskIdent_3.1",
-            "discontinuation-version": "HV24",
-            "is-disruptive": false
+            "discontinuation-version": "HV24"
         }
     ]
 }

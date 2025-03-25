@@ -5,8 +5,7 @@
         {
             "command": "Set-Value",
             "successor": "Set-NewValue",
-            "discontinuation-version": "HV24",
-            "is-disruptive": false
+            "discontinuation-version": "HV24"
         }
     ]
 }

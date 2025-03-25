@@ -7,8 +7,7 @@
             "successor": "Schleupen.AS4.Connect.BusinessApi_1.4",
             "documentation": "https://developer-campus.de/tracks/integration/as4-connect-api/",
             "discontinuation-version": "HV24",
-            "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "obsolete-since": "2024-02-12"
         },
         {
             "artifact-id": "Schleupen.AS4.Connect.BusinessApi_1.2",
@@ -16,7 +15,7 @@
             "documentation": "https://developer-campus.de/tracks/integration/as4-connect-api/",
             "discontinuation-date": "2025-01-01",
             "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "disruption": "24hLFW"
         }
     ]
 }

@@ -8,8 +8,7 @@
             "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.UserCodeClient",
             "successor-version": "[3.41,)",
             "discontinuation-version": "HV24",
-            "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "obsolete-since": "2024-02-12"
         },
         {
             "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Protocol",
@@ -18,7 +17,7 @@
             "successor-version": "[3.40.1.6,)",
             "discontinuation-version": "HV24",
             "obsolete-since": "2024-02-12",
-            "is-disruptive": false
+            "disruption": "24hLFW"
         }
     ]
 }
