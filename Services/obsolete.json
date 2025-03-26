@@ -11,14 +11,6 @@
       "is-disruptive": false
     },
     {
-      "artifact-id": "Schleupen.CS.abc.def.TestActivityService_3.0",
-      "successor": "Schleupen.CS.abc.def.TestActivityService_3.1",
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2024-10-24",
-      "disruption": "24hLFW"
-    },
-    {
       "artifact-id": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenActivityService_3.1",
       "successor": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenActivityService_3.2",
       "discontinuation-version": "WV25",
