@@ -16,7 +16,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-24",
-      "is-disruptive": false
+      "disruption": "24hLFW"
     },
     {
       "artifact-id": "Schleupen.CS.abr.abm.dok.BestaetigungsschreibenErzeugenActivityService_3.1",
