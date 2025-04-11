@@ -99,6 +99,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.ael.Vertraege.EnergieVertragAktivierungFehlerhaftEventService_3.0",
+      "successor": "Schleupen.CS.abr.ael.Vertraege.EnergieVertragAktivierungFehlerhaftEventService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-04-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.1",
       "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.2",
       "discontinuation-version": "WV25",
@@ -694,7 +702,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1408,6 +1416,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-01-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-04-11",
       "disruption": null
     },
     {
@@ -2334,7 +2350,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2366,7 +2382,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2414,7 +2430,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2766,7 +2782,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -3070,7 +3086,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-01",
+      "discontinuation-date": "2025-10-08",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
