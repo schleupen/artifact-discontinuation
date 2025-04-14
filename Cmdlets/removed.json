@@ -31,13 +31,6 @@
       "is-disruptive": false
     },
     {
-      "command": "Remove-CSFeature",
-      "successor": "Disable-CSFeature",
-      "discontinuation-version": "WV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
-    },
-    {
       "command": "Set-CSFeature",
       "successor": "Enable-CSFeature",
       "discontinuation-version": "WV24",
