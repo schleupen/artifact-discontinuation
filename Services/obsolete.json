@@ -710,7 +710,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2374,7 +2374,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2406,7 +2406,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2462,7 +2462,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2814,7 +2814,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2864,6 +2864,14 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.NM.IOP.KonzessionsabgabeAenderungErforderlichEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-04-30",
       "disruption": null
     },
     {
@@ -3118,7 +3126,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-10-22",
+      "discontinuation-date": "2025-10-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -3208,6 +3216,14 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-07-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.RAE.Rechnungssimulation.AbrechnungsbestandVervollstaendigenActivityService_3.7",
+      "successor": "Schleupen.CS.VA.RAE.Rechnungssimulation.AbrechnungsbestandVervollstaendigenActivityService_3.8",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-04-30",
       "disruption": null
     },
     {
