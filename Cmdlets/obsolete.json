@@ -8,7 +8,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Enable-DeployFakeWorkflows",
@@ -16,7 +16,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Install-Workflows",
@@ -24,7 +24,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Resume-SuspendedWorkflows",
@@ -32,7 +32,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Select-SuspendedWorkflows",
@@ -40,7 +40,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Select-Workflows",
@@ -48,7 +48,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Uninstall-Workflows",
@@ -56,7 +56,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Remove-WorkflowRetryPriority",
@@ -64,7 +64,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Reset-WorkflowInstanceStateCommand",
@@ -72,7 +72,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Select-WorkflowInstanceRetryState",
@@ -80,7 +80,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Set-WorkflowPriority",
@@ -88,7 +88,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Disable-DeployMassTransitWorkflows",
@@ -96,7 +96,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "Enable-DeployMassTransitWorkflows",
@@ -104,7 +104,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2024-12-19",
-      "disruption": null
+      "is-disruptive": true
     },
     {
       "command": "New-Bilanzierungsgebiet",
@@ -112,7 +112,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     },
     {
       "command": "Remove-Bilanzierungsgebiet",
@@ -120,7 +120,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     },
     {
       "command": "Select-Bilanzierungsgebiet",
@@ -128,7 +128,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     },
     {
       "command": "SelectById-Bilanzierungsgebiet",
@@ -136,7 +136,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     },
     {
       "command": "Update-Bilanzierungsgebiet",
@@ -144,7 +144,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     },
     {
       "command": "Validate-Bilanzierungsgebiet",
@@ -152,7 +152,7 @@
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-28",
-      "disruption": null
+      "is-disruptive": false
     }
   ]
 }
