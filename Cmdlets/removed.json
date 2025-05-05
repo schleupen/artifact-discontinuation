@@ -6,36 +6,31 @@
       "command": "Edit-CSScheduledService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
+      "discontinuation-date": null
     },
     {
       "command": "Get-SqlServerName",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
+      "discontinuation-date": null
     },
     {
       "command": "New-PackageRepositoryFolder",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
+      "discontinuation-date": null
     },
     {
       "command": "New-TransientSubscription_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
+      "discontinuation-date": null
     },
     {
       "command": "Set-CSFeature",
       "successor": "Enable-CSFeature",
       "discontinuation-version": "WV24",
-      "discontinuation-date": null,
-      "is-disruptive": false
+      "discontinuation-date": null
     }
   ]
 }

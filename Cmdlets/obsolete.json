@@ -7,152 +7,133 @@
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Enable-DeployFakeWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Install-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Resume-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Select-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Select-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Uninstall-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Remove-WorkflowRetryPriority",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Reset-WorkflowInstanceStateCommand",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Select-WorkflowInstanceRetryState",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Set-WorkflowPriority",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Disable-DeployMassTransitWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "Enable-DeployMassTransitWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19",
-      "is-disruptive": true
+      "obsolete-since": "2024-12-19"
     },
     {
       "command": "New-Bilanzierungsgebiet",
       "successor": "New-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     },
     {
       "command": "Remove-Bilanzierungsgebiet",
       "successor": "Remove-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     },
     {
       "command": "Select-Bilanzierungsgebiet",
       "successor": "Select-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     },
     {
       "command": "SelectById-Bilanzierungsgebiet",
       "successor": "SelectById-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     },
     {
       "command": "Update-Bilanzierungsgebiet",
       "successor": "Update-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     },
     {
       "command": "Validate-Bilanzierungsgebiet",
       "successor": "Validate-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-28"
     }
   ]
 }

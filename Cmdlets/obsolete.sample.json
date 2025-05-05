@@ -6,7 +6,8 @@
             "command": "Set-Value",
             "successor": "Set-NewValue",
             "discontinuation-version": "HV24",
-            "obsolete-since": "2024-02-12"
+            "obsolete-since": "2024-02-12",
+            "disruption": "24hLFW"
         }
     ]
 }
