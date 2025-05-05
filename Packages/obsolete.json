@@ -9,8 +9,7 @@
       "successor-version": "[3.0.2,)",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-30",
-      "is-disruptive": false
+      "obsolete-since": "2025-04-30"
     },
     {
       "package-id": "Schleupen.CS.CreateContainerPackage.Net",
@@ -20,7 +19,7 @@
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "obsolete-since": "2025-04-30",
-      "is-disruptive": false
+      "disruption": "24hLFW"
     }
   ]
 }
