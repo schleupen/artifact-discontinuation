@@ -307,6 +307,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.Bewegungsdaten.DatenBereinigenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.Bewegungsdaten.DatenBereinigenActivityService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Marktmeldungen.MarktmeldungenBereinigenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.WAA.WebApiAnfragen.VerwaltenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MK.WAA.WebApiAnfragen.VerwaltenActivityService_3.1",
       "discontinuation-version": "HV25",
@@ -710,7 +726,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1587,6 +1603,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EAR.KON.AnlagedatenImportierenActivityService_3.0",
+      "successor": "Schleupen.CS.EEG.EAR.KON.AnlagedatenImportierenActivityService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.AbschlagWichtung.EntityService_3.4",
       "successor": "Schleupen.CS.EEG.EEG.Anlagen.AbschlagWichtung.EntityService_3.5",
       "discontinuation-version": "WV25",
@@ -2390,7 +2414,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2422,7 +2446,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2467,6 +2491,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vtm.zef.ZaehlerstandErfassenProcessService_3.1",
+      "successor": "Schleupen.CS.ksp.vma.zef.ZaehlerstandErfassenProcessService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.ENM.Einzelnachweise.EinzelnachweisVerwaltenActivityService_3.3",
       "successor": "Schleupen.CS.MDM.ENM.Einzelnachweise.EinzelnachweisVerwaltenActivityService_3.4",
       "discontinuation-version": "WV25",
@@ -2478,7 +2510,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2838,7 +2870,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -3158,7 +3190,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-06",
+      "discontinuation-date": "2025-11-10",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
