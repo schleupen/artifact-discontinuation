@@ -275,6 +275,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.GasEinzelwerteFuerTeilrechnungErgaenzenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.GasEinzelwerteFuerTeilrechnungErgaenzenActivityService_3.1",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Reporting.NettoerloesstatistikQueryService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Reporting.NettoerloesstatistikQueryService_3.1",
       "discontinuation-version": "HV25",
@@ -726,7 +734,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1603,7 +1611,7 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.EEG.EAR.KON.AnlagedatenImportierenActivityService_3.0",
+      "artifact-id": "Schleupen.CS.EEG.EAR.KON.AnlagendatenImportierenActivityService_3.0",
       "successor": "Schleupen.CS.EEG.EAR.KON.AnlagedatenImportierenActivityService_3.1",
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
@@ -2414,7 +2422,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2446,7 +2454,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2510,7 +2518,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2870,7 +2878,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -3190,7 +3198,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-10",
+      "discontinuation-date": "2025-11-12",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
