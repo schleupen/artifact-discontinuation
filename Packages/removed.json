@@ -3,12 +3,49 @@
   "format-version": "schleupen.artifactlifecycle.packages.removed_1.0",
   "artifacts": [
     {
+      "package-id": "Schleupen.CS.CreateConfigurationScriptsPackage",
+      "package-version": "[3.42.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.ConfigurationScripts.BuildTask",
+      "successor-version": null,
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.CreateContainerPackage",
+      "package-version": "[3.42.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.Container.BuildTask",
+      "successor-version": null,
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.CreateContainerPackage.Net",
+      "package-version": "[3.40.1,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.Files.BuildTask",
+      "successor-version": null,
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.CreateDatabaseSchemaPackage",
+      "package-version": "[3.42.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.DatabaseSchema.BuildTask",
+      "successor-version": null,
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "package-id": "Schleupen.CS.CreateProcessesPackage",
       "package-version": "[3.41,3.42)",
       "successor": "Schleupen.CS.CreateProcessesPackage",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.CreateProcessesPackageCli",
@@ -16,7 +53,8 @@
       "successor": "Schleupen.CS.CreateProcessesPackageCli",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client",
@@ -24,7 +62,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.Castle3",
@@ -32,7 +71,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51",
@@ -40,7 +80,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.2ndEdition",
@@ -48,7 +89,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.2ndEdition",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.2ndEdition.Castle3 ",
@@ -56,7 +98,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.2ndEdition.Castle3 ",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.Castle3",
@@ -64,7 +107,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.NHibernate51.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client.Wcf",
@@ -72,7 +116,8 @@
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client.Wcf",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Client",
@@ -80,7 +125,8 @@
       "successor": "Schleupen.CS.PI.AIF.Client",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Client.Castle3",
@@ -88,7 +134,8 @@
       "successor": "Schleupen.CS.PI.AIF.Client.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Client.NHibernate51",
@@ -96,7 +143,8 @@
       "successor": "Schleupen.CS.PI.AIF.Client.NHibernate51",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Client.ScheduledServices.NHibernate51",
@@ -104,7 +152,8 @@
       "successor": "Schleupen.CS.PI.AIF.Client.ScheduledServices.NHibernate51",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Client.ScheduledServices.NHibernate51.Castle3",
@@ -112,7 +161,8 @@
       "successor": "Schleupen.CS.PI.AIF.Client.ScheduledServices.NHibernate51.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Configuration.Client",
@@ -120,7 +170,8 @@
       "successor": "Schleupen.CS.PI.AIF.Configuration.Client",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Configuration.Client.Castle3",
@@ -128,7 +179,8 @@
       "successor": "Schleupen.CS.PI.AIF.Configuration.Client.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Configuration.Client.TransactionalOutbox",
@@ -136,7 +188,8 @@
       "successor": "Schleupen.CS.PI.AIF.Configuration.Client.TransactionalOutbox",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Configuration.Client.TransactionalOutbox.Castle3",
@@ -144,7 +197,8 @@
       "successor": "Schleupen.CS.PI.AIF.Configuration.Client.TransactionalOutbox.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Users.Client",
@@ -152,7 +206,8 @@
       "successor": "Schleupen.CS.PI.AIF.Users.Client",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.AIF.Users.Client.Castle3",
@@ -160,7 +215,8 @@
       "successor": "Schleupen.CS.PI.AIF.Users.Client.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Client",
@@ -168,7 +224,8 @@
       "successor": "Schleupen.CS.PI.BPE.Client",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Client.Castle3",
@@ -176,7 +233,8 @@
       "successor": "Schleupen.CS.PI.BPE.Client.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Client.TransactionalOutbox",
@@ -184,7 +242,8 @@
       "successor": "Schleupen.CS.PI.BPE.Client.TransactionalOutbox",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Client.TransactionalOutbox.Castle3 ",
@@ -192,7 +251,8 @@
       "successor": "Schleupen.CS.PI.BPE.Client.TransactionalOutbox.Castle3 ",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Adapter",
@@ -200,7 +260,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Adapter",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Adapter.Castle3 ",
@@ -208,7 +269,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Adapter.Castle3 ",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Compilation",
@@ -216,7 +278,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Compilation",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Activities",
@@ -224,7 +287,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Activities",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Core",
@@ -232,7 +296,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Core",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Core.Castle3",
@@ -240,7 +305,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Core.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Protocol",
@@ -248,7 +314,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Protocol",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Serialization",
@@ -256,7 +323,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Runtime.Serialization",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.UserCodeClient",
@@ -264,7 +332,8 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.UserCodeClient",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.UserCodeClient.Castle3",
@@ -272,7 +341,17 @@
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.UserCodeClient.Castle3",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.SB.SessionToken.Testing.Net",
+      "package-version": "[3.0.1,)",
+      "successor": "Schleupen.CS.PI.SB.Sessions.Testing.Net",
+      "successor-version": null,
+      "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.SR.Development",
@@ -280,7 +359,8 @@
       "successor": "Schleupen.CS.PI.SR.Development",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.SR.PackageBuilder ",
@@ -288,7 +368,8 @@
       "successor": "Schleupen.CS.PI.SR.PackageBuilder ",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.WebModeler.Bpmn",
@@ -296,7 +377,8 @@
       "successor": "Schleupen.CS.PI.WebModeler.Bpmn",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.WebModeler.LanguageServer.Plugin.Contracts",
@@ -304,7 +386,8 @@
       "successor": "Schleupen.CS.PI.WebModeler.LanguageServer.Plugin.Contracts",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "package-id": "Schleupen.CS.PI.WebModeler.Plugin.Core ",
@@ -312,7 +395,8 @@
       "successor": "Schleupen.CS.PI.WebModeler.Plugin.Core ",
       "successor-version": null,
       "discontinuation-version": "SV25",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     }
   ]
 }
