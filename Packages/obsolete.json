@@ -1,46 +1,5 @@
 {
   "document-type": "schleupen.artifactlifecycle.packages.obsolete",
   "format-version": "schleupen.artifactlifecycle.packages.obsolete_1.0",
-  "artifacts": [
-    {
-      "package-id": "Schleupen.CS.CreateContainerPackage",
-      "package-version": "[3.42.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.Container.BuildTask",
-      "successor-version": "[3.0.2,)",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-04-30",
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateContainerPackage.Net",
-      "package-version": "[3.40.1,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.Files.BuildTask",
-      "successor-version": "[3.0.2,)",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-04-30",
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.PI.SB.SessionToken.Testing.Net",
-      "package-version": "[3.0.1,)",
-      "successor": "Schleupen.CS.PI.SB.Sessions.Testing.Net",
-      "successor-version": "[3.0.2.32,)",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-05-12",
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateProcessesPackage",
-      "package-version": "[3.42.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.Processes.BuildTask",
-      "successor-version": "[3.0.2,)",
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-05-14",
-      "disruption": null
-    }
-  ]
+  "artifacts": []
 }
