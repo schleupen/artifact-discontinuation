@@ -3,60 +3,6 @@
   "format-version": "schleupen.artifactlifecycle.packages.removed_1.0",
   "artifacts": [
     {
-      "package-id": "Schleupen.CS.CreateConfigurationScriptsPackage",
-      "package-version": "[3.42.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.ConfigurationScripts.BuildTask",
-      "successor-version": null,
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateContainerPackage",
-      "package-version": "[3.42.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.Container.BuildTask",
-      "successor-version": null,
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateContainerPackage.Net",
-      "package-version": "[3.40.1,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.Files.BuildTask",
-      "successor-version": null,
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateDatabaseSchemaPackage",
-      "package-version": "[3.42.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.DatabaseSchema.BuildTask",
-      "successor-version": null,
-      "discontinuation-version": "HV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateProcessesPackage",
-      "package-version": "[3.41,3.42)",
-      "successor": "Schleupen.CS.CreateProcessesPackage",
-      "successor-version": null,
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.CreateProcessesPackageCli",
-      "package-version": "[3.41,3.42)",
-      "successor": "Schleupen.CS.CreateProcessesPackageCli",
-      "successor-version": null,
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
       "package-id": "Schleupen.CS.PI.AIF.ChangeLog.Client",
       "package-version": "[3.41,3.42)",
       "successor": "Schleupen.CS.PI.AIF.ChangeLog.Client",
