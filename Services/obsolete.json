@@ -1651,6 +1651,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnvorgaenge.MahnvorgangQueryService_3.2",
+      "successor": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnvorgaenge.MahnvorgangQueryService_3.3",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-05-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Mahnung.MahnverlaufQueryService_3.6",
       "successor": "Schleupen.CS.FW.NBP.Mahnung.MahnverlaufQueryService_3.7",
       "discontinuation-version": "FV26",
