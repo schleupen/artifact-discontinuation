@@ -590,7 +590,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1830,7 +1830,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1862,7 +1862,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1910,7 +1910,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1950,7 +1950,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1958,7 +1958,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1966,7 +1966,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2206,7 +2206,7 @@
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2486,7 +2486,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-11-18",
+      "discontinuation-date": "2025-11-19",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
