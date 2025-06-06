@@ -71,6 +71,16 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-05-30",
       "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.CreateWindowsServicePackage",
+      "package-version": "[3.42.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.WindowsService.Legacy.BuildTask",
+      "successor-version": "[3.0.2,)",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-04",
+      "disruption": null
     }
   ]
 }
