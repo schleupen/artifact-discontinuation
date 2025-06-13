@@ -81,6 +81,16 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-06-04",
       "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.CreateServicesPackage.Net",
+      "package-version": "[3.42.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.Services.WebApi.BuildTask",
+      "successor-version": "[3.0.2,)",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-11",
+      "disruption": null
     }
   ]
 }
