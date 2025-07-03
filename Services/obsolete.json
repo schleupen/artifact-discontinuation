@@ -115,6 +115,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.vtm.afp.AbrechnungVollstaendigZuruecksetzenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-12-29",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.1",
       "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.2",
       "discontinuation-version": "WV25",
@@ -235,11 +243,35 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsstorno.StornorechnungQueryService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsstorno.StornorechnungQueryService_3.2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.GasEinzelwerteFuerTeilrechnungErgaenzenActivityService_3.0",
       "successor": "Schleupen.CS.AP.BIL.REP.Druck.GasEinzelwerteFuerTeilrechnungErgaenzenActivityService_3.1",
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.GasStammdatenFuerTeilrechnungErgaenzenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.GasStammdatenFuerTeilrechnungErgaenzenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-30",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.GasStammdatenFuerTeilrechnungErgaenzenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.GasStammdatenFuerTeilrechnungErgaenzenActivityService_3.2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-30",
       "disruption": null
     },
     {
@@ -622,7 +654,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1171,6 +1203,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.ZD.Personen.PersonDublettenPruefenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.ZD.Personen.PersonDublettenPruefenActivityService_3.2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.ZD.Personen.PersonDublettenPruefenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.ZD.Personen.PersonDublettenPruefenActivityService_3.3",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.ZD.Personen.PersonEntityService_3.0",
       "successor": "Schleupen.CS.AP.ZD.Personen.PersonEntityService_3.1",
       "discontinuation-version": "WV25",
@@ -1334,7 +1382,7 @@
       "artifact-id": "Schleupen.CS.CRM.CRM.Preisanpassungen.Plaene.PreisanpassungsplanQueryService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1803,6 +1851,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.NummernkreisDefinitionen.EntityService_3.10",
+      "successor": "Schleupen.CS.FW.NBP.NummernkreisDefinitionen.EntityService_3.11",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.KreditorkontoErmittelnUndAnlegenActivityService_3.1",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.KreditorkontoErmittelnUndAnlegenActivityService_3.2",
       "discontinuation-version": "WV25",
@@ -1814,7 +1870,7 @@
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.18",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1848,6 +1904,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Sperrprozess.AuftraegeQueryService_3.2",
+      "successor": "Schleupen.CS.FW.NBP.Sperrprozess.AuftraegeQueryService_3.3",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-30",
       "disruption": null
     },
     {
@@ -1990,7 +2054,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2022,7 +2086,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2078,7 +2142,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2094,7 +2158,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2102,7 +2166,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2174,7 +2238,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2182,16 +2246,8 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.15",
-      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.16",
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-27",
       "disruption": null
     },
     {
@@ -2206,16 +2262,8 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.6",
-      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.7",
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-27",
       "disruption": null
     },
     {
@@ -2256,14 +2304,6 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-23",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.EinzelwertQueryService_3.11",
-      "successor": "Schleupen.CS.MDM.MWM.Messwerte.EinzelwertQueryService_3.12",
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-27",
       "disruption": null
     },
     {
@@ -2328,22 +2368,6 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-05",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Zaehlpunkte.ZaehlpunktQueryService_3.3",
-      "successor": "Schleupen.CS.MDM.MWM.Zaehlpunkte.ZaehlpunktQueryService_3.4",
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-27",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.ZaehlwerkMessabschnitte.ZaehlwerkMessabschnittQueryService_3.2",
-      "successor": "Schleupen.CS.MDM.MWM.ZaehlwerkMessabschnitte.ZaehlwerkMessabschnittQueryService_3.3",
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-27",
       "disruption": null
     },
     {
@@ -2699,6 +2723,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Protocol.WriteProtocolEventsActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-06-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.Protocol.WriteProtocolWorkflowInstancesActivityService_3.2",
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Legacy.WriteProtocolWorkflowInstancesActivityService_3.0",
       "discontinuation-version": "WV25",
@@ -2795,10 +2827,18 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.1",
+      "successor": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-24",
+      "discontinuation-date": "2025-12-29",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
