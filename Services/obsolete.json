@@ -118,7 +118,7 @@
       "artifact-id": "Schleupen.CS.abr.vtm.afp.AbrechnungVollstaendigZuruecksetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -547,6 +547,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungAnfrageNachStornierung.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungAnfrageNachStornierung.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BilaRelAenderungVomLf.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BilaRelAenderungVomLf.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-08",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.BestaetigungAnnVorlageAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGP.BestaetigungAnnVorlageAnlegenActivityService_3.1",
       "discontinuation-version": "SV26",
@@ -662,7 +678,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1390,7 +1406,7 @@
       "artifact-id": "Schleupen.CS.CRM.CRM.Preisanpassungen.Plaene.PreisanpassungsplanQueryService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1878,7 +1894,7 @@
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.18",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2043,6 +2059,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.gpk.sda.Versandauftraege.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.gpk.sda.Versandauftraege.VersendenActivityService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vma.vba.VertragQueryService_3.4",
       "successor": "Schleupen.CS.ksp.vma.vba.VertragQueryService_3.5",
       "discontinuation-version": "FV26",
@@ -2062,7 +2086,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2094,7 +2118,7 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.10",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2150,7 +2174,7 @@
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2166,7 +2190,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2174,7 +2198,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2246,7 +2270,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2254,7 +2278,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2270,7 +2294,7 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -2475,12 +2499,100 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungUeberprueftEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
       "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.1",
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-11",
       "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungUeberprueftEventService_3.0",
+      "successor": "Schleupen.CS.mlf.lfw.AblehnungKuendigungUeberprueftEventService_3.1",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungUeberprueftEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AbmeldungNetznutzungVomNBStorniertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AnmeldungNetznutzungBilateralGeklaertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AntwortAnmeldungNetznutzungUeberfaelligEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AntwortKuendigungStammdatenAktualisiertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.AntwortKuendigungStammdatenZumAktualisierenVorhandenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
     },
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.0",
@@ -2491,12 +2603,332 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BeendigungDerZuordnungOhneAbmeldeanfrageStartenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BeendigungDerZuordnungOhneAbmeldeanfrageStartenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BestaetigungAbmeldungNetznutzungVerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BestaetigungAbmeldungNetznutzungVerteilenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BestaetigungAbmeldungNetznutzungVerteiltEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.BestaetigungAnmeldungNetznutzungStammdatenVerteiltEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.EinOderAuszugUeberprueftEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.ImeldungZurBeendigungNichtAngefordertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteilenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungStammdatenVerteiltEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.InformationsmeldungZurBeendigungDerZuordnungVerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.KeinePassendeImeldungZurBeendigungDerZuordnungEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.KuendigungZwischenLieferantenAbgeschlossenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.KuendigungZwischenLieferantenEntityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lei.LieferendeRueckabwicklungFehlgeschlagenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeRueckabwicklungExternErfolgreichEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStartenProcessService_3.2",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStornierungErfolgreichEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeStornierungFehlgeschlagenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfe.LieferendeVerwaltenActivityService_3.4",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselBeendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselErfolgreichEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselFehlgeschlagenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselStartenProcessService_3.2",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselStornierungErfolgreichEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.LieferantenwechselStornierungFehlgeschlagenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.MarktlokationsbezeichnungAktualisiertEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.MarktpartnerAusInfomeldungPruefenProcessService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lfw.MarktpartnerAusInfomeldungPruefenProcessService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferantenwechselAngelegtEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
       "artifact-id": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.2",
       "successor": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.3",
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2024-08-15",
       "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.3",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeBeendetEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeErfolgreichEventService_3.3",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeFehlgeschlagenEventService_3.2",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeRueckabwicklungErfolgreichEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.lkg.LieferantenkuendigungBestaetigungVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.PersonAmVertragNichtGefundenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.StammdatenVerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.ZuAktualisierendeMarktlokationsbezeichnungVorhandenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-10",
+      "disruption": "24hLFW"
     },
     {
       "artifact-id": "Schleupen.CS.mlf.lws.Lieferantenwechsel.AblehnungAnmeldungVerbMaloGeprueftEventService_3.0",
@@ -2846,7 +3278,7 @@
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.FristverlStatusSetzenActivityService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2025-12-31",
+      "discontinuation-date": "2026-01-07",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
