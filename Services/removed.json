@@ -3475,28 +3475,28 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw (Obsolete).AblehnungAnmeldungNetznutzungPruefenEventService_3.0",
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungAnmeldungNetznutzungPruefenEventService_3.1",
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw (Obsolete).AblehnungKuendigungPruefenEventService_3.0",
+      "artifact-id": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.AblehnungKuendigungPruefenEventService_3.1",
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw (Obsolete).LieferantenwechselEntityService_3.2",
+      "artifact-id": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.2",
       "successor": "Schleupen.CS.mlf.lfw.LieferantenwechselEntityService_3.3",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw (Obsolete).bann.VerteilenProcessService_3.0",
+      "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.1",
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
