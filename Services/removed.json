@@ -2488,6 +2488,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.AIF.Postbox.PostboxConfigurations.EntityService_3.2",
+      "successor": "Schleupen.CS.PI.AIF.Postbox.PostboxConfigurations.EntityService_3.3",
+      "discontinuation-version": "WV21",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.AIF.Users.Users.GroupQueryService_3.1",
       "successor": "Schleupen.CS.PI.AIF.Users.Users.GroupQueryService_3.2",
       "discontinuation-version": "SV25",
@@ -3496,13 +3503,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.0",
-      "successor": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.1",
-      "discontinuation-version": "SV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.mlf.lfw.LieferendeBeendetEventService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -3540,6 +3540,13 @@
     {
       "artifact-id": "Schleupen.CS.mlf.lfw.bann.MwmApiActivityService_3.0",
       "successor": "Schleupen.CS.mlf.lfw.bann.MwmApiActivityService_3.1",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.0",
+      "successor": "Schleupen.CS.mlf.lfw.bann.VerteilenProcessService_3.1",
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "disruption": null
