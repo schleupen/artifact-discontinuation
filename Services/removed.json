@@ -2488,13 +2488,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.PI.AIF.Postbox.PostboxConfigurations.EntityService_3.2",
-      "successor": "Schleupen.CS.PI.AIF.Postbox.PostboxConfigurations.EntityService_3.3",
-      "discontinuation-version": "WV21",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.PI.AIF.Users.Users.GroupQueryService_3.1",
       "successor": "Schleupen.CS.PI.AIF.Users.Users.GroupQueryService_3.2",
       "discontinuation-version": "SV25",
