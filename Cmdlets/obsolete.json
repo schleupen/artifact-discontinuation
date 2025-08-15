@@ -7,133 +7,256 @@
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Enable-DeployFakeWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Install-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Resume-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Select-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Select-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Uninstall-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Remove-WorkflowRetryPriority",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Reset-WorkflowInstanceStateCommand",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Select-WorkflowInstanceRetryState",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Set-WorkflowPriority",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Disable-DeployMassTransitWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "Enable-DeployMassTransitWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-12-19"
+      "obsolete-since": "2024-12-19",
+      "disruption": null
     },
     {
       "command": "New-Bilanzierungsgebiet",
       "successor": "New-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
     },
     {
       "command": "Remove-Bilanzierungsgebiet",
       "successor": "Remove-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
     },
     {
       "command": "Select-Bilanzierungsgebiet",
       "successor": "Select-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
     },
     {
       "command": "SelectById-Bilanzierungsgebiet",
       "successor": "SelectById-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
     },
     {
       "command": "Update-Bilanzierungsgebiet",
       "successor": "Update-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
     },
     {
       "command": "Validate-Bilanzierungsgebiet",
       "successor": "Validate-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
       "discontinuation-date": null,
-      "obsolete-since": "2025-04-28"
+      "obsolete-since": "2025-04-28",
+      "disruption": null
+    },
+    {
+      "command": "Construct-FtpServerConfiguration",
+      "successor": "Construct-FtpServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Construct-ImapServerConfiguration",
+      "successor": "Construct-ImapServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Construct-Pop3ServerConfiguration",
+      "successor": "Construct-Pop3ServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Construct-SmtpServerConfiguration",
+      "successor": "Construct-SmtpServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Convert-ServerConfiguration",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "New-EmailPostboxConfiguration",
+      "successor": "New-EmailPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "New-FtpPostboxConfiguration",
+      "successor": "New-FtpPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Remove-PostboxConfiguration",
+      "successor": "Remove-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Select-PostboxConfiguration",
+      "successor": "Select-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Test-EmailPostboxConfiguration",
+      "successor": "Test-EmailPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Update-CSPostboxPassword",
+      "successor": "Update-CSPostboxPassword2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Update-PostboxConfiguration",
+      "successor": "Update-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
+    },
+    {
+      "command": "Validate-PostboxConfiguration",
+      "successor": "Validate-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-15",
+      "disruption": null
     }
   ]
 }
