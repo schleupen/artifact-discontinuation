@@ -3,34 +3,172 @@
   "format-version": "schleupen.artifactlifecycle.cmdlets.removed_1.0",
   "artifacts": [
     {
+      "command": "Disable-DeployFakeWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Disable-DeployMassTransitWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Edit-CSScheduledService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Enable-DeployFakeWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Enable-DeployMassTransitWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "command": "Get-SqlServerName",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Install-Workflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "New-Bilanzierungsgebiet",
+      "successor": "New-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "command": "New-PackageRepositoryFolder",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "command": "New-TransientSubscription_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Remove-Bilanzierungsgebiet",
+      "successor": "Remove-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Remove-WorkflowRetryPriority",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Reset-WorkflowInstanceStateCommand",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Resume-SuspendedWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Select-Bilanzierungsgebiet",
+      "successor": "Select-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Select-SuspendedWorkflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Select-WorkflowInstanceRetryState",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Select-Workflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "SelectById-Bilanzierungsgebiet",
+      "successor": "SelectById-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
     },
     {
       "command": "Set-CSFeature",
       "successor": "Enable-CSFeature",
       "discontinuation-version": "WV24",
-      "discontinuation-date": null
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Set-WorkflowPriority",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Uninstall-Workflows",
+      "successor": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Update-Bilanzierungsgebiet",
+      "successor": "Update-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Validate-Bilanzierungsgebiet",
+      "successor": "Validate-Bilanzierungsgebiet_3.1",
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
     }
   ]
 }
