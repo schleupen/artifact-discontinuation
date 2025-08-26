@@ -4462,6 +4462,48 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.AnwendungsfehlerFuerStammdatenaenderungIgnoriertEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungAbgelehntEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungLesenUndVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungNeuVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.StammdatenaenderungVerarbeitetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Stammdatenaenderungen.UmgangMitAnwendungsfehlerErmittelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2025-08-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.gpk.mpw.Einzelwertversand.EinzelwerteVersendenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
