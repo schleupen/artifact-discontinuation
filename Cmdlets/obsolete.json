@@ -131,7 +131,7 @@
       "disruption": null
     },
     {
-      "command": "Seklect-SuspendedWorkflows",
+      "command": "Select-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
