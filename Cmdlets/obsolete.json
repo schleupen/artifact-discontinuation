@@ -185,6 +185,30 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-08-26",
       "disruption": null
+    },
+    {
+      "command": "Add-MarktprozessschrittToMarktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-29",
+      "disruption": null
+    },
+    {
+      "command": "New-Marktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-29",
+      "disruption": null
+    },
+    {
+      "command": "Remove-MarktprozessschrittFromMarktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-08-29",
+      "disruption": null
     }
   ]
 }
