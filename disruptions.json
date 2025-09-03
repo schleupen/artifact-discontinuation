@@ -3,6 +3,10 @@
         {
             "name": "24hLFW",
             "begin-date": "2025-06-06"
+        },
+        {
+            "name": "Formatumstellung Oktober 2025",
+            "begin-date": "2025-10-01"
         }
     ]
 }
