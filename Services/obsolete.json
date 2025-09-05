@@ -307,14 +307,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.QuotesDatenformatobjektQueryService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-02-23",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenEinerKonfiguration.VersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenEinerKonfiguration.VersendenActivityService_3.1",
       "discontinuation-version": "SV26",
@@ -443,11 +435,83 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.WiderspruchAblehnungLieferschein.VerwaltenActivityService_3.2",
-      "successor": "Schleupen.CS.AP.MPM.COM.Prozessmeldungen.AblehnungenIftsta.VersendenActivityService_3.0",
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAblehnungKlaerenActivityService_3.0",
+      "successor": null,
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
-      "obsolete-since": "2025-10-01",
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAblehnungVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAblehnungVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAntwortVersendenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Prozessmeldungen.AntwortenAufBerechnungsformel.VersendenActivityService_3.0",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelEmpfangenEventService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Prozessmeldungen.Berechnungsformeln.EmpfangenEventService_3.0",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelVersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Prozessmeldungen.Berechnungsformeln.VersendenActivityService_3.0",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelZustimmungVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelZustimmungVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.InitialversandStartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
       "disruption": null
     },
     {
@@ -1148,10 +1212,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.CRM.CRM.Preisanpassungen.Plaene.PreisanpassungsplanQueryService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-02-23",
-      "obsolete-since": "2024-05-16",
+      "successor": "Schleupen.CS.CRM.CRM.Preisanpassungen.Plaene.PreisanpassungsplanQueryService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-03",
       "disruption": null
     },
     {
@@ -1160,6 +1224,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-03-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.edi.daa.uev.WeiterleitungsregelnAuswertenProcessService_3.0",
+      "successor": "Schleupen.CS.edi.daa.uev.WeiterleitungsregelnAuswertenProcessService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-05",
       "disruption": null
     },
     {
@@ -1264,6 +1336,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Buchungsziele.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.BST.Buchungsziele.EntityService_3.6",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-04",
       "disruption": null
     },
     {
@@ -1596,10 +1676,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-02-23",
-      "obsolete-since": "2024-05-16",
+      "successor": "Schleupen.CS.ksp.vpm.anr.RueckabwicklungAnreichernActivityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-03",
       "disruption": null
     },
     {
@@ -1668,10 +1748,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.3",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-02-23",
-      "obsolete-since": "2024-05-16",
+      "successor": "Schleupen.CS.MDM.ENM.Mengenobjekte.MengenErmittelnActivityService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-03",
       "disruption": null
     },
     {
@@ -2507,6 +2587,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskAggregatingQueryService_3.7",
+      "successor": "Schleupen.CS.PI.BPE.Tasks.TaskAggregatingQueryService_3.8",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.BPE.Tasks.TaskQueryService_3.10",
+      "successor": "Schleupen.CS.PI.BPE.Tasks.TaskQueryService_3.11",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Management.DeleteExpiredWorkflowInstancesActivityService_3.0",
       "successor": "Schleupen.CS.PI.BPE.Workflows.MassTransit.Management.DeleteExpiredWorkflowInstancesActivityService_3.1",
       "discontinuation-version": "FV26",
@@ -2604,10 +2700,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.VA.RAE.Rechnungssimulation.AbrechnungsbestandVervollstaendigenActivityService_3.8",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-02-22",
-      "obsolete-since": "2024-05-16",
+      "successor": "Schleupen.CS.VA.RAE.Rechnungssimulation.AbrechnungsbestandVervollstaendigenActivityService_3.9",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-03",
       "disruption": null
     },
     {
