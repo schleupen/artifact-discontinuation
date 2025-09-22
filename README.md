@@ -1,14 +1,14 @@
 # artifact-discontinuation
 
-In diesem Repository werden die von Schleupen abgekündigten ("obsolet") und entfernten Artefakte ("removed") der Schleupen.CS 3.0-Software aufgeführt.
+In diesem Repository werden die von Schleupen abgekündigten ("obsolete") und entfernten Artefakte ("removed") der Schleupen.CS 3.0-Software aufgeführt.
 Folgende Artefakt-Arten werden betrachtet:
- * Cmdlets (Powershell)
- * Packages
+ * Cmdlets (PowerShell)
+ * Packages (NuGet)
  * Privileged Interfaces
  * Services
  * User Interfaces
 
-In jedem dieser Verzeichnisse finden sich jeweils eine `obsolet.json`- und eine `removed.json`-Datei. Diese Dateien enthalten jeweils als relevante Informationen (hier an Hand von Beispieldaten):
+In jedem dieser Verzeichnisse finden sich jeweils eine `obsolete.json`- und eine `removed.json`-Datei. Diese Dateien enthalten jeweils als relevante Informationen (hier anhand von Beispieldaten):
 ```
   {
       "command": "Set-CSFeature",          // Identifikator des Artefaktes
