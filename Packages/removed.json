@@ -433,6 +433,24 @@
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
       "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting",
+      "package-version": "[3.42.2.136,)",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting.Deployment",
+      "package-version": "[3.42.2.136,)",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
     }
   ]
 }
