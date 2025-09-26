@@ -3,6 +3,22 @@
   "format-version": "schleupen.artifactdiscontinuation.services.obsolete_1.0",
   "artifacts": [
     {
+      "artifact-id": "Schleupen.CS.abr.ael.raw.EnergievertragsabschlussRueckabwickelnProcessService_3.1",
+      "successor": "Schleupen.CS.abr.ael.raw.EnergievertragsabschlussRueckabwickelnProcessService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.ael.raw.NetznutzungsvertragRueckabgewickeltEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.ael.raw.NetznutzungsvertragRueckabwickelnProcessService_3.1",
       "successor": null,
       "discontinuation-version": "FV26",
@@ -43,11 +59,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.0",
+      "successor": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.afp.AbrechnungVollstaendigZuruecksetzenActivityService_3.1",
       "successor": "Schleupen.CS.abr.vtm.afp.AbrechnungVollstaendigZuruecksetzenActivityService_3.2",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-28",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.0",
+      "successor": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
       "disruption": null
     },
     {
@@ -243,6 +275,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.RatingdatenFuerTeilrechnungErgaenzenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.RatingdatenFuerTeilrechnungErgaenzenActivityService_3.3",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.Bewegungsdaten.DatenBereinigenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MK.Bewegungsdaten.DatenBereinigenActivityService_3.1",
       "discontinuation-version": "FV26",
@@ -360,6 +400,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-26",
       "disruption": null
     },
     {
@@ -883,6 +931,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAnmeldungNeueVerbMalo.EmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AblehnungAnmeldungNeueVerbMalo.EmpfangenEventService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomLfAnMsbRueckmAnf.VersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AenderungDatenDerMaLoVomLfAnMsbRueckmAnf.VersendenActivityService_3.1",
       "discontinuation-version": "FV26",
@@ -987,6 +1043,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAnmeldungNeueVerbMalo.EmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAnmeldungNeueVerbMalo.EmpfangenEventService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.16",
       "successor": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.17",
       "discontinuation-version": "HV26",
@@ -1051,6 +1115,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Kostenbestandteil.KostenbestandteilEntityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Kostenbestandteil.KostenbestandteilEntityService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-26",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.VerwaltenActivityService_3.5",
       "successor": "Schleupen.CS.AP.VTM.MSB.Vertraege.VerwaltenActivityService_3.6",
       "discontinuation-version": "FV26",
@@ -1064,6 +1136,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragRueckabwickelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsVertragRueckabwickelnCommandService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsVertragRueckabwickelnCommandService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-22",
       "disruption": null
     },
     {
@@ -1104,6 +1192,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
       "disruption": null
     },
     {
@@ -1288,6 +1384,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-03-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.VerarbeitungStartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-22",
       "disruption": null
     },
     {
@@ -1811,11 +1915,35 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.10",
+      "successor": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.11",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.9",
       "successor": "Schleupen.CS.FW.REB.AbgelehnteEingangsrechnungen.QueryService_3.10",
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-02-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.AbschlagsreferenzenAendernQueryService_3.5",
+      "successor": "Schleupen.CS.FW.REB.Eingangsrechnungen.AbschlagsreferenzenAendernQueryService_3.6",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.EingangsrechnungAnlegenActivityService_3.10",
+      "successor": "Schleupen.CS.FW.REB.Eingangsrechnungen.EingangsrechnungAnlegenActivityService_3.11",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
       "disruption": null
     },
     {
@@ -1827,11 +1955,43 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.QueryService_3.17",
+      "successor": "Schleupen.CS.FW.REB.Eingangsrechnungen.QueryService_3.18",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnung.VorgaengeAnlegenActivityService_3.1",
       "successor": "Schleupen.CS.FW.REB.Eingangsrechnung.VorgaengeAnlegenActivityService_3.2",
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.6",
+      "successor": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.7",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.7",
+      "successor": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritte.QueryService_3.8",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungstypen.EntityService_3.4",
+      "successor": "Schleupen.CS.FW.REB.Eingangsrechnungstypen.EntityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-24",
       "disruption": null
     },
     {
@@ -2043,6 +2203,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.14",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.15",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
       "successor": null,
       "discontinuation-version": null,
@@ -2059,6 +2227,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationStammdatenGeaendertEventService_3.0",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationStammdatenGeaendertEventService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationStammdatenGeaendertEventService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationStammdatenGeaendertEventService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messaufbauten.MessaufbauQueryService_3.3",
       "successor": "Schleupen.CS.MDM.MWM.Messaufbauten.MessaufbauQueryService_3.4",
       "discontinuation-version": "SV26",
@@ -2072,6 +2256,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.4",
+      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-26",
       "disruption": null
     },
     {
@@ -2123,6 +2315,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.BuendelSpeicherbarkeitPruefenActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.BuendelSpeicherbarkeitPruefenActivityService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.Einzelwerte.GasZaehlerstandUpdatedEventService_3.0",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.Einzelwerte.GasZaehlerstandGrundlageGeandertEventService_3.0",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.EinzelwertQueryService_3.10",
       "successor": "Schleupen.CS.MDM.MWM.Messwerte.EinzelwertQueryService_3.11",
       "discontinuation-version": "SV26",
@@ -2152,6 +2360,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-03-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.VollstaendigkeitPruefenActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.VollstaendigkeitPruefenActivityService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-25",
       "disruption": null
     },
     {
