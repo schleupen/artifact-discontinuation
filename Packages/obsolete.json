@@ -11,6 +11,16 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-09-11",
       "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.Framework.Resiliency.Castle3",
+      "package-version": "[3.42.2.86,)",
+      "successor": "Schleupen.CS.PI.SB.Resiliency.Castle3",
+      "successor-version": "[3.42.2.138,)",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-19",
+      "disruption": null
     }
   ]
 }
