@@ -59,6 +59,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.2",
+      "successor": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.0",
       "successor": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.1",
       "discontinuation-version": "HV26",
@@ -88,6 +96,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.3",
+      "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-01",
       "disruption": null
     },
     {
@@ -232,6 +248,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.13",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.14",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.14",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.15",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-29",
       "disruption": null
     },
     {
@@ -1099,6 +1131,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.FreigegebeneTarifvarianten.QueryService_3.12",
+      "successor": "Schleupen.CS.AP.VTM.FreigegebeneTarifvarianten.QueryService_3.13",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-29",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Gas.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -1168,6 +1208,22 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.65",
+      "successor": "Schleupen.CS.AP.VTM.Tarife.EntityService_3.66",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.VerwaltenActivityService_3.65",
+      "successor": "Schleupen.CS.AP.VTM.Tarife.VerwaltenActivityService_3.66",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-09-29",
       "disruption": null
     },
     {
@@ -2259,14 +2315,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.4",
-      "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.5",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-26",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
       "successor": null,
       "discontinuation-version": null,
@@ -3136,6 +3184,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.EinzelpositionNeuStartenActivityService_3.1",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.EinzelpositionNeuStartenActivityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.WiederanlaufDatenErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.WiederanlaufDatenErmittelnActivityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-08",
       "disruption": null
     },
     {
