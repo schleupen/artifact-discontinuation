@@ -99,6 +99,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.2",
+      "successor": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsStartenActivityService_3.0",
       "successor": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsStartenActivityService_3.1",
       "discontinuation-version": "HV26",
@@ -640,14 +648,6 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-29",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.MPM.Marktprozesse.QueryService_3.1",
-      "successor": "Schleupen.CS.AP.MPM.Marktprozesse.QueryService_3.2",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-10-09",
       "disruption": null
     },
     {
@@ -1384,6 +1384,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-24",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.1",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-14",
       "disruption": null
     },
     {
@@ -2200,6 +2208,22 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugUndPositionenLesenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugUndPositionenLesenActivityService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-14",
       "disruption": null
     },
     {
@@ -3131,6 +3155,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mlf.vtm.Vertraege.KuendigungsanfrageQueryService_3.2",
+      "successor": "Schleupen.CS.mlf.vtm.Vertraege.KuendigungsanfrageQueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.msb.ram.Angebote.AngebotVersendenProcessService_3.0",
       "successor": null,
       "discontinuation-version": "FV26",
@@ -3144,6 +3176,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-28",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.2",
+      "successor": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-16",
       "disruption": null
     },
     {
@@ -3331,6 +3371,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.QueryDatabaseSchemaLocationActivityService_3.3",
+      "successor": "Schleupen.CS.PI.SB.SystemStructure.Databases.QueryDatabaseSchemaLocationActivityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.SystemStructure.Databases.QueryDatabaseSchemaLocationActivityService_3.4",
+      "successor": "Schleupen.CS.PI.SB.SystemStructure.Databases.QueryDatabaseSchemaLocationActivityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-13",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.1",
       "successor": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.2",
       "discontinuation-version": "SV26",
@@ -3400,6 +3456,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugg.AblehnungAbmeldungNetznutzungVomNbEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-17",
       "disruption": null
     },
     {
