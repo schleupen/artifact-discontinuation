@@ -83,6 +83,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsAnreichernActivityService_3.0",
+      "successor": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsAnreichernActivityService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.0",
       "successor": "Schleupen.CS.abr.vtm.pan.PreisDatenDesVertragsQueryService_3.1",
       "discontinuation-version": "HV26",
@@ -384,6 +392,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.DokumentenQueryService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.DokumentenQueryService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-20",
       "disruption": null
     },
     {
@@ -1395,6 +1411,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.2",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.PreisDatenDesVertragsQueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.68",
       "successor": "Schleupen.CS.AP.VTM.Vertraege.QueryService_3.69",
       "discontinuation-version": "FV26",
@@ -1504,6 +1528,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.RueckabwicklungVertragsaufloesungErfolgreichEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-20",
       "disruption": null
     },
     {
@@ -3171,6 +3203,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-22",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.1",
       "successor": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsZuZaehlerPOGQueryService_3.2",
       "discontinuation-version": "SV26",
@@ -3400,6 +3440,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ppl.ids.ImportDayAhead.ImportDayAheadStrompreiseProcessService_3.0",
+      "successor": "Schleupen.CS.ppl.ids.ImportDayAhead.ImportDayAheadStrompreiseProcessService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ppl.ids.ImportDayAhead.PreiszeitreiheImportierenActivityService_3.0",
+      "successor": "Schleupen.CS.ppl.ids.ImportDayAhead.PreiszeitreiheImportierenActivityService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-22",
       "disruption": null
     },
     {
