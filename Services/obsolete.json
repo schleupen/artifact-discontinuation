@@ -1347,6 +1347,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.7",
+      "successor": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.8",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-31",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Standard.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -3203,6 +3211,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.msb.tpk.Parametrierungsanforderungen.ParametrierungsanforderungenQueryService_3.5",
+      "successor": "Schleupen.CS.msb.tpk.Parametrierungsanforderungen.ParametrierungsanforderungenQueryService_3.6",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.msb.vtm.Konfigurationen.ArtikelIdsQueryService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -3288,6 +3304,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.NM.IOP.Prozessmeldungen.AnmeldungNetznutzungDatenQueryService_3.0",
+      "successor": "Schleupen.CS.NM.IOP.Prozessmeldungen.AnmeldungNetznutzungDatenQueryService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-10-28",
       "disruption": null
     },
     {
