@@ -499,6 +499,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.VerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.VerwaltenActivityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.VerwaltenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.VerwaltenActivityService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-07",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.FreigegebenEventService_3.2",
       "successor": null,
       "discontinuation-version": null,
@@ -1243,6 +1259,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.18",
+      "successor": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.19",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Energie.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -1291,6 +1315,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.BestandteilEntityService_3.1",
+      "successor": "Schleupen.CS.AP.VTM.IndividuellePreise.BestandteilEntityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.IndividuellePreise.VertragspreisQueryService_3.0",
       "successor": "Schleupen.CS.AP.VTM.IndividuellePreise.VertragspreisQueryService_3.1",
       "discontinuation-version": "FV26",
@@ -1312,6 +1344,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-03-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.VerwaltenActivityService_3.6",
+      "successor": "Schleupen.CS.AP.VTM.MSB.Vertraege.VerwaltenActivityService_3.7",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-07",
       "disruption": null
     },
     {
@@ -1355,11 +1395,43 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreisAusMsbPreisblattPreiskatalogQueryService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Preise.PreisAusMsbPreisblattPreiskatalogQueryService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreisAusPreiskatalogQueryService_3.1",
+      "successor": "Schleupen.CS.AP.VTM.Preise.PreisAusPreiskatalogQueryService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreisAusPreiskatalogQueryService_3.4",
+      "successor": "Schleupen.CS.AP.VTM.Preise.PreisAusPreiskatalogQueryService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.PreiskatalogVerwaltenActivityService_3.5",
+      "successor": "Schleupen.CS.AP.VTM.Preise.PreiskatalogVerwaltenActivityService_3.6",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Standard.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
-      "obsolete-since": "2025-09-10",
+      "obsolete-since": "2025-11-06",
       "disruption": null
     },
     {
@@ -1443,6 +1515,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.VertragAktiviertEventService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.VertragAktiviertEventService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-05",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Waerme.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -1488,6 +1568,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.3",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-06",
       "disruption": null
     },
     {
@@ -1696,6 +1784,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Daten.EntityService_3.11",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.Abrechnungen.Daten.EntityService_3.12",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-03",
       "disruption": null
     },
     {
@@ -2128,6 +2224,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.3",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.4",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-05",
       "disruption": null
     },
     {
@@ -3536,6 +3640,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.RAS.Vertraege.UpdatedEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-06",
       "disruption": null
     },
     {
