@@ -395,6 +395,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsstorno.VerarbeitungsschrittFehlerhaftEventService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsstorno.VerarbeitungsschrittFehlerhaftEventService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.DokumentenQueryService_3.0",
       "successor": "Schleupen.CS.AP.BIL.REP.Druck.DokumentenQueryService_3.1",
       "discontinuation-version": "HV26",
@@ -496,6 +504,30 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.QueryService_3.1",
+      "successor": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.QueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.QueryService_3.2",
+      "successor": "Schleupen.CS.AP.MKP.Netznutzungsrahmenvertraege.QueryService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-12",
       "disruption": null
     },
     {
@@ -1243,6 +1275,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.4",
+      "successor": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.5",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.16",
       "successor": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.17",
       "discontinuation-version": "HV26",
@@ -1264,6 +1304,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.19",
+      "successor": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.20",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-09",
       "disruption": null
     },
     {
@@ -1520,6 +1568,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-05",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.VertragRueckabwickelnActivityService_3.2",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.VertragRueckabwickelnActivityService_3.3",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-11",
       "disruption": null
     },
     {
@@ -2104,6 +2160,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.16",
+      "successor": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.17",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-14",
       "disruption": null
     },
     {
@@ -2752,6 +2816,14 @@
       "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-03-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.MEZ.EnergiemengenErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.MEZ.EnergiemengenErmittelnActivityService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-14",
       "disruption": null
     },
     {
@@ -3443,6 +3515,14 @@
       "disruption": "24hLFW"
     },
     {
+      "artifact-id": "Schleupen.CS.PI.AIF.Calendars.HolidayQueryService_3.1",
+      "successor": "Schleupen.CS.PI.AIF.Calendars.HolidayQueryService_3.2",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.AIF.Configuration.ManageCdtConfigurationActivityService_3.1",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -3472,6 +3552,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Users.ExecutionPermissions.RebuildAllEffectiveExecutionPermissionsActivityService_3.0",
+      "successor": "Schleupen.CS.PI.AIF.Users.ExecutionPermissions.RebuildAllEffectiveExecutionPermissionsActivityService_3.1",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Users.ExecutionPermissions.ReportRebuildEffectiveExecutionPermissionsStateActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-11-10",
       "disruption": null
     },
     {
