@@ -1275,14 +1275,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.4",
-      "successor": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.5",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-11-12",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.16",
       "successor": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungsrelevanteVertragsdatenQueryService_3.17",
       "discontinuation-version": "HV26",
