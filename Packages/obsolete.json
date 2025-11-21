@@ -1,26 +1,5 @@
 {
   "document-type": "schleupen.artifactlifecycle.packages.obsolete",
   "format-version": "schleupen.artifactlifecycle.packages.obsolete_1.0",
-  "artifacts": [
-    {
-      "package-id": "Schleupen.XS.PI.PackageBuilders.Services.WebApi.BuildTask",
-      "package-version": "[3.0.2,)",
-      "successor": "Schleupen.XS.PI.PackageBuilders.PrivilegedInterfaces.BuildTask",
-      "successor-version": "[3.0.2,)",
-      "discontinuation-version": "FV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-11",
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.PI.Framework.Resiliency.Castle3",
-      "package-version": "[3.42.2.86,)",
-      "successor": "Schleupen.CS.PI.SB.Resiliency.Castle3",
-      "successor-version": "[3.42.2.138,)",
-      "discontinuation-version": "FV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-19",
-      "disruption": null
-    }
-  ]
+  "artifacts": []
 }
