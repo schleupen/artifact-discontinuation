@@ -3,6 +3,13 @@
   "format-version": "schleupen.artifactlifecycle.cmdlets.removed_1.0",
   "artifacts": [
     {
+      "command": "Add-MarktprozessschrittToMarktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Disable-DeployFakeWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -59,6 +66,13 @@
       "disruption": null
     },
     {
+      "command": "New-Marktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "New-PackageRepositoryFolder",
       "successor": null,
       "discontinuation-version": "HV24",
@@ -80,9 +94,23 @@
       "disruption": null
     },
     {
+      "command": "Remove-MarktprozessschrittFromMarktprozessgruppe",
+      "successor": "Import-Marktprozessgruppen",
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Remove-WorkflowRetryPriority",
       "successor": null,
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Reset-WorkflowInstanceRetryState",
+      "successor": null,
+      "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -146,6 +174,13 @@
       "command": "Set-WorkflowPriority",
       "successor": null,
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Set-WorkflowRetryPriority",
+      "successor": null,
+      "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "disruption": null
     },
