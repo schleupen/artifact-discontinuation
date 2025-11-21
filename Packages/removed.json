@@ -381,11 +381,38 @@
       "disruption": null
     },
     {
+      "package-id": "Schleupen.CS.PI.Framework.Resiliency.Castle3",
+      "package-version": "[3.42.2.86,)",
+      "successor": "Schleupen.CS.PI.SB.Resiliency.Castle3",
+      "successor-version": null,
+      "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "package-id": "Schleupen.CS.PI.SB.SessionToken.Testing.Net",
       "package-version": "[3.0.1,)",
       "successor": "Schleupen.CS.PI.SB.Sessions.Testing.Net",
       "successor-version": null,
       "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting",
+      "package-version": "[3.42.2.136,)",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting.Deployment",
+      "package-version": "[3.42.2.136,)",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV25",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -435,20 +462,11 @@
       "disruption": null
     },
     {
-      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting",
-      "package-version": "[3.42.2.136,)",
-      "successor": null,
+      "package-id": "Schleupen.XS.PI.PackageBuilders.Services.WebApi.BuildTask",
+      "package-version": "[3.0.2,)",
+      "successor": "Schleupen.XS.PI.PackageBuilders.PrivilegedInterfaces.BuildTask",
       "successor-version": null,
-      "discontinuation-version": "WV25",
-      "discontinuation-date": null,
-      "disruption": null
-    },
-    {
-      "package-id": "Schleupen.CS.PI.SB.WorkflowHosting.Deployment",
-      "package-version": "[3.42.2.136,)",
-      "successor": null,
-      "successor-version": null,
-      "discontinuation-version": "WV25",
+      "discontinuation-version": "FV26",
       "discontinuation-date": null,
       "disruption": null
     }
