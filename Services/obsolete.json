@@ -355,6 +355,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungVollstaendigZuruecksetzenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungVollstaendigZuruecksetzenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-08",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.TechnischenFehlerMeldenActivityService_3.3",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.TechnischenFehlerMeldenActivityService_3.4",
       "discontinuation-version": "HV26",
@@ -867,6 +875,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungZuordnungEoG.VersendenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.AnmeldungZuordnungEoG.VersendenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-08",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAnmeldungNeueVerbMalo.EmpfangenEventService_3.0",
       "successor": "Schleupen.CS.AP.MPM.VTM.Prozessmeldungen.BestaetigungAnmeldungNeueVerbMalo.EmpfangenEventService_3.1",
       "discontinuation-version": "HV26",
@@ -1016,6 +1032,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.8",
+      "successor": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.9",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-10",
       "disruption": null
     },
     {
@@ -1816,6 +1840,22 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.sda.Versandauftraege.SdaLockQueryService_3.0",
+      "successor": "Schleupen.CS.gpk.sda.Versandauftraege.SdaLockQueryService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.sda.Versandauftraege.SdaLockVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.gpk.sda.Versandauftraege.SdaLockVerwaltenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-11",
       "disruption": null
     },
     {
