@@ -467,6 +467,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.Weiterleitung.WeiterleitungsregelsetQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-06-12",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.1",
       "discontinuation-version": "HV26",
@@ -584,6 +592,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.5",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.7",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.6",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.7",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-16",
       "disruption": null
     },
     {
@@ -1195,6 +1219,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergebeMarktprozessSynchronisationAn20ActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.sbs.UebergebeMarktprozessSynchronisationAn20ActivityService_3.1",
       "discontinuation-version": "SV26",
@@ -1331,11 +1371,179 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbbruchAnmeldungVerbMaloAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbbruchAnmeldungVerbMaloAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAnmeldungVerbMaloAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AblehnungAnmeldungVerbMaloAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbmeldungBeendigungDerZuordnungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbmeldungBeendigungDerZuordnungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenBKRAVerbrauchendeMaloAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenBKRAVerbrauchendeMaloAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenNNAAlsLFVomNBAnlegenActivityService_3.1",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenNNAAlsLFVomNBAnlegenActivityService_3.2",
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-05-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenNNAAlsLFVomNBAnlegenActivityService_3.2",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AbrechnungsdatenNNAAlsLFVomNBAnlegenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaLoAlsLFVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaLoAlsLFVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsLFVomNBAnlegenActivityService_3.3",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsLFVomNBAnlegenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsMSBVomLFAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsMSBVomLFAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsNBVomLFAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsNBVomLFAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsNBVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMaloAlsNBVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsLFVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsLFVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsNBVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerSRAlsNBVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerTRAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerTRAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDerLokationsbuendelstrukturAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDerLokationsbuendelstrukturAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungMSBAbrechnungsdatenDerMaLoAlsNBVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungMSBAbrechnungsdatenDerMaLoAlsNBVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AnmeldungEogAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AnmeldungEogAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AufhebungZukuenftigerZuordnungAlsLFVomNBActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AufhebungZukuenftigerZuordnungAlsLFVomNBActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BeendigungZuordnungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BeendigungZuordnungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BeendigungZuordnungAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BeendigungZuordnungAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
       "disruption": null
     },
     {
@@ -1352,6 +1560,38 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.2",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAnmeldVerbMaLoAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAnmeldVerbMaLoAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAnmeldVerbMaLoAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.BestaetigungAnmeldVerbMaLoAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.UebermittlungBerechnungsformelAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.UebermittlungBerechnungsformelAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
       "disruption": null
     },
     {
@@ -1416,6 +1656,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-12-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.AbschlagPlaene.AendernActivityService_3.4",
+      "successor": "Schleupen.CS.EEG.EEG.Verguetung.AbschlagPlaene.AendernActivityService_3.5",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
       "disruption": null
     },
     {
@@ -1883,6 +2131,70 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.ETLEntityService_3.3",
+      "successor": "Schleupen.CS.ksp.vma.dok.ETLEntityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.KundenkorrespondenzdatenBereitstellenProcessService_3.3",
+      "successor": "Schleupen.CS.ksp.vma.dok.KundenkorrespondenzdatenBereitstellenProcessService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenFailedEventService_3.1",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenAbgeschlossenEventService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenProcessService_3.4",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenProcessService_3.5",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenSuccessfulEventService_3.1",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenAbgeschlossenEventService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumentErzeugenFailedEventService_3.1",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenAbgeschlossenEventService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumentErzeugenProcessService_3.2",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenProcessService_3.5",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.VertragsDokumentErzeugenSuccessfulEventService_3.1",
+      "successor": "Schleupen.CS.ksp.vma.dok.VertragsDokumenteErzeugenAbgeschlossenEventService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vma.kae.KonzessionsabgabeAendernProcessService_3.1",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -1936,6 +2248,46 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.3",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.3",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungGruppierenActivityService_3.0",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungGruppierenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AblesekartenDruckportionErstellenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AblesekartenDruckportionErstellenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
       "disruption": null
     },
     {
@@ -2241,6 +2593,70 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-09-11",
       "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.AnmeldungenEog.AntwortdatenErmittelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.AnmeldungenEog.EbdPruefungDurchfuehrenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.AnmeldungenEog.ProzesseSynchronisierenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.AnmeldungenEog.ProzesssynchronisationAbgeschlossenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.AnmeldungEogStornierenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.BestaetigungenEogAnmeldung.VersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.EoGBestaetigtEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.egs.StornierungBestaetigtEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-15",
+      "disruption": "24hLFW"
     },
     {
       "artifact-id": "Schleupen.CS.mlf.gwd.GeraetewechselDurchfuehrenFolgeprozesseProcessService_3.1",
@@ -2720,6 +3136,38 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.als.aae.AbleseanforderungFreigebenEventService_3.1",
+      "successor": "Schleupen.CS.mwm.als.aae.AbleseanforderungFreigebenEventService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.als.aae.AblesekartenErstellenActivityService_3.1",
+      "successor": "Schleupen.CS.mwm.als.aae.AblesekartenErstellenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.als.aae.AblesekartenErstellenProcessService_3.1",
+      "successor": "Schleupen.CS.mwm.als.aae.AblesekartenErstellenProcessService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mwm.als.AbleseanforderungFreigegebenEventService_3.1",
+      "successor": "Schleupen.CS.mwm.als.AbleseanforderungFreigegebenEventService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
       "disruption": null
     },
     {
