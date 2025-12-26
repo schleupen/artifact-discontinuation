@@ -611,6 +611,38 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.InfoVorlaeufigeAnmeldebestaetigung.StatusmeldungMsbWechsel.EmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.Statusmeldungen21007.EmpfangenEventService_3.0",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.InfoVorlaeufigeAnmeldebestaetigung.StatusmeldungMsbWechsel.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.Statusmeldungen21007.VersendenActivityService_3.0",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.UebermittlungDesMessstellenumbaustatus.StatusmeldungMsbAnLf.EmpfangenEventService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.Statusmeldungen21025.EmpfangenEventService_3.0",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.UebermittlungDesMessstellenumbaustatus.StatusmeldungMsbAnLf.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.Statusmeldungen21025.VersendenActivityService_3.0",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-22",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.3",
       "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.4",
       "discontinuation-version": "SV26",
@@ -680,6 +712,22 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Marktprozesse.MarktprozessGeraetewechselAbbrechenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Marktprozesse.MarktprozessGeraetewechselStartenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
       "disruption": null
     },
     {
@@ -1267,6 +1315,38 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AblehnungAbmeldungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AblehnungAnmeldungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AblehnungAnmeldungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AbmeldungNNVomNBAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AbmeldungNNVomNBAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungBilanzierungsrelevanteDatenAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungBilanzierungsrelevanteDatenAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungVomMSBOhneAbhaengigkeitenAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungVomMSBOhneAbhaengigkeitenAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "SV26",
@@ -1275,11 +1355,43 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungVomMSBOhneAbhaengigkeitenAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AenderungVomMSBOhneAbhaengigkeitenAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AnmeldungEOGAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AnmeldungEOGAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AufhebungZukuenftigeZuordnungAlsLFVomNBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AufhebungZukuenftigeZuordnungAlsLFVomNBAnlegenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-18",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAbmeldungAlsLFVomNBAnlegenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
       "disruption": null
     },
     {
@@ -1312,6 +1424,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAnfrageStornierungAlsLFVomNBAnlegenActivityService_3.2",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.BestaetigungAnfrageStornierungAlsLFVomNBAnlegenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-23",
       "disruption": null
     },
     {
