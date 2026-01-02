@@ -835,6 +835,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AnmeldungNetznutzung.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AnmeldungNetznutzung.VersendenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BilaRelAenderungVomLf.VersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BilaRelAenderungVomLf.VersendenActivityService_3.1",
       "discontinuation-version": "SV26",
