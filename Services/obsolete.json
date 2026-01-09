@@ -163,6 +163,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsBuchungsmodelle.EntityService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsBuchungsmodelle.EntityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.1",
       "discontinuation-version": "SV26",
@@ -2379,6 +2387,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-07-05",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.3",
       "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.4",
       "discontinuation-version": "WV26",
@@ -3528,6 +3544,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.PBV.Rechnungssimulation.RechnungspositionenErstellenActivityService_3.7",
+      "successor": "Schleupen.CS.VA.PBV.Rechnungssimulation.RechnungspositionenErstellenActivityService_3.8",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-08",
       "disruption": null
     },
     {
