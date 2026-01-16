@@ -827,6 +827,102 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.EnergiemengenUndLeistungsmaxima.EnergiemengeUndLeistungsmaximaVersendenService_3.2",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.EnergiemengenUndLeistungsmaxima.EnergiemengeUndLeistungsmaximaVersendenService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Lastgaenge.LastgangVersendenActivityService_3.6",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Lastgaenge.LastgangVersendenActivityService_3.8",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Lastgaenge.LastgangVersendenActivityService_3.7",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Lastgaenge.LastgangVersendenActivityService_3.8",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.MesswertreklamationVersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Messwertreklamationen.MesswertreklamationVersendenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlageGeloeschtEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlagenLoeschenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlagenVerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlagenVerteilenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlagenverteilungNeugestartetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlagenverteilungStartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.VorlageVerteilenFehlgeschlagenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.8",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.9",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandZuGeraetwechselEntgegenGenommenEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV26",
@@ -2355,6 +2451,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.anr.VertragsanlageAnreichernActivityService_3.2",
+      "successor": "Schleupen.CS.ksp.vpm.anr.VertragsanlageAnreichernActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.anr.VorgangAnreichernActivityService_3.1",
       "successor": "Schleupen.CS.ksp.vpm.anr.VorgangAnreichernActivityService_3.2",
       "discontinuation-version": "WV26",
@@ -3232,6 +3336,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lws.Lieferantenwechsel.ErfolgreichEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-12",
       "disruption": null
     },
     {
