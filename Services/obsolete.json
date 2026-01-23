@@ -171,6 +171,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsmodellEntityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsmodellEntityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.1",
       "discontinuation-version": "SV26",
@@ -227,6 +235,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbgerechneteRechnungQueryService_3.6",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbgerechneteRechnungQueryService_3.7",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-21",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbrechnungMonitorenActivityService_3.2",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbrechnungMonitorenActivityService_3.3",
       "discontinuation-version": "HV26",
@@ -272,6 +288,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-07-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.11",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.12",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-21",
       "disruption": null
     },
     {
@@ -376,6 +400,22 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-23",
       "disruption": null
     },
     {
@@ -560,6 +600,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
       "disruption": null
     },
     {
@@ -2321,6 +2369,38 @@
       "discontinuation-date": null,
       "obsolete-since": "2025-10-14",
       "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.0",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.2",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattEmpfaengerErmittelnActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.mmv.Configuration.GeraetewechselOhneAntwortActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-01-20",
+      "disruption": "24hLFW"
     },
     {
       "artifact-id": "Schleupen.CS.gpk.sda.Versandauftraege.SdaLockQueryService_3.0",
