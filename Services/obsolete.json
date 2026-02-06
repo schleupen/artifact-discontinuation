@@ -187,6 +187,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsmodellEntityService_3.3",
+      "successor": "Schleupen.CS.AP.BIL.Abschlagssteuerung.AbschlagsmodellEntityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Buchungsuebergabe.BuchungsuebergabeDurchgefuehrtEventService_3.1",
       "discontinuation-version": "SV26",
@@ -299,11 +307,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.22",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.23",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.10",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.11",
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-26",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.11",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.12",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-01",
       "disruption": null
     },
     {
@@ -360,6 +384,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-26",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.14",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.15",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-01",
       "disruption": null
     },
     {
@@ -464,6 +496,30 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.VorlaeufigenAbschlagsplanGenerierenActivityService_3.10",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.VorlaeufigenAbschlagsplanGenerierenActivityService_3.11",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungssperreSetzenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.0",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-05",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.53",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.54",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-04",
       "disruption": null
     },
     {
@@ -800,6 +856,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteZuordnenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.MarktobjekteZuordnenActivityService_3.1",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-02",
       "disruption": null
     },
     {
@@ -1176,6 +1240,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.SI.BRDAdapterEDM.Export.PaketExportierenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.SI.BRDAdapterEDM.Export.PaketExportierenActivityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-02",
       "disruption": null
     },
     {
@@ -2035,6 +2107,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.2",
+      "successor": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.Profildefinitionen.EntityService_3.4",
       "successor": "Schleupen.CS.EL.AUB.Profildefinitionen.EntityService_3.5",
       "discontinuation-version": "SV26",
@@ -2387,6 +2467,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungskontierungsgegenstaende.EntityService_3.2",
+      "successor": "Schleupen.CS.FW.REB.Eingangsrechnungskontierungsgegenstaende.EntityService_3.3",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-04",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.6",
       "successor": "Schleupen.CS.FW.REB.EingangsrechnungsPruefschritt.QueryService_3.7",
       "discontinuation-version": "HV26",
@@ -2480,6 +2568,22 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.0",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.1",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-02",
       "disruption": null
     },
     {
@@ -3552,14 +3656,6 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.mwm.als.aae.AbleseanforderungFreigebenEventService_3.1",
-      "successor": "Schleupen.CS.mwm.als.aae.AbleseanforderungFreigebenEventService_3.2",
-      "discontinuation-version": "WV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-12-19",
       "disruption": null
     },
     {
