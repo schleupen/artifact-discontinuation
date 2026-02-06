@@ -355,6 +355,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.12",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.13",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.9",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.10",
       "discontinuation-version": "SV26",
@@ -2507,6 +2515,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.ZM.Girokontoauszuege.EntityService_3.16",
+      "successor": "Schleupen.CS.FW.ZM.Girokontoauszuege.EntityService_3.17",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.1",
       "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.2",
       "discontinuation-version": "HV26",
@@ -2515,11 +2531,83 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugManuellErfassenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugManuellErfassenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugPositionenAutomatischVerarbeitenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugPositionenAutomatischVerarbeitenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugPositionPortionsErstellungActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugPositionPortionsErstellungActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugsdateiCheckActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugsdateiCheckActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugUndPositionenLesenActivityService_3.3",
       "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugUndPositionenLesenActivityService_3.4",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.ManuelleZuordnungUebernehmenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.ManuelleZuordnungUebernehmenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.RuecklastschriftenAbgebenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.RuecklastschriftenAbgebenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.StatusDerGebuchtenPositionenAktualisierenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.StatusDerGebuchtenPositionenAktualisierenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Personenkonten.SperreEntfernenActivityService_3.9",
+      "successor": "Schleupen.CS.FW.ZM.Personenkonten.SperreEntfernenActivityService_3.10",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Personenkonten.SperreSetzenActivityService_3.9",
+      "successor": "Schleupen.CS.FW.ZM.Personenkonten.SperreSetzenActivityService_3.10",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-06",
       "disruption": null
     },
     {
