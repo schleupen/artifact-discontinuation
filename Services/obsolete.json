@@ -11,6 +11,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.abm.abk.AbschlagsplanAnzeigenActivityService_3.3",
+      "successor": "Schleupen.CS.abr.abm.abk.AbschlagsplanAnzeigenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-08",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.ael.raw.EnergievertragsabschlussRueckabwickelnProcessService_3.1",
       "successor": "Schleupen.CS.abr.ael.raw.EnergievertragsabschlussRueckabwickelnProcessService_3.2",
       "discontinuation-version": "HV26",
