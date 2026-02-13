@@ -2619,11 +2619,147 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.ZM.Rueckgabesteuerungen.SepaCodeGruppen.EntityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Rueckgabesteuerungen.SepaCodeGruppen.EntityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.UnternehmensbankverbindungCfgs.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.ZM.UnternehmensbankverbindungCfgs.EntityService_3.6",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Unternehmensbankverbindungen.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.ZM.Unternehmensbankverbindungen.EntityService_3.6",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.EntityService_3.5",
       "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.EntityService_3.6",
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.SepaDateienGenerierenActivityService_3.4",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.SepaDateienGenerierenActivityService_3.5",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAbgebrochenAufgabeErstellenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAbgebrochenAufgabeErstellenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAnlegenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAnlegenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAnlegenUndDurchfuehrenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufAnlegenUndDurchfuehrenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufDateiDownloadInfoSetzenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufDateiDownloadInfoSetzenActivityService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufDurchgefuehrtActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufDurchgefuehrtActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufRueckmeldungDetailsSuchenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahllaufRueckmeldungDetailsSuchenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlpositionAbgleichActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlpositionAbgleichActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionenSelektierenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionenSelektierenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionenZurueckmeldenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionenZurueckmeldenActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionRueckmeldungBestaetigungActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungspositionRueckmeldungBestaetigungActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufActivityService_3.3",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufActivityService_3.4",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufActivityService_3.4",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufActivityService_3.5",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufReservierenActivityService_3.11",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufReservierenActivityService_3.12",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-10",
       "disruption": null
     },
     {
@@ -2720,6 +2856,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vam.vas.GesamtkostenUndAbschlagErmittelnActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-12",
       "disruption": null
     },
     {
@@ -3128,14 +3272,6 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-14",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.ZaehlerMessabschnitte.EntityService_3.6",
-      "successor": null,
-      "discontinuation-version": "SV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-06-05",
       "disruption": null
     },
     {
@@ -3771,6 +3907,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mwm.als.AbleseanforderungFreigegebenEventService_3.1",
+      "successor": "Schleupen.CS.mwm.als.AbleseanforderungFreigegebenEventService_3.2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.mwm.clr.Buendel.MesswertbuendelLoeschenProcessService_3.2",
       "successor": "Schleupen.CS.mwm.clr.Buendel.MesswertbuendelLoeschenProcessService_3.3",
       "discontinuation-version": "SV26",
@@ -3936,6 +4080,14 @@
       "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-06-30",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.AddServiceImplementationActivityService_3.5",
+      "successor": "Schleupen.CS.PI.SB.Registry.AddServiceImplementationActivityService_3.6",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-02-13",
       "disruption": null
     },
     {
