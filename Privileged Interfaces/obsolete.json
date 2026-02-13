@@ -1,5 +1,41 @@
 {
   "document-type": "schleupen.artifactlifecycle.privilegedinterfaces.obsolete",
   "format-version": "schleupen.artifactlifecycle.privilegedinterfaces.obsolete_1.0",
-  "artifacts": []
+  "artifacts": [
+		{
+            "artifact-id": "Schleupen.CS.MDM.MWM.PRV.AbleseanforderungenExportierenActivityService_3.1",
+            "successor": "Schleupen.CS.MDM.MWM.PRV.AbleseanforderungenExportierenActivityService_3.3",
+            "documentation": "https://developer-campus.de/tracks/integration/messwertmanagement/smgwa2cs-api-3-2/smgwa2cs-api-3-2-2/",
+            "discontinuation-date": "2027-02-24",
+            "obsolete-since": "2026-02-13"
+        },
+		{
+            "artifact-id": "Schleupen.CS.MDM.MWM.PRV.AbleseanforderungenExportierenActivityService_3.2",
+            "successor": "Schleupen.CS.MDM.MWM.PRV.AbleseanforderungenExportierenActivityService_3.3",
+            "documentation": "https://developer-campus.de/tracks/integration/messwertmanagement/smgwa2cs-api-3-2/smgwa2cs-api-3-2-2/",
+            "discontinuation-date": "2027-02-24",
+            "obsolete-since": "2026-02-13"
+        },
+		{
+            "artifact-id": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.0",
+            "successor": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.3",
+            "documentation": "https://developer-campus.de/tracks/integration/messwertmanagement/smgwa2cs-api-3-2/smgwa2cs-api-3/",
+            "discontinuation-date": "2027-02-24",
+            "obsolete-since": "2026-02-13"
+        },
+		{
+            "artifact-id": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.1",
+            "successor": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.3",
+            "documentation": "https://developer-campus.de/tracks/integration/messwertmanagement/smgwa2cs-api-3-2/smgwa2cs-api-3/",
+            "discontinuation-date": "2027-02-24",
+            "obsolete-since": "2026-02-13"
+        },
+		{
+            "artifact-id": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.2",
+            "successor": "Schleupen.CS.MDM.MWM.PRV.LastgangAggregatingQueryService_3.3",
+            "documentation": "https://developer-campus.de/tracks/integration/messwertmanagement/smgwa2cs-api-3-2/smgwa2cs-api-3/",
+            "discontinuation-date": "2027-02-24",
+            "obsolete-since": "2026-02-13"
+        }
+	]
 }
