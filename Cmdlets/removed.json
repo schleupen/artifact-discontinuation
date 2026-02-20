@@ -10,6 +10,41 @@
       "disruption": null
     },
     {
+      "command": "Construct-FtpServerConfiguration",
+      "successor": "Construct-FtpServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Construct-ImapServerConfiguration",
+      "successor": "Construct-ImapServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Construct-Pop3ServerConfiguration",
+      "successor": "Construct-Pop3ServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Construct-SmtpServerConfiguration",
+      "successor": "Construct-SmtpServerConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Convert-ServerConfiguration",
+      "successor": null,
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Disable-DeployFakeWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -66,6 +101,20 @@
       "disruption": null
     },
     {
+      "command": "New-EmailPostboxConfiguration",
+      "successor": "New-EmailPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "New-FtpPostboxConfiguration",
+      "successor": "New-FtpPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "New-Marktprozessgruppe",
       "successor": "Import-Marktprozessgruppen",
       "discontinuation-version": "FV26",
@@ -101,6 +150,13 @@
       "disruption": null
     },
     {
+      "command": "Remove-PostboxConfiguration",
+      "successor": "Remove-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Remove-WorkflowRetryPriority",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -132,6 +188,13 @@
       "command": "Select-Bilanzierungsgebiet",
       "successor": "Select-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Select-PostboxConfiguration",
+      "successor": "Select-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -185,6 +248,13 @@
       "disruption": null
     },
     {
+      "command": "Test-EmailPostboxConfiguration",
+      "successor": "Test-EmailPostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Uninstall-Workflows",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -199,9 +269,30 @@
       "disruption": null
     },
     {
+      "command": "Update-CSPostboxPassword",
+      "successor": "Update-CSPostboxPassword2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Update-PostboxConfiguration",
+      "successor": "Update-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Validate-Bilanzierungsgebiet",
       "successor": "Validate-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Validate-PostboxConfiguration",
+      "successor": "Validate-PostboxConfiguration2",
+      "discontinuation-version": "SV26",
       "discontinuation-date": null,
       "disruption": null
     }
