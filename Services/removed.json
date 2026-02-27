@@ -3384,6 +3384,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.18",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.19",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.20",
       "discontinuation-version": "SV26",
@@ -3951,6 +3958,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Abweichungstoleranzen.EntityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -4119,6 +4140,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.1",
       "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.3",
       "discontinuation-version": "HV25",
@@ -4158,6 +4186,13 @@
       "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
       "disruption": null
     },
     {
@@ -4242,6 +4277,13 @@
       "successor": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationAktivierenActivityService_3.4",
       "discontinuation-version": "HV25",
       "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-02-23",
       "disruption": null
     },
     {
