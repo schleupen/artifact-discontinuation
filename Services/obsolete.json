@@ -227,6 +227,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.23",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.24",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-03",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.24",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.25",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.10",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.11",
       "discontinuation-version": "WV26",
@@ -243,11 +259,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.12",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.13",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-04",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.9",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.10",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.9",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.10",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-06",
       "disruption": null
     },
     {
@@ -264,6 +296,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.13",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.14",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-05",
       "disruption": null
     },
     {
@@ -296,6 +336,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.15",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.16",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-04",
       "disruption": null
     },
     {
@@ -536,6 +584,22 @@
       "discontinuation-version": null,
       "discontinuation-date": "2027-12-31",
       "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.5",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.6",
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-10-06",
+      "obsolete-since": "2026-03-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.6",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.7",
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-10-06",
+      "obsolete-since": "2026-03-06",
       "disruption": null
     },
     {
@@ -1555,6 +1619,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.1",
+      "successor": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.edi.daa.uev.WeiterleitungsregelnAuswertenProcessService_3.0",
       "successor": "Schleupen.CS.edi.daa.uev.WeiterleitungsregelnAuswertenProcessService_3.1",
       "discontinuation-version": "HV26",
@@ -1795,14 +1867,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.AnnehmenActivityService_3.18",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.3",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.4",
       "discontinuation-version": "HV26",
@@ -1904,6 +1968,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-05",
       "disruption": null
     },
     {
@@ -2427,43 +2499,11 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.0",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesekartenempfaenger.EntityService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.13",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.14",
       "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.EntityService_3.15",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-25",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.MarktlokationQueryService_3.14",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
       "disruption": null
     },
     {
@@ -2496,14 +2536,6 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-06",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Messlokationen.MesslokationQueryService_3.5",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
-      "obsolete-since": "2024-05-16",
       "disruption": null
     },
     {
@@ -2731,6 +2763,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mwm.mml.IOP.StornierungAusVAVerarbeitenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-05",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.NM.IOP.Prozessmeldungen.AnmeldungNetznutzungDatenQueryService_3.0",
       "successor": "Schleupen.CS.NM.IOP.Prozessmeldungen.AnmeldungNetznutzungDatenQueryService_3.1",
       "discontinuation-version": "HV26",
@@ -2768,6 +2808,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-21",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Mails.MailConfigurationActivityService_3.2",
+      "successor": "Schleupen.CS.PI.AIF.Mails.MailConfigurationActivityService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-05",
       "disruption": null
     },
     {
@@ -2832,6 +2880,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SR.SourceRepositoryQueryService_3.3",
+      "successor": "Schleupen.CS.PI.SR.SourceRepositoryQueryService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-02",
       "disruption": null
     },
     {
