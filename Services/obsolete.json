@@ -355,11 +355,35 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceErgaenzenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-09-08",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-09-08",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.1",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-09-08",
+      "obsolete-since": "2024-05-16",
       "disruption": null
     },
     {
@@ -472,6 +496,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-05",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungsstandErmittelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungsstandErmittelnActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-11",
       "disruption": null
     },
     {
@@ -832,6 +864,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-15",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.8",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.9",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-12",
       "disruption": null
     },
     {
@@ -2688,6 +2728,22 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lws.MarktlokationGeprueftEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lws.MarktlokationPruefenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-10",
       "disruption": null
     },
     {
