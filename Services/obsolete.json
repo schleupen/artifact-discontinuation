@@ -531,6 +531,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungspruefung.PruefungenVerwaltenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungspruefung.PruefungenVerwaltenActivityService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-17",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsstorno.VerarbeitungsschrittFehlerhaftEventService_3.1",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsstorno.VerarbeitungsschrittFehlerhaftEventService_3.2",
       "discontinuation-version": "HV26",
@@ -560,6 +568,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-09",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.IOP.MarktmeldungAbgelehntEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-17",
       "disruption": null
     },
     {
@@ -659,6 +675,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsparameterVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsparameterVersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.UebermittlungenKommunikationsparameter.UebermittlungKommunikationsparameterEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.5",
       "successor": "Schleupen.CS.AP.MPM.IFS.Datenformatobjekte.IftstaDatenformatobjektQueryService_3.7",
       "discontinuation-version": "WV26",
@@ -715,6 +755,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050StartenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Korrekturen.Korrektur736050StartenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Prozessmeldungen.Marktrechnungen.WiderspruchAbweisung.VerwaltenActivityService_3.3",
       "successor": "Schleupen.CS.AP.MPM.COM.Prozessmeldungen.AblehnungenRemadv.VersendenActivityService_3.0",
       "discontinuation-version": "HV26",
@@ -760,6 +808,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.VorlaeufigeMarktobjekteAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.VorlaeufigeMarktobjekteAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
       "disruption": null
     },
     {
@@ -968,6 +1024,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-13",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.9",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.10",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
       "disruption": null
     },
     {
@@ -1259,6 +1323,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.ZD.SteuerrelevanteDaten.SteuerrelevanteDatenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.ZD.SteuerrelevanteDaten.SteuerrelevanteDatenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-13",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.sbs.UebergabeNetznutzungsdatenAn20ActivityService_3.1",
       "discontinuation-version": "WV26",
@@ -1515,11 +1587,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-12-19",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-16",
       "disruption": null
     },
     {
@@ -2912,6 +3000,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.DP.Deployment.WriteMessageCallbackService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-20",
       "disruption": null
     },
     {
