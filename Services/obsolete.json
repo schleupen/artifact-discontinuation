@@ -587,6 +587,94 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.1",
+      "successor": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Bilanzkreisverantwortliche.BilanzkreisverantwortlicherVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Bilanzkreisverantwortliche.BilanzkreisverantwortlicherVerwaltenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Dienstleister.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Dienstleister.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.ErstelleOderAktualisiereLieferantActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.ErstelleOderAktualisiereLieferantActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.ErstelleOderAktualisiereNetzbetreiberActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.ErstelleOderAktualisiereNetzbetreiberActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.2",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.3",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.4",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MKP.Marktpartner.MarktpartnerImportKonfigurationVerwaltenActivityService_3.1",
       "discontinuation-version": "HV26",
@@ -632,6 +720,14 @@
       "discontinuation-version": null,
       "discontinuation-date": "2027-12-31",
       "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.8",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.9",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
       "disruption": null
     },
     {
@@ -747,6 +843,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.3",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.5",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.4",
       "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.5",
       "discontinuation-version": "HV26",
@@ -755,11 +875,19 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050StartenActivityService_3.0",
-      "successor": "Schleupen.CS.AP.MPM.MAR.Korrekturen.Korrektur736050StartenActivityService_3.1",
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050CommandService_3.0",
+      "successor": null,
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
-      "obsolete-since": "2026-03-16",
+      "obsolete-since": "2026-03-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050StartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-25",
       "disruption": null
     },
     {
@@ -877,14 +1005,6 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelVersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.ZZD.Prozessmeldungen.Berechnungsformeln.VersendenActivityService_3.0",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-02",
-      "disruption": "24hLFW"
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelVerwaltenActivityService_3.0",
-      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-09-02",
@@ -1176,6 +1296,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-11-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragRueckabwickelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragRueckabwickelnActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-25",
       "disruption": null
     },
     {
@@ -2011,6 +2139,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.5",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.12",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.13",
       "discontinuation-version": "HV26",
@@ -2571,6 +2707,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.taw.TarifWechselVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.taw.TarifWechselAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.14",
       "successor": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.15",
       "discontinuation-version": "HV26",
@@ -2936,6 +3080,30 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozess.EntsperrungDurchLieferbeginnEntgegenGenommenEventService_3.0",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozess.EntsperrungDurchLieferbeginnEntgegenGenommenEventService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.0",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.1",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-03-23",
       "disruption": null
     },
     {
