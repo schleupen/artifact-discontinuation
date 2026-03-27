@@ -979,14 +979,6 @@
       "disruption": "24hLFW"
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAblehnungVerwaltenActivityService_3.1",
-      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-02",
-      "disruption": "24hLFW"
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelAntwortVersendenActivityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.ZZD.Prozessmeldungen.AntwortenAufBerechnungsformel.VersendenActivityService_3.0",
       "discontinuation-version": "HV26",
@@ -1012,14 +1004,6 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelZustimmungVerwaltenActivityService_3.0",
-      "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
-      "discontinuation-version": "HV26",
-      "discontinuation-date": null,
-      "obsolete-since": "2025-09-02",
-      "disruption": "24hLFW"
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Berechnungsformeln.BerechnungsformelZustimmungVerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.AP.MPM.ZZD.Datenformatobjekte.UtiltsDatenformatobjektQueryService_3.4",
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
@@ -2749,7 +2733,7 @@
     {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.3",
       "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungenExportierenActivityService_3.4",
-      "discontinuation-version": "WV26",
+      "discontinuation-version": "HV27",
       "discontinuation-date": null,
       "obsolete-since": "2025-12-19",
       "disruption": null
@@ -3256,6 +3240,30 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.Montage.EIRPositionenZurInstallationFreigegebenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.Montage.InstallationsprozessStartenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.Montage.ArbeitspaketvorgabenAnfrageAbgeschlossenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-10",
       "disruption": null
     },
     {
