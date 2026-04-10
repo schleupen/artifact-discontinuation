@@ -1267,6 +1267,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.1",
+      "successor": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Gas.Vertraege.UpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -2752,6 +2768,22 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vbe.VertragsBeendigungDurchNetzbetreiberActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vbe.VertragsBeendigungDurchNetzbetreiberAnlegenActivityService_3.0",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vbe.VertragsBeendigungDurchNetzbetreiberActivityService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vbe.VertragsBeendigungDurchNetzbetreiberAnlegenActivityService_3.0",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-08",
       "disruption": null
     },
     {
