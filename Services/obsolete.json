@@ -491,6 +491,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungssperreSetzenActivityService_3.2",
       "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.0",
       "discontinuation-version": "WV26",
@@ -784,6 +792,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.3",
+      "successor": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-13",
       "disruption": null
     },
     {
@@ -1499,11 +1515,11 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.ars.clr.sbs.UebergebePrognosedatenAn20ActivityService_3.0",
-      "successor": null,
-      "discontinuation-version": "WV26",
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.AnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.AnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
-      "obsolete-since": "2026-02-16",
+      "obsolete-since": "2026-04-13",
       "disruption": null
     },
     {
@@ -1576,6 +1592,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-12-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AntwortAufBilRelAnfrageAnNBMitAbhaengigkeitenAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AntwortAufBilRelAnfrageAnNBMitAbhaengigkeitenAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-14",
       "disruption": null
     },
     {
@@ -2115,6 +2139,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.17",
+      "successor": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.18",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-17",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.3",
       "successor": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.4",
       "discontinuation-version": "FV27",
@@ -2592,6 +2624,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-14",
       "disruption": null
     },
     {
