@@ -43,6 +43,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.3",
+      "successor": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-21",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.0",
       "successor": "Schleupen.CS.abr.gas.raw.GasvertragsanlageRueckabwickelnProcessService_3.1",
       "discontinuation-version": "HV26",
@@ -104,6 +112,14 @@
       "discontinuation-version": "HV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-10-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.4",
+      "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-21",
       "disruption": null
     },
     {
@@ -584,6 +600,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsbestaetigungsstatusSetzenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsbestaetigungsstatusSetzenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-23",
       "disruption": null
     },
     {
