@@ -2243,14 +2243,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.5",
-      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.6",
-      "discontinuation-version": "FV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-03-23",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.12",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.13",
       "discontinuation-version": "HV26",
@@ -2827,6 +2819,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.4",
+      "successor": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-04-27",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.taw.TarifWechselVerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.ksp.vpm.Prozessarten.taw.TarifWechselAnlegenActivityService_3.1",
       "discontinuation-version": "FV27",
@@ -2847,7 +2847,7 @@
       "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vbe.VertragsBeendigungDurchNetzbetreiberAnlegenActivityService_3.0",
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
-      "obsolete-since": "2026-04-08",
+      "obsolete-since": "2026-04-29",
       "disruption": null
     },
     {
