@@ -1267,14 +1267,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.SI.Demands.DemandActivityService_3.5",
-      "successor": "Schleupen.CS.AP.SI.Demands.DemandActivityService_3.6",
-      "discontinuation-version": "FV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-05-05",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.SI.Demands.SaveDemandsCommandService_3.0",
       "successor": "Schleupen.CS.AP.SI.Demands.SaveDemandsCommandService_3.1",
       "discontinuation-version": "FV27",
