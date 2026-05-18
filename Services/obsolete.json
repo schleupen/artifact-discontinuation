@@ -3099,11 +3099,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungMonitorQueryService_3.2",
+      "successor": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungMonitorQueryService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-05-18",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.MesssystemDeaktivierungEntityService_3.2",
       "successor": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.MesssystemDeaktivierungEntityService_3.3",
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.Monitor.ProzesseErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.Monitor.ProzesseErmittelnActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-05-18",
       "disruption": null
     },
     {
@@ -3357,7 +3373,7 @@
     {
       "artifact-id": "Schleupen.CS.PI.AIF.Configuration.ManageCdtConfigurationActivityService_3.1",
       "successor": null,
-      "discontinuation-version": "HV26",
+      "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-08-21",
       "disruption": null
