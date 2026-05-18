@@ -20,3 +20,4 @@ In jedem dieser Verzeichnisse finden sich jeweils eine `obsolete.json`- und eine
       "disruption": "24hLFW"               // Angabe, ob es eine Disruption gibt, an der der Service umgestellt werden muss
     },
 ```
+Beachte: Die Versionsangaben in den Dateien `obsolete.json` und `removed.json` (z.B. `discontinuation-version` in obigem Beispiel) beziehen sich auf den **Entwicklungsbeginn** (hier WV24). Dieser unterscheidet sich vom **Auslieferungszeitpunkt** der jeweiligen Version, der nach Abschluss der Entwicklungsperiode liegt. Die beiden Zeitpunkte haben damit typischerweise einen Abstand von ca. 3 Monaten. 
