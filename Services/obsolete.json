@@ -19,6 +19,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.gas.eab.AbrechnungsbestandCacheAnreichernProcessService_3.0",
+      "successor": "Schleupen.CS.abr.gas.eab.AbrechnungsbestandCacheAnreichernProcessService_3.1",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-05-22",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.4",
       "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.5",
       "discontinuation-version": "FV27",
