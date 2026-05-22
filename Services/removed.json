@@ -4133,6 +4133,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.12",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.13",
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.SperreSetzenActivityService_3.2",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.SperreSetzenActivityService_3.3",
       "discontinuation-version": "HV25",
