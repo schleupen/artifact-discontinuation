@@ -4203,6 +4203,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlwegAnlageKonfigurationEntityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-06-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragsvorschlaege.FreizugebendeZahlungsauftraegeSuchenActivityService_3.3",
       "successor": null,
       "discontinuation-version": "FV25",
