@@ -268,10 +268,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.16",
-      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.17",
-      "discontinuation-version": "FV27",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.18",
+      "discontinuation-version": "SV27",
       "discontinuation-date": null,
-      "obsolete-since": "2026-05-06",
+      "obsolete-since": "2026-06-05",
       "disruption": null
     },
     {
@@ -1187,6 +1187,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.2",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeloAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "WV26",
@@ -1467,10 +1475,18 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlauftragssteuerungEntityService_3.4",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-11-26",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlwegAnlageKonfigurationEntityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2026-06-02",
+      "discontinuation-date": "2026-12-01",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
