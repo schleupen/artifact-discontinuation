@@ -1475,22 +1475,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlauftragssteuerungEntityService_3.4",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-11-26",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlwegAnlageKonfigurationEntityService_3.0",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-12-01",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.FW.REB.Eingangsrechnungskontierungsgegenstaende.EntityService_3.2",
       "successor": "Schleupen.CS.FW.REB.Eingangsrechnungskontierungsgegenstaende.EntityService_3.3",
       "discontinuation-version": "WV26",
@@ -2043,6 +2027,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.StammdatenAendernActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.Commands.NetznutzungsqualitaetErstellenCommandInBearbeitungGesetztEventService_3.0",
       "successor": "Schleupen.CS.MDM.MWM.Messwerte.Commands.NetznutzungsqualitaetErstellenCommandInBearbeitungGesetztEventService_3.1",
       "discontinuation-version": "WV26",
@@ -2056,6 +2048,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.MEZ.EnergiemengenErmittelnActivityService_3.2",
+      "successor": "Schleupen.CS.MDM.MWM.MEZ.EnergiemengenErmittelnActivityService_3.3",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-08",
       "disruption": null
     },
     {
