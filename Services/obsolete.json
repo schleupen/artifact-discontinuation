@@ -51,6 +51,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.EntityService_3.6",
+      "successor": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.EntityService_3.7",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-15",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.QueryService_3.7",
+      "successor": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.QueryService_3.8",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.VerwaltenActivityService_3.6",
+      "successor": "Schleupen.CS.AP.BIL.Abrechnungsmodelle.VerwaltenActivityService_3.7",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-17",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.AbrechnungsobjektRueckabwickelnActivityService_3.1",
       "successor": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.AbrechnungsobjektRueckabwickelnActivityService_3.2",
       "discontinuation-version": "WV26",
@@ -390,7 +414,7 @@
       "artifact-id": "Schleupen.CS.AP.MK.Weiterleitung.WeiterleitungsregelsetQueryService_3.1",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2026-06-12",
+      "discontinuation-date": "2026-12-11",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -592,6 +616,38 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2025-12-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.AuftragsstatusZaehlzeitendefinitionKonfiguration.EmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.AuftragsstatusZaehlzeitendefinitionKonfigurationVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.GescheiterteBestellung.GescheiterteBestellungEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.IFS.Prozessmeldungen.GescheiterteBestellung.GescheiterteBestellungVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
       "disruption": null
     },
     {
@@ -1499,6 +1555,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.ZM.Girokontoauszuege.KontoauszugsdateiCheckActivityService_3.5",
+      "successor": "Schleupen.CS.FW.ZM.Girokontoauszuege.KontoauszugsdateiCheckCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugManuellErfassenActivityService_3.1",
       "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.KontoauszugManuellErfassenActivityService_3.2",
       "discontinuation-version": "WV26",
@@ -1552,6 +1616,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.ZahlungsAvisVerarbeitenActivityService_3.0",
+      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.ZahlungsAvisVerarbeitenCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
       "disruption": null
     },
     {
@@ -1704,6 +1776,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufActivityService_3.5",
+      "successor": "Schleupen.CS.FW.ZM.Zahllaeufe.ZahlungWiderrufCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-16",
       "disruption": null
     },
     {
@@ -1971,6 +2051,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.3",
+      "successor": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.4",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-18",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.3",
       "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungAnreichernActivityService_3.4",
       "discontinuation-version": "WV26",
@@ -2016,6 +2104,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-04-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ablesemodelle.QueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-15",
       "disruption": null
     },
     {
