@@ -570,6 +570,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.Weiterleitung.WeiterleitungsregelsetQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-06-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationsverbindungen.QueryService_3.4",
       "successor": null,
       "discontinuation-version": "HV24",
