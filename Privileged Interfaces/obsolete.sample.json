@@ -16,6 +16,19 @@
             "discontinuation-date": "2025-01-01",
             "obsolete-since": "2024-02-12",
             "disruption": "24hLFW"
-        }
+        },
+        {
+            "artifact-id": "Schleupen.CS.PRV.CRM.CRM.KON.Services_3.45",
+            "successor": "Schleupen.CS.PRV.CRM.CRM.KON.Services_3.46",
+            "documentation": "https://developer-campus.de/tracks/integration/crm/schleupen-crm-schnittstelle/",
+            "discontinuation-Date": "2027-01-01",
+            "obsolete-since": "2026-06-01",
+			"obsolete-routes": [
+				{ 
+					"obsolete-route" : "prozessstatus/{correlationId}/V3_1/",
+					"successor: "prozessstatus/{correlationId}/V3_2/"
+				}
+			]
+        },
     ]
 }
