@@ -1,5 +1,46 @@
 {
   "document-type": "schleupen.artifactlifecycle.packages.obsolete",
   "format-version": "schleupen.artifactlifecycle.packages.obsolete_1.0",
-  "artifacts": []
+  "artifacts": [
+    {
+      "package-id": "Schleupen.CS.PI.AIF.ScheduledServices.Testing.Net",
+      "package-version": "[3.0.3.0,3.0.3.90]",
+      "successor": null,
+      "successor-version": "[3.0.3.91,)",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-03",
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.AIF.ScheduledServices.Testing.Net",
+      "package-version": "[3.0.1.0,3.0.1.70]",
+      "successor": null,
+      "successor-version": "[3.0.1.71,)",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-03",
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.BPE.Tasks.Testing.Net",
+      "package-version": "[3.0.3.0,3.0.3.100]",
+      "successor": null,
+      "successor-version": "[3.0.3.101,)",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-03",
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.BPE.Tasks.Testing.Net",
+      "package-version": "[3.0.1.0,3.0.1.83]",
+      "successor": null,
+      "successor-version": "[3.0.1.84,)",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-03",
+      "disruption": null
+    }
+  ]
 }
