@@ -179,6 +179,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.13",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.14",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.10",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.11",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.9",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.10",
       "discontinuation-version": "FV27",
@@ -271,6 +287,14 @@
       "successor": null,
       "discontinuation-version": null,
       "discontinuation-date": "2026-09-08",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-12-27",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -600,6 +624,14 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-06-22",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AngeboteAbrechnungMessstellenbetrieb.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AngeboteAbrechnungMessstellenbetrieb.VersendenActivityService_3.1",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-27",
       "disruption": null
     },
     {
@@ -1467,6 +1499,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.KOM.Netzgebiete.NetzgebietEntityService_3.3",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-02",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.2",
       "successor": "Schleupen.CS.EL.AUB.EXP.EDMExport.ExportPaketQueryService_3.3",
       "discontinuation-version": "WV26",
@@ -2176,6 +2216,22 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-06-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.AenderungDatenDerTrAlsLfVomNbActivityService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.AenderungDatenDerTrAlsLfVomNbActivityService_3.1",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.EntityService_3.3",
+      "successor": "Schleupen.CS.MDM.SDM.STR.TechnischeRessource.EntityService_3.4",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-30",
       "disruption": null
     },
     {
