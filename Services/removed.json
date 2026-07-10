@@ -7402,6 +7402,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-07-05",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.2",
       "successor": "Schleupen.CS.ksp.vtm.vba.EnergievertragQueryService_3.3",
       "discontinuation-version": "HV25",
