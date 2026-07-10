@@ -26,7 +26,7 @@
 			"obsolete-routes": [
 				{ 
 					"obsolete-route" : "prozessstatus/{correlationId}/V3_1/",
-					"successor: "prozessstatus/{correlationId}/V3_2/"
+					"successor": "prozessstatus/{correlationId}/V3_2/"
 				}
 			]
         },
