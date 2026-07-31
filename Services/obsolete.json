@@ -75,6 +75,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.AblesenForderungUpdateEventService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.StichtagAngelegtEventService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-28",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.AbrechnungsobjektRueckabwickelnActivityService_3.1",
       "successor": "Schleupen.CS.AP.BIL.Abrechnungsobjekte.AbrechnungsobjektRueckabwickelnActivityService_3.2",
       "discontinuation-version": "WV26",
@@ -381,7 +389,7 @@
     {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungssperreSetzenActivityService_3.2",
       "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.0",
-      "discontinuation-version": "WV26",
+      "discontinuation-version": "SV28",
       "discontinuation-date": null,
       "obsolete-since": "2026-02-05",
       "disruption": null
@@ -440,6 +448,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.EDI.Verwendungszwecke.QueryService_3.0",
+      "successor": "Schleupen.CS.AP.MK.EDI.Verwendungszwecke.QueryService_3.1",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-27",
       "disruption": null
     },
     {
@@ -635,6 +651,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Aufgaben.AufgabenLoeschenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.5",
       "successor": "Schleupen.CS.AP.MPM.BGW.Datenformatobjekte.OrdersDatenformatobjektQueryService_3.6",
       "discontinuation-version": "SV27",
@@ -803,6 +827,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Aufgaben.AufgabenLoeschenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Marktprozesse.MarktprozessGeraetewechselAbbrechenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "WV26",
@@ -952,6 +984,14 @@
       "discontinuation-version": null,
       "discontinuation-date": "2026-08-24",
       "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Vorlagenverteilung.AufgabenLoeschenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.Vorlagenverteilung.AufgabenLoeschenCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-07-30",
       "disruption": null
     },
     {
@@ -1664,14 +1704,6 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-06-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.2",
-      "successor": "Schleupen.CS.FW.ZM.Kontoauszuege.BankGeschaeftsvorfallcodeQueryService_3.3",
-      "discontinuation-version": "SV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-06-22",
       "disruption": null
     },
     {
