@@ -284,10 +284,10 @@
     },
     {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceErgaenzenActivityService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2026-09-08",
-      "obsolete-since": "2024-05-16",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceErgaenzenActivityService_3.2",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-12",
       "disruption": null
     },
     {
@@ -315,11 +315,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.3",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.1",
       "successor": null,
       "discontinuation-version": null,
       "discontinuation-date": "2027-01-16",
       "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungQueryService_3.3",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
       "disruption": null
     },
     {
@@ -552,6 +568,22 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationsverbindungen.AS4.MigrationObsoleterAS4VerbindungenDurchfuehrenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationsverbindungen.AS4.MigriereObsoleteAS4VerbindungenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-14",
       "disruption": null
     },
     {
@@ -1499,6 +1531,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EAR.Daten.EntityService_3.4",
+      "successor": "Schleupen.CS.EEG.EAR.Daten.EntityService_3.5",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-12",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.Verguetungseigenschaften.AendernActivityService_3.1",
       "successor": "Schleupen.CS.EEG.EEG.Anlagen.Verguetungseigenschaften.AendernActivityService_3.2",
       "discontinuation-version": "FV27",
@@ -1667,6 +1707,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenNummerierenActivityService_3.3",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenNummerierenCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.4",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.ZahlungsAvisQueryService_3.5",
       "discontinuation-version": "WV26",
@@ -1680,6 +1728,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-04-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragsvorschlaege.GleicheZahlungsdatenAbActivityService_3.3",
+      "successor": "Schleupen.CS.FW.NBP.Zahlauftragsvorschlaege.GleicheZahlungsdatenAbCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
       "disruption": null
     },
     {
@@ -2347,6 +2403,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.SDM.STR.Lokationsbuendel.DoppelteLokationsbuendelBereinigenActivityService_3.0",
+      "successor": "Schleupen.CS.MDM.SDM.STR.Lokationsbuendel.DoppelteLokationsbuendelBereinigenActivityService_3.1",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.AenderungDatenDerSrAlsLfVomMsbActivityService_3.0",
       "successor": "Schleupen.CS.MDM.SDM.STR.SteuerbareRessource.AenderungDatenDerSrAlsLfVomMsbActivityService_3.1",
       "discontinuation-version": "SV27",
@@ -2667,6 +2731,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.QueuedServices.DoSomethingCommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitActivityService_3.2",
       "successor": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitCommandService_3.0",
       "discontinuation-version": "SV27",
@@ -2675,11 +2747,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitCommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitOneWayActivityService_3.2",
       "successor": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitOneWayCommandService_3.0",
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-08-05",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Tests.QueuedServices.WaitOneWayCommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-10",
       "disruption": null
     },
     {
@@ -2704,6 +2792,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.pkp.aus.zfl.AusgabeauftragErstellenActivityService_3.1",
+      "successor": "Schleupen.CS.pkp.aus.zfl.AusgabeauftragErstellenCommandService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-11",
       "disruption": null
     },
     {
@@ -2792,6 +2888,14 @@
       "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "obsolete-since": "2026-01-08",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.RAG.Messwertpruefung.AblaufdatumFuerMesswertpruefauftragPruefenActivityService_3.0",
+      "successor": "Schleupen.CS.VA.RAG.Messwertpruefung.MesswertpruefauftraegeErneutPruefenActivityService_3.0",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-13",
       "disruption": null
     },
     {
