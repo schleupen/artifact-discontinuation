@@ -237,6 +237,15 @@
       "disruption": null
     },
     {
+      "package-id": "Schleupen.CS.PI.AIF.ScheduledServices.Testing.Net",
+      "package-version": "[3.0.3.0,3.0.3.90]",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "package-id": "Schleupen.CS.PI.AIF.Users.Client",
       "package-version": "[3.41,3.42)",
       "successor": "Schleupen.CS.PI.AIF.Users.Client",
@@ -287,6 +296,15 @@
       "successor": "Schleupen.CS.PI.BPE.Client.TransactionalOutbox.Castle3 ",
       "successor-version": null,
       "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "package-id": "Schleupen.CS.PI.BPE.Tasks.Testing.Net",
+      "package-version": "[3.0.3.0,3.0.3.100]",
+      "successor": null,
+      "successor-version": null,
+      "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "disruption": null
     },
