@@ -195,6 +195,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.17",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.18",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-26",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.18",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.19",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-26",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.2",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.VariableAbschlagsplaeneVerwaltenActivityService_3.3",
       "discontinuation-version": "SV27",
@@ -622,7 +638,7 @@
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2026-08-24",
+      "discontinuation-date": "2027-02-22",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -1031,22 +1047,6 @@
       "successor": null,
       "discontinuation-version": null,
       "discontinuation-date": "2026-11-16",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.ksp.vma.trf.TarifvariantenQueryService_3.0",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2027-02-16",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.ksp.vma.trf.TarifvariantenQueryService_3.1",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2027-02-16",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
