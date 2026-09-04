@@ -283,6 +283,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.EDI.Konfigurationen.VerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.EDI.Konfigurationen.VerwaltenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-01",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.EDI.Verwendungszwecke.QueryService_3.0",
       "successor": "Schleupen.CS.AP.MK.EDI.Verwendungszwecke.QueryService_3.1",
       "discontinuation-version": "SV27",
@@ -499,6 +507,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AnfragenEinerKonfiguration.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AnfragenEinerKonfiguration.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AngeboteAbrechnungMessstellenbetrieb.VersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.AngeboteAbrechnungMessstellenbetrieb.VersendenActivityService_3.1",
       "discontinuation-version": "SV27",
@@ -512,6 +528,46 @@
       "discontinuation-version": "HV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-10-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenAenderungKonzessionsabgabe.VersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenAenderungNetzentgelte.Antworten.EmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenAenderungNetzentgelte.Antworten.VersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenAenderungNetzentgelte.EmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.BGW.Prozessmeldungen.BestellungenAenderungNetzentgelte.VersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-08-31",
       "disruption": null
     },
     {
