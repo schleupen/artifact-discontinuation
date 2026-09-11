@@ -19,6 +19,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.msb.Abrechnung.AbrechnungVorbereitenActivityService_3.0",
+      "successor": "Schleupen.CS.abr.msb.Abrechnung.AbrechnungVorbereitenActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.abr.msb.Abrechnung.AbrechnungVorbereitenActivityService_3.1",
+      "successor": "Schleupen.CS.abr.msb.Abrechnung.AbrechnungVorbereitenActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-10",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.4",
       "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.5",
       "discontinuation-version": "FV27",
@@ -56,6 +72,14 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-07-28",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsausgabe.NeudruckVorbereitenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsausgabe.NeudruckVorbereitenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-10",
       "disruption": null
     },
     {
@@ -150,7 +174,7 @@
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.0",
       "successor": null,
       "discontinuation-version": null,
-      "discontinuation-date": "2026-09-08",
+      "discontinuation-date": "2027-03-09",
       "obsolete-since": "2024-05-16",
       "disruption": null
     },
@@ -456,14 +480,6 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-25",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.3",
-      "successor": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.4",
-      "discontinuation-version": "FV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-04-13",
       "disruption": null
     },
     {
@@ -907,14 +923,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.AbschlagPlaene.AendernActivityService_3.5",
-      "successor": "Schleupen.CS.EEG.EEG.Verguetung.AbschlagPlaene.AendernActivityService_3.6",
-      "discontinuation-version": "FV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-02-27",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Verguetung.Stornolaeufe.QueryStandardStornoDatenActivityService_3.1",
       "successor": "Schleupen.CS.EEG.EEG.Verguetung.Stornolaeufe.QueryStandardStornoDatenActivityService_3.2",
       "discontinuation-version": "HV27",
@@ -1123,6 +1131,22 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.mon.VertragsprozessMonitorEntityService_3.6",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-03-06",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.mon.VertragsprozessMonitorEntityService_3.7",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-03-06",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.taw.TarifWechselVerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.ksp.vpm.Prozessarten.taw.TarifWechselAnlegenActivityService_3.1",
       "discontinuation-version": "FV27",
@@ -1144,6 +1168,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-04-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-03-06",
+      "obsolete-since": "2024-05-16",
       "disruption": null
     },
     {
@@ -1584,6 +1616,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.VA.RAE.Abrechnung.AbgerechneteRechnungsdatenQueryService_3.3",
+      "successor": "Schleupen.CS.VA.RAE.Abrechnung.AbgerechneteRechnungsdatenQueryService_3.3",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-07",
       "disruption": null
     },
     {
