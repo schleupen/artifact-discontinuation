@@ -3,6 +3,14 @@
   "format-version": "schleupen.artifactdiscontinuation.services.obsolete_1.0",
   "artifacts": [
     {
+      "artifact-id": "Schleupen.CS.abr.ael.rsi.AbschlagsbetragErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.abr.ael.rsi.AbschlagsbetragErmittelnActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-18",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.3",
       "successor": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.4",
       "discontinuation-version": "FV27",
@@ -171,14 +179,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.0",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2027-03-09",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceRechnungKopfdatenQueryService_3.1",
       "successor": null,
       "discontinuation-version": null,
@@ -288,6 +288,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-17",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.REP.Druck.RatingdatenFuerTeilrechnungErgaenzenActivityService_3.3",
+      "successor": "Schleupen.CS.AP.BIL.REP.Druck.RatingdatenFuerTeilrechnungErgaenzenActivityService_3.4",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-17",
       "disruption": null
     },
     {
@@ -1123,11 +1131,35 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.dok.DokumentenerzeugungStartenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-17",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.4",
       "successor": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.5",
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-04-27",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.jvp.AenderungJahresverbrauchsprognoseActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.jvp.AenderungJahresverbrauchsprognoseAnlegenActivityService_3.0",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.kae.AenderungKonzessionsabgabeActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.kae.KonzessionsabgabeAenderungAnlegenActivityService_3.0",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-16",
       "disruption": null
     },
     {
@@ -1144,6 +1176,14 @@
       "discontinuation-version": null,
       "discontinuation-date": "2027-03-06",
       "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.ner.NetzentgeltReduzierungActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.ner.NetzentgeltReduzierungAnlegenActivityService_3.0",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-16",
       "disruption": null
     },
     {
@@ -1408,6 +1448,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-05",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Mails.MailConfigurationActivityService_3.3",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-17",
       "disruption": null
     },
     {
