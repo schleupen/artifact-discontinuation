@@ -199,6 +199,13 @@
       "disruption": null
     },
     {
+      "command": "Select-SmtpConfiguration",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Select-SuspendedWorkflows",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -234,6 +241,13 @@
       "disruption": null
     },
     {
+      "command": "Set-SmtpConfiguration",
+      "successor": "Update-PostboxConfiguration2",
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "Set-WorkflowPriority",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -251,6 +265,13 @@
       "command": "Test-EmailPostboxConfiguration",
       "successor": "Test-EmailPostboxConfiguration2",
       "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "command": "Test-SmtpConfiguration",
+      "successor": "Test-EmailPostboxConfiguration2",
+      "discontinuation-version": "WV26",
       "discontinuation-date": null,
       "disruption": null
     },
