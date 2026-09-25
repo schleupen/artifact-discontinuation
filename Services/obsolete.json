@@ -475,6 +475,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MKP.ZKP.Netzgebiete.NetzgebietQueryService_3.5",
+      "successor": "Schleupen.CS.AP.MKP.ZKP.Netzgebiete.NetzgebietQueryService_3.6",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-25",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.AKD.Korrekturen_Korrektur755371CommandService_3.0",
       "successor": null,
       "discontinuation-version": "FV27",
@@ -691,6 +699,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.BerechtigteMarktpartnerErmittelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-23",
+      "disruption": "Formatumstellung Oktober 2025"
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.8",
       "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.9",
       "discontinuation-version": "FV27",
@@ -771,6 +787,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Energie.Produktpakete.ProduktpaketzuordnungActivityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Energie.Produktpakete.ProduktpaketzuordnungActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-24",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.0",
       "successor": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.1",
       "discontinuation-version": "FV27",
@@ -811,11 +835,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Tarife.PreisbindungsintervallErmittelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Tarife.PreisbindungsintervallErmittelnActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-23",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.ReferenzAktualisierungPuffernActivityService_3.0",
       "successor": "Schleupen.CS.AP.VTM.Erloeshochrechnung.ReferenzAktualisierungPuffernActivityService_3.0",
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.VertragAnlegenActivityService_3.63",
+      "successor": "Schleupen.CS.AP.VTM.Vertraege.VertragAnlegenActivityService_3.64",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-09-23",
       "disruption": null
     },
     {
