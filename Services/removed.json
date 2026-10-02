@@ -9369,6 +9369,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.pkp.pbs.kdp.KommunikationsdatenblaetterVerarbeitenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-09-29",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.1",
       "successor": "Schleupen.CS.pkp.pos.opb.OffenePostenBeauskunftenActivityService_3.2",
       "discontinuation-version": "SV26",
