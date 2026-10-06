@@ -1,5 +1,14 @@
 {
   "document-type": "schleupen.artifactlifecycle.packages.obsolete",
   "format-version": "schleupen.artifactlifecycle.packages.obsolete_1.0",
-  "artifacts": []
+  "artifacts": [
+    {
+      "package-id": "Schleupen.CS.PI.Framework.Resiliency",
+      "package-version": "[3.42.3.322,)",
+      "successor": "Schleupen.CS.PI.SB.Resiliency",
+      "successor-version": null,
+      "discontinuation-version": "HV26",
+      "obsolete-since": "2026-11-01"
+    }
+ ]
 }
