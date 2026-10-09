@@ -822,6 +822,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.5",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.6",
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-10-06",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.6",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.VerwaltenActivityService_3.7",
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-10-06",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MKP.ZKP.Kommunikationsteilnehmer.Bilanzkoordinatoren.CreatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV25",
