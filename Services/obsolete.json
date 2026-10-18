@@ -739,6 +739,54 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungAbmeldungsAnfrage.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungAbmeldungsAnfrage.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungKuendigung.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AblehnungKuendigung.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AntwortAenderungVomMsbMitAbhaengigkeiten.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.AntwortAenderungVomMsbMitAbhaengigkeiten.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungAbmeldungsAnfrage.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungAbmeldungsAnfrage.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungAnfrageNachStornierung.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungAnfrageNachStornierung.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungKuendigung.VersendenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.UGG.Prozessmeldungen.BestaetigungKuendigung.VersendenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnmeldungNetznutzungAnreichernActivityService_3.0",
       "successor": null,
       "discontinuation-version": null,
@@ -939,6 +987,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.CRM.CRM.Preisanpassungen.Importe.ImportierteDateiValidierenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-04-14",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.1",
       "successor": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.2",
       "discontinuation-version": "FV27",
@@ -1040,6 +1096,14 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-07-02",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.ZahlungsavisInformationenAnnehmenActivityService_3.1",
+      "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.ZahlungsavisInformationenAnnehmenActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
       "disruption": null
     },
     {
@@ -1171,6 +1235,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter_InitialVersand20260401StartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-14",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
       "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.3",
       "discontinuation-version": "FV27",
@@ -1259,11 +1331,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.Prozessarten.vam.VertragsanlageAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vam.VertragsanlageAnlegenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-11",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.taw.TarifWechselVerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.ksp.vpm.Prozessarten.taw.TarifWechselAnlegenActivityService_3.1",
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-25",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vam.EoGVertragAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.vam.EoGVertragAnlegenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-11",
       "disruption": null
     },
     {
@@ -1280,6 +1368,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-04-29",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.15",
+      "successor": "Schleupen.CS.ksp.vpm.vpe.VertragsprozessEntityService_3.16",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-11",
       "disruption": null
     },
     {
@@ -1328,14 +1424,6 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-07-08",
-      "disruption": null
-    },
-    {
-      "artifact-id": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.3",
-      "successor": "Schleupen.CS.MDM.MWM.Marktlokationen.KopfdatenQueryService_3.4",
-      "discontinuation-version": "HV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-10-07",
       "disruption": null
     },
     {
@@ -1592,6 +1680,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-07",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Sessions.KeyManagement.AsymmetricKeyDescriptionQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-15",
       "disruption": null
     },
     {
