@@ -392,7 +392,7 @@ jobs:
 
           $markdown.Add("# Obsolete Services")
           $markdown.Add("")
-          $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('yyyy-MM-dd')) bis $($referenceDate.ToString('yyyy-MM-dd'))")
+          $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('dd.MM.yyyy')) bis $($referenceDate.ToString('dd.MM.yyyy'))")
           $markdown.Add("")
           $markdown.Add("Gefundene Eintraege: $($sortedEntries.Count)")
           $markdown.Add("")
@@ -406,10 +406,10 @@ jobs:
 
               foreach ($entry in $sortedEntries) {
                   $identifier = Get-EntryIdentifier -Entry $entry
-                  $obsoleteSince = Get-PropertyValue -InputObject $entry -PropertyName "obsolete-since"
+                  $obsoleteSince = (Get-PropertyValue -InputObject $entry -PropertyName "obsolete-since").ToString("dd.MM.yyyy")
                   $successor = Get-PropertyValue -InputObject $entry -PropertyName "successor"
                   $discontinuationVersion = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-version"
-                  $discontinuationDate = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-date"
+                  $discontinuationDate = (Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-date").ToString("dd.MM.yyyy")
 
                   $row = @(
                       ConvertTo-MarkdownCell $identifier
