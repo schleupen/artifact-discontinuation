@@ -440,6 +440,13 @@ jobs:
           $ErrorActionPreference = "Stop"
           Set-StrictMode -Version Latest
 
+          $fromDate = [DateTime]::ParseExact(
+              $env:FROM_DATE,
+              "yyyy-MM-dd",
+              $culture,
+              $dateStyles
+          ).Date
+
           @"
           # Abgekündigte (obsolete) Services im API-Gateway (ab $($fromDate.AddMonths(6).ToString('dd.MM.yyyy')))
 
