@@ -439,7 +439,10 @@ jobs:
         run: |
           $ErrorActionPreference = "Stop"
           Set-StrictMode -Version Latest
-
+          
+          $culture = [System.Globalization.CultureInfo]::InvariantCulture
+          $dateStyles = [System.Globalization.DateTimeStyles]::AssumeUniversal
+          
           $fromDate = [DateTime]::ParseExact(
               $env:FROM_DATE,
               "yyyy-MM-dd",
