@@ -359,6 +359,29 @@ jobs:
               return ([string]$Value).Replace("|", "\|").Replace("`r", " ").Replace("`n", " ")
           }
 
+          function ConvertTo-DisplayDate {
+              param(
+                  [AllowNull()]
+                  [object]$Value
+              )
+
+              if ($null -eq $Value -or [string]::IsNullOrWhiteSpace([string]$Value)) {
+                  return ""
+              }
+
+              if ($Value -is [DateTime]) {
+                  return $Value.ToString("dd.MM.yyyy")
+              }
+
+              $date = [DateTime]::MinValue
+
+              if ([DateTime]::TryParseExact([string]$Value, "yyyy-MM-dd", [System.Globalization.CultureInfo]::InvariantCulture, [System.Globalization.DateTimeStyles]::AssumeUniversal, [ref]$date)) {
+                  return $date.ToString("dd.MM.yyyy")
+              }
+
+              return [string]$Value
+          }
+
           $jsonPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.json"
           $csvPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.csv"
           $markdownPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.md"
@@ -392,7 +415,7 @@ jobs:
 
           $markdown.Add("# Obsolete Services")
           $markdown.Add("")
-          $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('yyyy-MM-dd')) bis $($referenceDate.ToString('yyyy-MM-dd'))")
+          $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('dd.MM.yyyy')) bis $($referenceDate.ToString('dd.MM.yyyy'))")
           $markdown.Add("")
           $markdown.Add("Gefundene Eintraege: $($sortedEntries.Count)")
           $markdown.Add("")
@@ -406,10 +429,10 @@ jobs:
 
               foreach ($entry in $sortedEntries) {
                   $identifier = Get-EntryIdentifier -Entry $entry
-                  $obsoleteSince = Get-PropertyValue -InputObject $entry -PropertyName "obsolete-since"
+                  $obsoleteSince = ConvertTo-DisplayDate (Get-PropertyValue -InputObject $entry -PropertyName "obsolete-since")
                   $successor = Get-PropertyValue -InputObject $entry -PropertyName "successor"
                   $discontinuationVersion = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-version"
-                  $discontinuationDate = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-date"
+                  $discontinuationDate = ConvertTo-DisplayDate (Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-date")
 
                   $row = @(
                       ConvertTo-MarkdownCell $identifier
