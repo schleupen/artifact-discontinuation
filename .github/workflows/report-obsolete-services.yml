@@ -133,7 +133,7 @@ jobs:
           }
 
           $targetMonth = $referenceDate.AddMonths(-5)
-          $fromDate = [DateTime]::new($targetMonth.Year, $targetMonth.Month, 1).AddMonths(-1)
+          $fromDate = [DateTime]::new($targetMonth.Year, $targetMonth.Month, 1).AddMonths(1)
           $referenceDate = $fromDate.AddMonths(1).AddDays(-1)
 
           "months=$months" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
