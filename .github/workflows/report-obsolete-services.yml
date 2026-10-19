@@ -49,9 +49,10 @@
 #
 # Erwartetes JSON
 # ------------------------------------------------------------------------------
-# Die Quelle sollte ein JSON-Array enthalten. Massgeblich ist "obsolete-since"
-# im Format YYYY-MM-DD. Fehlende Werte werden ignoriert, ungueltige Datumswerte
-# werden gezaehlt und nicht ausgewertet.
+# Die Quelle ist ein JSON-Objekt mit dem Array unter "artifacts" oder ein
+# Top-Level-Array. Massgeblich ist "obsolete-since" im Format YYYY-MM-DD.
+# Fehlende Werte werden ignoriert, ungueltige Datumswerte werden gezaehlt und
+# nicht ausgewertet.
 #
 # Erzeugte Dateien
 # ------------------------------------------------------------------------------
@@ -232,7 +233,14 @@ jobs:
           New-Item -ItemType Directory -Path $env:OUTPUT_DIRECTORY -Force | Out-Null
 
           $sourceContent = Get-Content -LiteralPath $env:SOURCE_FILE -Raw -Encoding UTF8 | ConvertFrom-Json
-          $sourceEntries = @($sourceContent)
+          $artifactsProperty = $sourceContent.PSObject.Properties["artifacts"]
+
+          if ($null -ne $artifactsProperty) {
+              $sourceEntries = @($artifactsProperty.Value)
+          }
+          else {
+              $sourceEntries = @($sourceContent)
+          }
 
           $invalidEntries = [System.Collections.Generic.List[object]]::new()
           $matchingEntries = [System.Collections.Generic.List[object]]::new()
@@ -310,6 +318,7 @@ jobs:
               )
 
               $candidateProperties = @(
+                  "artifact-id",
                   "service",
                   "name",
                   "id",
