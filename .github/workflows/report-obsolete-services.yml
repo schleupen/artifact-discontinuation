@@ -4,7 +4,7 @@
 #
 # Zweck
 # ------------------------------------------------------------------------------
-# Diese Action liest Services/obsolete.json und ermittelt alle Eintraege, deren
+# Diese Action liest Services/obsolete.json und ermittelt alle Einträge, deren
 # Feld "obsolete-since" innerhalb des konfigurierten Zeitraums liegt.
 # Betrachtet wird immer der Kalendermonat, der 5 Monate vor dem Bezugsdatum beginnt.
 #
@@ -247,7 +247,7 @@ jobs:
           }
 
           if ($invalidEntries.Count -gt 0) {
-              Write-Warning "$($invalidEntries.Count) Eintraege enthalten ein ungueltiges 'obsolete-since'-Datum. Erwartetes Format: YYYY-MM-DD."
+              Write-Warning "$($invalidEntries.Count) Einträge enthalten ein ungueltiges 'obsolete-since'-Datum. Erwartetes Format: YYYY-MM-DD."
           }
 
           $sortedEntries = @(
@@ -386,7 +386,7 @@ jobs:
           $markdown.Add("")
           $markdown.Add("Bitte beachten Sie, dass folgende Services in den jeweils angegebenen Versionen in der Zeit **$($fromDate.ToString('dd.MM.yyyy'))-$($referenceDate.ToString('dd.MM.yyyy'))** als obsolet markiert wurden und daher entsprechend unserer [Abkündigungspolicy](https://developer-campus.de/tracks/integration/abkuendigungspolicy/) ab dem $($fromDate.AddMonths(6).ToString('dd.MM.yyyy')) seitens CS3 nicht mehr zur Verfügung stehen können. Das bedeutet, dass diese Services (oder Service-Versionen) im API-Gateway nicht mehr als Ziel-Services angegeben werden können. Prüfen Sie daher die Konfigurationseinträge des API-Gateway und tragen gültige Nachfolgeservices ein. Sollte das API-Gateway bei Ihnen als Bindeglied zu einer Software eines Drittherstellers eingesetzt werden, klären Sie bitte mit dem Hersteller, ob und welche neuen Services oder Service-Versionen vom Hersteller als Ersatz für obsolete Services unterstützt werden.")
           $markdown.Add("")
-          $markdown.Add("Gefundene Eintraege: $($sortedEntries.Count)")
+          $markdown.Add("Gefundene Einträge: $($sortedEntries.Count)")
           $markdown.Add("")
 
           if ($sortedEntries.Count -eq 0) {
@@ -417,7 +417,7 @@ jobs:
 
           if ($invalidEntries.Count -gt 0) {
               $markdown.Add("")
-              $markdown.Add("> Warnung: $($invalidEntries.Count) Eintraege wurden wegen eines ungueltigen obsolete-since-Datums nicht ausgewertet.")
+              $markdown.Add("> Warnung: $($invalidEntries.Count) Einträge wurden wegen eines ungueltigen obsolete-since-Datums nicht ausgewertet.")
           }
 
           $markdown | Set-Content -LiteralPath $markdownPath -Encoding UTF8
