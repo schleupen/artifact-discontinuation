@@ -72,7 +72,7 @@ jobs:
 
           $months = 6
 
-          if (-not [string\]::IsNullOrWhiteSpace($env:INPUT_MONTHS)) {
+          if (-not [string]::IsNullOrWhiteSpace($env:INPUT_MONTHS)) {
               $parsedMonths = 0
 
               if (-not [int\]::TryParse(
@@ -89,7 +89,7 @@ jobs:
               $months = $parsedMonths
           }
 
-          if ([string\]::IsNullOrWhiteSpace(
+          if ([string]::IsNullOrWhiteSpace(
               $env:INPUT_REFERENCE_DATE
           )) {
               $referenceDate = [DateTime\]::UtcNow.Date
@@ -216,7 +216,7 @@ jobs:
 
               if (
                   $null -eq $obsoleteSinceProperty -or
-                  [string\]::IsNullOrWhiteSpace(
+                  [string]::IsNullOrWhiteSpace(
                       [string]$obsoleteSinceProperty.Value
                   )
               ) {
@@ -280,7 +280,7 @@ jobs:
 
                       if (
                           $null -ne $property -and
-                          -not [string\]::IsNullOrWhiteSpace(
+                          -not [string]::IsNullOrWhiteSpace(
                               [string]$property.Value
                           )
                       ) {
@@ -359,7 +359,7 @@ jobs:
 
                   if (
                       $null -ne $property -and
-                      -not [string\]::IsNullOrWhiteSpace(
+                      -not [string]::IsNullOrWhiteSpace(
                           [string]$property.Value
                       )
                   ) {
@@ -370,7 +370,7 @@ jobs:
               foreach ($property in $Entry.PSObject.Properties) {
                   if (
                       $property.Name -ne "obsolete-since" -and
-                      -not [string\]::IsNullOrWhiteSpace(
+                      -not [string]::IsNullOrWhiteSpace(
                           [string]$property.Value
                       )
                   ) {
