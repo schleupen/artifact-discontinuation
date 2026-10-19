@@ -4,191 +4,62 @@
 #
 # Zweck
 # ------------------------------------------------------------------------------
+# Diese Action liest Services/obsolete.json und ermittelt alle Eintraege, deren
+# Feld "obsolete-since" innerhalb des konfigurierten Zeitraums liegt.
+# Standardmaessig werden die letzten 6 Kalendermonate betrachtet.
 #
-# Diese Action liest die Datei:
-#
-#   Services/obsolete.json
-#
-# und ermittelt alle Services, deren Feld "obsolete-since" innerhalb des
-# konfigurierten Zeitraums liegt.
-#
-# Standardmäßig werden die letzten sechs Kalendermonate betrachtet.
-#
-#
-# Ausführung
+# Benoetigte Repository-Variablen / Secrets
 # ------------------------------------------------------------------------------
+# Es muessen KEINE GitHub Repository Variables und KEINE Secrets angelegt werden.
+# Insbesondere werden kein SSH-Key und kein PAT benoetigt.
 #
-# Die Action wird ausgeführt:
-#
-#   1. bei Änderungen an Services/obsolete.json auf dem Branch main,
-#   2. bei Änderungen an dieser Workflow-Datei,
-#   3. täglich um 06:00 UTC,
-#   4. manuell über GitHub Actions.
-#
-#
-# Benötigte Repository-Variablen
+# Konfiguration im Workflow
 # ------------------------------------------------------------------------------
+# SOURCE_FILE:
+#   Pfad zur auszuwertenden JSON-Datei.
+#   Standard: Services/obsolete.json
 #
-# Es müssen KEINE GitHub Repository Variables angelegt werden.
+# OUTPUT_DIRECTORY:
+#   Verzeichnis fuer die erzeugten Reports.
+#   Standard: out
 #
-#
-# Benötigte Secrets
+# Manuelle Eingaben (workflow_dispatch)
 # ------------------------------------------------------------------------------
+# months:
+#   Anzahl der zurueckliegenden Kalendermonate.
+#   Erlaubt: 1, 3, 6, 12, 24
+#   Standard: 6
 #
-# Es müssen KEINE GitHub Secrets angelegt werden.
-#
-# Insbesondere werden nicht benötigt:
-#
-#   - SSH Private Key
-#   - GitHub Personal Access Token (PAT)
-#   - Benutzername oder Passwort
-#   - eigener GitHub-Token
-#
-# Die Action greift ausschließlich lesend auf das Repository zu.
-# Die Authentifizierung erfolgt automatisch durch GitHub Actions.
-#
-#
-# Konfigurierbare Umgebungsvariablen
-# ------------------------------------------------------------------------------
-#
-# SOURCE_FILE
-#
-#   Pfad zur auszuwertenden JSON-Datei relativ zum Repository-Stamm.
-#
-#   Standard:
-#
-#     Services/obsolete.json
-#
-#
-# OUTPUT_DIRECTORY
-#
-#   Temporäres Verzeichnis für die erzeugten Dateien.
-#
-#   Standard:
-#
-#     out
-#
-#   Das Verzeichnis wird bei Bedarf automatisch angelegt.
-#
-#
-# Eingaben bei manueller Ausführung
-# ------------------------------------------------------------------------------
-#
-# months
-#
-#   Anzahl der zurückliegenden Kalendermonate.
-#
-#   Erlaubte Werte:
-#
-#     1, 3, 6, 12, 24
-#
-#   Standard:
-#
-#     6
-#
-#   Bei einer automatischen Ausführung über push oder schedule werden
-#   standardmäßig sechs Monate verwendet.
-#
-#
-# reference_date
-#
-#   Optionales Bezugsdatum im Format:
-#
-#     YYYY-MM-DD
-#
-#   Beispiel:
-#
-#     2026-10-19
-#
-#   Wenn kein Bezugsdatum angegeben wird, verwendet die Action das aktuelle
-#   UTC-Datum.
-#
-#   Mit einem festen Bezugsdatum kann eine vergangene Auswertung reproduzierbar
-#   erneut ausgeführt werden.
-#
+# reference_date:
+#   Optionales Bezugsdatum im Format YYYY-MM-DD.
+#   Leer = aktuelles UTC-Datum.
 #
 # Automatisch berechnete Variablen
 # ------------------------------------------------------------------------------
-#
-# FROM_DATE
-#
-#   Beginn des Auswertungszeitraums.
-#
-#   Berechnung:
-#
-#     reference_date minus months
-#
-#
-# REFERENCE_DATE
-#
-#   Ende des Auswertungszeitraums.
-#
-#   Entspricht dem angegebenen reference_date oder dem aktuellen UTC-Datum.
-#
-#
-# MONTHS
-#
-#   Effektiv verwendete Anzahl der Monate.
-#
+# FROM_DATE       = REFERENCE_DATE minus MONTHS
+# REFERENCE_DATE  = reference_date oder aktuelles UTC-Datum
+# MONTHS          = months oder 6 bei push/schedule
 #
 # Von GitHub bereitgestellte Variablen
 # ------------------------------------------------------------------------------
-#
 # GITHUB_OUTPUT
-#
-#   Wird verwendet, um Werte zwischen Workflow-Schritten zu übergeben.
-#
-#
 # GITHUB_STEP_SUMMARY
 #
-#   Wird verwendet, um den Markdown-Bericht in der Zusammenfassung des
-#   Workflow-Laufs darzustellen.
+# Diese Variablen duerfen nicht selbst als Repository Variables angelegt werden.
 #
-# Diese Variablen dürfen nicht selbst als Repository Variables angelegt werden.
-#
-#
-# Erwartetes Format von Services/obsolete.json
+# Erwartetes JSON
 # ------------------------------------------------------------------------------
-#
-# Die Quelldatei muss ein JSON-Array enthalten.
-#
-# Beispiel:
-#
-#   [
-#     {
-#       "service": "Example.Service",
-#       "successor": "Example.NewService",
-#       "discontinuation-version": "WV27",
-#       "discontinuation-date": null,
-#       "obsolete-since": "2026-05-15"
-#     }
-#   ]
-#
-# Maßgebliches Feld:
-#
-#   obsolete-since
-#
-# Erwartetes Datumsformat:
-#
-#   YYYY-MM-DD
-#
-# Einträge ohne "obsolete-since" werden ignoriert.
-#
-# Einträge mit einem ungültigen "obsolete-since"-Datum werden nicht ausgewertet
-# und im Bericht als ungültig gezählt.
-#
+# Die Quelle sollte ein JSON-Array enthalten. Massgeblich ist "obsolete-since"
+# im Format YYYY-MM-DD. Fehlende Werte werden ignoriert, ungueltige Datumswerte
+# werden gezaehlt und nicht ausgewertet.
 #
 # Erzeugte Dateien
 # ------------------------------------------------------------------------------
+# out/obsolete-services.json
+# out/obsolete-services.csv
+# out/obsolete-services.md
 #
-#   out/obsolete-services.json
-#   out/obsolete-services.csv
-#   out/obsolete-services.md
-#
-# Die Dateien werden als GitHub Actions Artifact hochgeladen und 30 Tage
-# aufbewahrt.
-#
-# ==============================================================================
+# ===============================================================================
 
 name: Report obsolete services
 
@@ -205,319 +76,232 @@ on:
       - ".github/workflows/report-obsolete-services.yml"
 
   schedule:
-    # Täglich um 06:00 UTC
     - cron: "0 6 * * *"
 
   workflow_dispatch:
-    i*puts:
+    inputs:
       months:
-        descri*tion: "Betrachtungszeitraum in Mon*ten"
+        description: "Betrachtungszeitraum in Monaten"
         required: true
-      * default: "6"
-        type: choice*        options:
+        default: "6"
+        type: choice
+        options:
           - "1"
- *        - "3"
+          - "3"
           - "6"
-    *     - "12"
+          - "12"
           - "24"
 
-    * reference_date:
-        descripti*n: "Optionales Bezugsdatum im Form*t YYYY-MM-DD"
-        required: fa*se
+      reference_date:
+        description: "Optionales Bezugsdatum im Format YYYY-MM-DD"
+        required: false
         default: ""
-        typ*: string
+        type: string
 
 jobs:
   report:
-    name* Create obsolete services report
-
-*   runs-on: ubuntu-latest
-
-    tim*out-minutes: 10
+    name: Create obsolete services report
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     permissions:
-*     contents: read
+      contents: read
 
     env:
-    * SOURCE_FILE: Services/obsolete.js*n
+      SOURCE_FILE: Services/obsolete.json
       OUTPUT_DIRECTORY: out
 
-   *steps:
-      # -------------------*----------------------------------*-----------------
-      # Reposito*y auschecken
-      # -------------*----------------------------------*-----------------------
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - n*me: Checkout repository
-        us*s: actions/checkout@v4
-
-      # --*----------------------------------*----------------------------------*      # Zeitraum bestimmen
-      #*----------------------------------*----------------------------------*--
-
-      - name: Determine parame*ers
+      - name: Determine parameters
         id: parameters
-       *shell: pwsh
-        env:
-         *INPUT_MONTHS: ${{ inputs.months }}*          INPUT_REFERENCE_DATE: ${* inputs.reference_date }}
-        *un: |
-          $ErrorActionPrefer*nce = "Stop"
-          Set-StrictM*de -Version Latest
-
-          # Be* push und schedule existiert kein *anueller Eingabewert.
-          # *eshalb wird standardmäßig ein Zeit*aum von sechs Monaten verwendet.
- *        $months = 6
-
-          if *-not [string\]::IsNullOrWhiteSpace*$env:INPUT_MONTHS)) {
-            * $parsedMonths = 0
-
-              *f (-not [int\]::TryParse(
-        *         $env:INPUT_MONTHS,
-      *           [ref]$parsedMonths
-    *         )) {
-                  th*ow "Der Parameter 'months' ist kei*e gültige Zahl."
-              }
-
-*             if ($parsedMonths -lt*1 -or $parsedMonths -gt 120) {
-   *              throw "Der Parameter*'months' muss zwischen 1 und 120 l*egen."
-              }
-
-          *   $months = $parsedMonths
-       *  }
-
-          if ([string\]::IsNu*lOrWhiteSpace($env:INPUT_REFERENCE*DATE)) {
-              $referenceD*te = [DateTime\]::UtcNow.Date
-    *     }
-          else {
-          *   $culture = [System.Globalization.CultureInfo\]::InvariantCulture
-
-*             $styles = [System.Globalization.DateTimeStyles\]::Assume*niversal
-
-              $reference*ate = [DateTime\]::MinValue
-
-     *        $success = [DateTime\]::Tr*ParseExact(
-                  $env*INPUT_REFERENCE_DATE,
-            *     "yyyy-MM-dd",
-               *  $culture,
-                  $sty*es,
-                  [ref]$refere*ceDate
-              )
-
-          *   if (-not $success) {
-          *       throw (
-                   *  "Ungültiges Bezugsdatum " +
-    *                 "'$($env:INPUT_RE*ERENCE_DATE)'. " +
-               *      "Erwartetes Format: YYYY-MM-*D"
-                  )
-           *  }
-
-              $referenceDate * $referenceDate.Date
-          }
-
-*         $fromDate = $referenceDat*.AddMonths(-$months)
-
-          "m*nths=$months" |
-              Out-*ile `
-                  -FilePath *env:GITHUB_OUTPUT `
-              *   -Encoding utf8 `
-              *   -Append
-
-          "reference-d*te=$($referenceDate.ToString('yyyy*MM-dd'))" |
-              Out-File*`
-                  -FilePath $env*GITHUB_OUTPUT `
-                  *Encoding utf8 `
-                  *Append
-
-          "from-date=$($fr*mDate.ToString('yyyy-MM-dd'))" |
- *            Out-File `
-           *      -FilePath $env:GITHUB_OUTPUT*`
-                  -Encoding utf8*`
-                  -Append
-
-     *    Write-Host "Auswertungszeitrau*:"
-          Write-Host "  Von:   *$($fromDate.ToString('yyyy-MM-dd')*"
-          Write-Host "  Bis:    *($referenceDate.ToString('yyyy-MM-*d'))"
-          Write-Host "  Mona*e: $months"
-
-      # -------------*----------------------------------*-----------------------
-      # Qu*lldatei prüfen
-      # -----------*----------------------------------*-------------------------
-
-      -*name: Validate source file
-       *shell: pwsh
-        run: |
-       *  $ErrorActionPreference = "Stop"
-*         Set-StrictMode -Version L*test
-
-          if (-not (Test-Pat* -LiteralPath $env:SOURCE_FILE)) {*              throw "Quelldatei '$*nv:SOURCE_FILE' wurde nicht gefund*n."
-          }
-
-          $source*ile = Get-Item -LiteralPath $env:S*URCE_FILE
-
-          if ($sourceFi*e.Length -eq 0) {
-              th*ow "Quelldatei '$env:SOURCE_FILE' *st leer."
-          }
-
-          t*y {
-              $jsonContent = G*t-Content `
-                  -Lit*ralPath $env:SOURCE_FILE `
-       *          -Raw `
-                 *-Encoding UTF8
-
-              $nul* = $jsonContent | ConvertFrom-Json*          }
-          catch {
-    *         throw (
-                 *"'$env:SOURCE_FILE' enthält kein g*ltiges JSON. " +
-                 *"Fehler: $($_.Exception.Message)"
-*             )
-          }
-
-      *   Write-Host "JSON-Datei ist synt*ktisch gültig."
-
-      # ---------*----------------------------------*---------------------------
-      * Reports erzeugen
-      # --------*----------------------------------*----------------------------
-
-    * - name: Generate reports
-        *d: report
         shell: pwsh
-    *   env:
-          FROM_DATE: ${{ s*eps.parameters.outputs.from-date }*
-          REFERENCE_DATE: ${{ ste*s.parameters.outputs.reference-dat* }}
-          MONTHS: ${{ steps.pa*ameters.outputs.months }}
-        *un: |
-          $ErrorActionPrefer*nce = "Stop"
-          Set-StrictM*de -Version Latest
+        env:
+          INPUT_MONTHS: ${{ inputs.months }}
+          INPUT_REFERENCE_DATE: ${{ inputs.reference_date }}
+        run: |
+          $ErrorActionPreference = "Stop"
+          Set-StrictMode -Version Latest
 
-          $cul*ure = [System.Globalization.CultureInfo\]::InvariantCulture
+          $months = 6
 
-        * $dateStyles = [System.Globalization.DateTimeStyles\]::AssumeUniversa*
+          if (-not [string]::IsNullOrWhiteSpace($env:INPUT_MONTHS)) {
+              $parsedMonths = 0
 
-          $fromDate = [DateTime\*::ParseExact(
-              $env:F*OM_DATE,
-              "yyyy-MM-dd*,
-              $culture,
-        *     $dateStyles
-          ).Date
-*          $referenceDate = [DateTime\]::ParseExact(
-              $en*:REFERENCE_DATE,
-              "yy*y-MM-dd",
-              $culture,
-*             $dateStyles
-         *).Date
-
-          # --------------*----------------------------------*------------------
-          # Aus*abeverzeichnis anlegen
-          #*----------------------------------*---------------------------------
-*          New-Item `
-             *-ItemType Directory `
-            * -Path $env:OUTPUT_DIRECTORY `
-   *          -Force |
-              O*t-Null
-
-          # --------------*----------------------------------*------------------
-          # Que*ldatei einlesen
-          # ------*----------------------------------*--------------------------
-
-      *   $sourceContent = Get-Content `
-*             -LiteralPath $env:SOU*CE_FILE `
-              -Raw `
-   *          -Encoding UTF8 |
-       *      ConvertFrom-Json
-
-          * Unterstützt ein JSON-Array und, z*r Sicherheit, ein einzelnes Objekt*
-          $sourceEntries = @($sou*ceContent)
-
-          $invalidEntr*es =
-              [System.Collections.Generic.List[object]\]::new()
-*          $matchingEntries =
-     *        [System.Collections.Generic.List[object]\]::new()
-
-          * ---------------------------------*----------------------------------*          # Einträge prüfen und fi*tern
-          # -----------------*----------------------------------*---------------
-
-          foreach*($entry in $sourceEntries) {
-     *        $obsoleteSinceProperty =
- *                $entry.PSObject.Pr*perties["obsolete-since"]
-
-       *      if (
-                  $null*-eq $obsoleteSinceProperty -or
-   *              [string\]::IsNullOrW*iteSpace(
-                      [string]$obsoleteSinceProperty.Value
-*                 )
-              )*{
-                  continue
-     *        }
-
-              $obsolete*ince = [DateTime\]::MinValue
-
-    *         $isValidDate = [DateTime\*::TryParseExact(
-                 *[string]$obsoleteSinceProperty.Val*e,
-                  "yyyy-MM-dd",*                  $culture,
-      *           $dateStyles,
-          *       [ref]$obsoleteSince
-       *      )
-
-              if (-not $i*ValidDate) {
-                  $in*alidEntries.Add($entry)
-          *       continue
+              if (-not [int]::TryParse($env:INPUT_MONTHS, [ref]$parsedMonths)) {
+                  throw "Der Parameter 'months' ist keine gueltige Zahl."
               }
 
- *            $obsoleteSince = $obso*eteSince.Date
+              if ($parsedMonths -lt 1 -or $parsedMonths -gt 120) {
+                  throw "Der Parameter 'months' muss zwischen 1 und 120 liegen."
+              }
 
-              # Bei*e Grenzen sind inklusive.
-        *     if (
-                  $obsol*teSince -ge $fromDate -and
-       *          $obsoleteSince -le $refe*enceDate
+              $months = $parsedMonths
+          }
+
+          if ([string]::IsNullOrWhiteSpace($env:INPUT_REFERENCE_DATE)) {
+              $referenceDate = [DateTime]::UtcNow.Date
+          }
+          else {
+              $culture = [System.Globalization.CultureInfo]::InvariantCulture
+              $styles = [System.Globalization.DateTimeStyles]::AssumeUniversal
+              $referenceDate = [DateTime]::MinValue
+
+              $success = [DateTime]::TryParseExact(
+                  $env:INPUT_REFERENCE_DATE,
+                  "yyyy-MM-dd",
+                  $culture,
+                  $styles,
+                  [ref]$referenceDate
+              )
+
+              if (-not $success) {
+                  throw "Ungueltiges Bezugsdatum '$($env:INPUT_REFERENCE_DATE)'. Erwartetes Format: YYYY-MM-DD"
+              }
+
+              $referenceDate = $referenceDate.Date
+          }
+
+          $fromDate = $referenceDate.AddMonths(-$months)
+
+          "months=$months" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "reference-date=$($referenceDate.ToString('yyyy-MM-dd'))" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "from-date=$($fromDate.ToString('yyyy-MM-dd'))" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
+          Write-Host "Auswertungszeitraum:"
+          Write-Host "  Von:    $($fromDate.ToString('yyyy-MM-dd'))"
+          Write-Host "  Bis:    $($referenceDate.ToString('yyyy-MM-dd'))"
+          Write-Host "  Monate: $months"
+
+      - name: Validate source file
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          Set-StrictMode -Version Latest
+
+          if (-not (Test-Path -LiteralPath $env:SOURCE_FILE)) {
+              throw "Quelldatei '$env:SOURCE_FILE' wurde nicht gefunden."
+          }
+
+          $sourceFile = Get-Item -LiteralPath $env:SOURCE_FILE
+
+          if ($sourceFile.Length -eq 0) {
+              throw "Quelldatei '$env:SOURCE_FILE' ist leer."
+          }
+
+          try {
+              $jsonContent = Get-Content -LiteralPath $env:SOURCE_FILE -Raw -Encoding UTF8
+              $null = $jsonContent | ConvertFrom-Json
+          }
+          catch {
+              throw "'$env:SOURCE_FILE' enthaelt kein gueltiges JSON. Fehler: $($_.Exception.Message)"
+          }
+
+          Write-Host "JSON-Datei ist syntaktisch gueltig."
+
+      - name: Generate reports
+        id: report
+        shell: pwsh
+        env:
+          FROM_DATE: ${{ steps.parameters.outputs.from-date }}
+          REFERENCE_DATE: ${{ steps.parameters.outputs.reference-date }}
+          MONTHS: ${{ steps.parameters.outputs.months }}
+        run: |
+          $ErrorActionPreference = "Stop"
+          Set-StrictMode -Version Latest
+
+          $culture = [System.Globalization.CultureInfo]::InvariantCulture
+          $dateStyles = [System.Globalization.DateTimeStyles]::AssumeUniversal
+
+          $fromDate = [DateTime]::ParseExact(
+              $env:FROM_DATE,
+              "yyyy-MM-dd",
+              $culture,
+              $dateStyles
+          ).Date
+
+          $referenceDate = [DateTime]::ParseExact(
+              $env:REFERENCE_DATE,
+              "yyyy-MM-dd",
+              $culture,
+              $dateStyles
+          ).Date
+
+          New-Item -ItemType Directory -Path $env:OUTPUT_DIRECTORY -Force | Out-Null
+
+          $sourceContent = Get-Content -LiteralPath $env:SOURCE_FILE -Raw -Encoding UTF8 | ConvertFrom-Json
+          $sourceEntries = @($sourceContent)
+
+          $invalidEntries = [System.Collections.Generic.List[object]]::new()
+          $matchingEntries = [System.Collections.Generic.List[object]]::new()
+
+          foreach ($entry in $sourceEntries) {
+              $obsoleteSinceProperty = $entry.PSObject.Properties["obsolete-since"]
+
+              if (
+                  $null -eq $obsoleteSinceProperty -or
+                  [string]::IsNullOrWhiteSpace([string]$obsoleteSinceProperty.Value)
               ) {
-       *          $matchingEntries.Add($en*ry)
+                  continue
+              }
+
+              $obsoleteSince = [DateTime]::MinValue
+
+              $isValidDate = [DateTime]::TryParseExact(
+                  [string]$obsoleteSinceProperty.Value,
+                  "yyyy-MM-dd",
+                  $culture,
+                  $dateStyles,
+                  [ref]$obsoleteSince
+              )
+
+              if (-not $isValidDate) {
+                  $invalidEntries.Add($entry)
+                  continue
+              }
+
+              $obsoleteSince = $obsoleteSince.Date
+
+              if ($obsoleteSince -ge $fromDate -and $obsoleteSince -le $referenceDate) {
+                  $matchingEntries.Add($entry)
               }
           }
 
- *        if ($invalidEntries.Count *gt 0) {
-              Write-Warnin* (
-                  "$($invalidEn*ries.Count) Einträge enthalten ein*" +
-                  "ungültiges *obsolete-since'-Datum. " +
-       *          "Erwartetes Format: YYYY*MM-DD."
-              )
-          *
+          if ($invalidEntries.Count -gt 0) {
+              Write-Warning "$($invalidEntries.Count) Eintraege enthalten ein ungueltiges 'obsolete-since'-Datum. Erwartetes Format: YYYY-MM-DD."
+          }
 
-          # --------------------*----------------------------------*------------
-          # Ergebniss* sortieren
-          # -----------*----------------------------------*---------------------
-
-          $*ortedEntries = @(
-              $m*tchingEntries |
-                  *ort-Object {
-                     *[DateTime\]::ParseExact(
-         *                [string]$_.'obsole*e-since',
-                        * "yyyy-MM-dd",
-                   *      $culture,
-                  *       $dateStyles
-               *      )
+          $sortedEntries = @(
+              $matchingEntries |
+                  Sort-Object {
+                      [DateTime]::ParseExact(
+                          [string]$_.'obsolete-since',
+                          "yyyy-MM-dd",
+                          $culture,
+                          $dateStyles
+                      )
                   }
-      *   )
+          )
 
-          # ----------------*----------------------------------*----------------
-          # Hilfs*unktion: Eigenschaft sicher lesen
-*         # -----------------------*----------------------------------*---------
-
-          function Get-*ropertyValue {
-              param*
+          function Get-PropertyValue {
+              param(
                   [Parameter(Mandatory)]
-                  [object]$*nputObject,
+                  [object]$InputObject,
 
                   [Parameter(Mandatory)]
-               *  [string]$PropertyName
-          *   )
+                  [string]$PropertyName
+              )
 
-              $property =
-  *           }
+              $property = $InputObject.PSObject.Properties[$PropertyName]
+
+              if ($null -eq $property) {
+                  return $null
+              }
 
               return $property.Value
           }
-
-          # --------------------------------------------------------------------
-          # Hilfsfunktion: Service-Identifier bestimmen
-          # --------------------------------------------------------------------
 
           function Get-EntryIdentifier {
               param(
@@ -526,19 +310,17 @@ jobs:
               )
 
               $candidateProperties = @(
-                  "service"
-                  "name"
-                  "id"
-                  "artifact"
+                  "service",
+                  "name",
+                  "id",
+                  "artifact",
                   "contract"
               )
 
               foreach ($propertyName in $candidateProperties) {
-                  $value = Get-PropertyValue `
-                      -InputObject $Entry `
-                      -PropertyName $propertyName
+                  $value = Get-PropertyValue -InputObject $Entry -PropertyName $propertyName
 
-                  if (-not :IsNullOrWhiteSpace([string]$value)) {
+                  if (-not [string]::IsNullOrWhiteSpace([string]$value)) {
                       return [string]$value
                   }
               }
@@ -546,9 +328,7 @@ jobs:
               foreach ($property in $Entry.PSObject.Properties) {
                   if (
                       $property.Name -ne "obsolete-since" -and
-                      -not :IsNullOrWhiteSpace(
-                          [string]$property.Value
-                      )
+                      -not [string]::IsNullOrWhiteSpace([string]$property.Value)
                   ) {
                       return [string]$property.Value
                   }
@@ -556,10 +336,6 @@ jobs:
 
               return "(unbekannter Service)"
           }
-
-          # --------------------------------------------------------------------
-          # Hilfsfunktion: Markdown-Zellen schützen
-          # --------------------------------------------------------------------
 
           function ConvertTo-MarkdownCell {
               param(
@@ -571,132 +347,60 @@ jobs:
                   return ""
               }
 
-              return ([string]$Value).
-                  Replace("|", "\|").
-                  Replace("`r", " ").
-                  Replace("`n", " ")
+              return ([string]$Value).Replace("|", "\|").Replace("`r", " ").Replace("`n", " ")
           }
 
-          # --------------------------------------------------------------------
-          # Zieldateien
-          # --------------------------------------------------------------------
-
-          $jsonPath = Join-Path `
-              $env:OUTPUT_DIRECTORY `
-              "obsolete-services.json"
-
-          $csvPath = Join-Path `
-              $env:OUTPUT_DIRECTORY `
-              "obsolete-services.csv"
-
-          $markdownPath = Join-Path `
-              $env:OUTPUT_DIRECTORY `
-              "obsolete-services.md"
-
-          # --------------------------------------------------------------------
-          # JSON-Bericht erzeugen
-          # --------------------------------------------------------------------
+          $jsonPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.json"
+          $csvPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.csv"
+          $markdownPath = Join-Path $env:OUTPUT_DIRECTORY "obsolete-services.md"
 
           $jsonReport = [ordered]@{
-              generatedAtUtc = :UtcNow.ToString("o")
-
+              generatedAtUtc = [DateTime]::UtcNow.ToString("o")
               source = $env:SOURCE_FILE
-
               period = [ordered]@{
                   months = [int]$env:MONTHS
                   from = $fromDate.ToString("yyyy-MM-dd")
                   to = $referenceDate.ToString("yyyy-MM-dd")
               }
-
               count = $sortedEntries.Count
-
               invalidDateCount = $invalidEntries.Count
-
               services = $sortedEntries
           }
 
           $jsonReport |
               ConvertTo-Json -Depth 100 |
-              Set-Content `
-                  -LiteralPath $jsonPath `
-                  -Encoding UTF8
-
-          # --------------------------------------------------------------------
-          # CSV-Bericht erzeugen
-          # --------------------------------------------------------------------
+              Set-Content -LiteralPath $jsonPath -Encoding UTF8
 
           if ($sortedEntries.Count -gt 0) {
               $sortedEntries |
-                  Export-Csv `
-                      -LiteralPath $csvPath `
-                      -NoTypeInformation `
-                      -Encoding UTF8 `
-                      -UseQuotes AsNeeded
+                  Export-Csv -LiteralPath $csvPath -NoTypeInformation -Encoding UTF8 -UseQuotes AsNeeded
           }
           else {
-              '"obsolete-since"' |
-                  Set-Content `
-                      -LiteralPath $csvPath `
-                      -Encoding UTF8
+              '"obsolete-since"' | Set-Content -LiteralPath $csvPath -Encoding UTF8
           }
 
-          # --------------------------------------------------------------------
-          # Markdown-Bericht erzeugen
-          # --------------------------------------------------------------------
-
-          $markdown =
-              [System.Collections.Generic.List[string]]::new()
+          $markdown = [System.Collections.Generic.List[string]]::new()
 
           $markdown.Add("# Obsolete Services")
           $markdown.Add("")
-
-          $markdown.Add(
-              "Auswertungszeitraum: " +
-              "**$($fromDate.ToString('yyyy-MM-dd'))** bis " +
-              "**$($referenceDate.ToString('yyyy-MM-dd'))**"
-          )
-
+          $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('yyyy-MM-dd')) bis $($referenceDate.ToString('yyyy-MM-dd'))")
           $markdown.Add("")
-
-          $markdown.Add(
-              "Gefundene Einträge: **$($sortedEntries.Count)**"
-          )
-
+          $markdown.Add("Gefundene Eintraege: $($sortedEntries.Count)")
           $markdown.Add("")
 
           if ($sortedEntries.Count -eq 0) {
-              $markdown.Add(
-                  "Im Auswertungszeitraum wurden keine Services obsolet."
-              )
+              $markdown.Add("Im Auswertungszeitraum wurden keine Services obsolet.")
           }
           else {
-              $markdown.Add(
-                  "| Service | Obsolet seit | Nachfolger | " +
-                  "Abkündigungsversion | Abkündigungsdatum |"
-              )
-
-              $markdown.Add(
-                  "|---|---:|---|---|---:|"
-              )
+              $markdown.Add("| Service | Obsolet seit | Nachfolger | Abkuendigungsversion | Abkuendigungsdatum |")
+              $markdown.Add("|---|---|---|---|---|")
 
               foreach ($entry in $sortedEntries) {
                   $identifier = Get-EntryIdentifier -Entry $entry
-
-                  $successor = Get-PropertyValue `
-                      -InputObject $entry `
-                      -PropertyName "successor"
-
-                  $discontinuationVersion = Get-PropertyValue `
-                      -InputObject $entry `
-                      -PropertyName "discontinuation-version"
-
-                  $discontinuationDate = Get-PropertyValue `
-                      -InputObject $entry `
-                      -PropertyName "discontinuation-date"
-
-                  $obsoleteSince = Get-PropertyValue `
-                      -InputObject $entry `
-                      -PropertyName "obsolete-since"
+                  $obsoleteSince = Get-PropertyValue -InputObject $entry -PropertyName "obsolete-since"
+                  $successor = Get-PropertyValue -InputObject $entry -PropertyName "successor"
+                  $discontinuationVersion = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-version"
+                  $discontinuationDate = Get-PropertyValue -InputObject $entry -PropertyName "discontinuation-date"
 
                   $row = @(
                       ConvertTo-MarkdownCell $identifier
@@ -712,42 +416,17 @@ jobs:
 
           if ($invalidEntries.Count -gt 0) {
               $markdown.Add("")
-
-              $markdown.Add(
-                  "> Warnung: $($invalidEntries.Count) Einträge wurden wegen " +
-                  "eines ungültigen `obsolete-since`-Datums nicht ausgewertet."
-              )
+              $markdown.Add("> Warnung: $($invalidEntries.Count) Eintraege wurden wegen eines ungueltigen obsolete-since-Datums nicht ausgewertet.")
           }
 
-          $markdown |
-              Set-Content `
-                  -LiteralPath $markdownPath `
-                  -Encoding UTF8
+          $markdown | Set-Content -LiteralPath $markdownPath -Encoding UTF8
 
-          # --------------------------------------------------------------------
-          # Ausgaben für nachfolgende Workflow-Schritte
-          # --------------------------------------------------------------------
+          "count=$($sortedEntries.Count)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "invalid-count=$($invalidEntries.Count)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
 
-          "count=$($sortedEntries.Count)" |
-              Out-File `
-                  -FilePath $env:GITHUB_OUTPUT `
-                  -Encoding utf8 `
-                  -Append
-
-          "invalid-count=$($invalidEntries.Count)" |
-              Out-File `
-                  -FilePath $env:GITHUB_OUTPUT `
-                  -Encoding utf8 `
-                  -Append
-
-          Write-Host ""
-          Write-Host "Gefundene Services:      $($sortedEntries.Count)"
-          Write-Host "Ungültige Datumswerte:  $($invalidEntries.Count)"
-          Write-Host "Ausgabeverzeichnis:     $env:OUTPUT_DIRECTORY"
-
-      # ------------------------------------------------------------------------
-      # Zusammenfassung des Workflow-Laufs erzeugen
-      # ------------------------------------------------------------------------
+          Write-Host "Gefundene Services: $($sortedEntries.Count)"
+          Write-Host "Ungueltige Datumswerte: $($invalidEntries.Count)"
+          Write-Host "Ausgabeverzeichnis: $env:OUTPUT_DIRECTORY"
 
       - name: Publish job summary
         shell: pwsh
@@ -763,32 +442,18 @@ jobs:
           @"
           # Auswertung obsoleter Services
 
-          **Quelle:** ``$env:SOURCE_FILE``
+          Quelle: $env:SOURCE_FILE
 
-          **Zeitraum:** $env:FROM_DATE bis $env:REFERENCE_DATE
+          Zeitraum: $env:FROM_DATE bis $env:REFERENCE_DATE
 
-          **Gefundene Einträge:** $env:RESULT_COUNT
+          Gefundene Eintraege: $env:RESULT_COUNT
 
-          **Einträge mit ungültigem Datum:** $env:INVALID_COUNT
+          Eintraege mit ungueltigem Datum: $env:INVALID_COUNT
 
-          "@ |
-              Out-File `
-                  -FilePath $env:GITHUB_STEP_SUMMARY `
-                  -Encoding utf8 `
-                  -Append
+          "@ | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Encoding utf8 -Append
 
-          Get-Content `
-              -LiteralPath "$env:OUTPUT_DIRECTORY/obsolete-services.md" `
-              -Raw `
-              -Encoding UTF8 |
-              Out-File `
-                  -FilePath $env:GITHUB_STEP_SUMMARY `
-                  -Encoding utf8 `
-                  -Append
-
-      # ------------------------------------------------------------------------
-      # Reports als GitHub Actions Artifact hochladen
-      # ------------------------------------------------------------------------
+          Get-Content -LiteralPath "$env:OUTPUT_DIRECTORY/obsolete-services.md" -Raw -Encoding UTF8 |
+              Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Encoding utf8 -Append
 
       - name: Upload reports
         uses: actions/upload-artifact@v4
