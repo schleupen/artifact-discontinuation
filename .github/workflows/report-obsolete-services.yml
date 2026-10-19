@@ -382,10 +382,9 @@ jobs:
 
           $markdown = [System.Collections.Generic.List[string]]::new()
 
-          $markdown.Add("# Obsolete Services")
           $markdown.Add("Auswertungszeitraum: $($fromDate.ToString('dd.MM.yyyy')) bis $($referenceDate.ToString('dd.MM.yyyy'))")
           $markdown.Add("")
-          $markdown.Add("Bitte beachten Sie, dass folgende Services in den jeweils angegebenen Versionen in der Zeit $($fromDate.ToString('dd.MM.yyyy'))-$($referenceDate.ToString('dd.MM.yyyy')) als obsolet markiert wurden und daher entsprechend unserer [Abkündigungspolicy](https://developer-campus.de/tracks/integration/abkuendigungspolicy/) ab dem $($fromDate.AddMonths(6).ToString('dd.MM.yyyy')) seitens CS3 nicht mehr zur Verfügung stehen können. Das bedeutet, dass diese Services (oder Service-Versionen) im API-Gateway nicht mehr als Ziel-Services angegeben werden können. Prüfen Sie daher die Konfigurationseinträge des API-Gateway und tragen gültige Nachfolgeservices ein. Sollte das API-Gateway bei Ihnen als Bindeglied zu einer Software eines Drittherstellers eingesetzt werden, klären Sie bitte mit dem Hersteller, ob und welche neuen Services oder Service-Versionen vom Hersteller als Ersatz für obsolete Services genutzt werden können.")
+          $markdown.Add("Bitte beachten Sie, dass folgende Services in den jeweils angegebenen Versionen in der Zeit **$($fromDate.ToString('dd.MM.yyyy'))-$($referenceDate.ToString('dd.MM.yyyy'))** als obsolet markiert wurden und daher entsprechend unserer [Abkündigungspolicy](https://developer-campus.de/tracks/integration/abkuendigungspolicy/) ab dem $($fromDate.AddMonths(6).ToString('dd.MM.yyyy')) seitens CS3 nicht mehr zur Verfügung stehen können. Das bedeutet, dass diese Services (oder Service-Versionen) im API-Gateway nicht mehr als Ziel-Services angegeben werden können. Prüfen Sie daher die Konfigurationseinträge des API-Gateway und tragen gültige Nachfolgeservices ein. Sollte das API-Gateway bei Ihnen als Bindeglied zu einer Software eines Drittherstellers eingesetzt werden, klären Sie bitte mit dem Hersteller, ob und welche neuen Services oder Service-Versionen vom Hersteller als Ersatz für obsolete Services unterstützt werden.")
           $markdown.Add("")
           $markdown.Add("Gefundene Eintraege: $($sortedEntries.Count)")
           $markdown.Add("")
@@ -442,15 +441,7 @@ jobs:
           Set-StrictMode -Version Latest
 
           @"
-          # Auswertung obsoleter Services
-
-          Quelle: $env:SOURCE_FILE
-
-          Zeitraum: $env:FROM_DATE bis $env:REFERENCE_DATE
-
-          Gefundene Eintraege: $env:RESULT_COUNT
-
-          Eintraege mit ungueltigem Datum: $env:INVALID_COUNT
+          # Abgekündigte (obsolete) Services im API-Gateway (ab $($fromDate.AddMonths(6).ToString('dd.MM.yyyy')))
 
           "@ | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Encoding utf8 -Append
 
