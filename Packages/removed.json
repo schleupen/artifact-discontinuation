@@ -399,6 +399,15 @@
       "disruption": null
     },
     {
+      "package-id": "Schleupen.CS.PI.Framework.Resiliency",
+      "package-version": "[3.42.3,)",
+      "successor": "Schleupen.CS.PI.SB.Resiliency",
+      "successor-version": null,
+      "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "package-id": "Schleupen.CS.PI.Framework.Resiliency.Castle3",
       "package-version": "[3.42.2.86,)",
       "successor": "Schleupen.CS.PI.SB.Resiliency.Castle3",
