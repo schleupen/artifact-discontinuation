@@ -283,14 +283,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.18",
-      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungQueryService_3.19",
-      "discontinuation-version": "HV27",
-      "discontinuation-date": null,
-      "obsolete-since": "2026-10-22",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungspositionenImportierenActivityService_3.14",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.RechnungspositionenImportierenActivityService_3.15",
       "discontinuation-version": "HV27",
@@ -1235,11 +1227,35 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.EntityService_3.8",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.EntityService_3.9",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-30",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.PersonenkontenAnlegenActivityService_3.2",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.PersonenkontenAnlegenActivityService_3.3",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-30",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenNummerierenActivityService_3.3",
       "successor": "Schleupen.CS.FW.NBP.Personenkonten.Posten.PostenNummerierenCommandService_3.0",
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-08-10",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.13",
+      "successor": "Schleupen.CS.FW.NBP.Personenkonten.QueryService_3.14",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-30",
       "disruption": null
     },
     {
@@ -1896,6 +1912,14 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-08-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.pkp.pos.aov.ManageConfigurationActivityService_3.1",
+      "successor": "Schleupen.CS.pkp.pos.aov.ManageConfigurationActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-10-27",
       "disruption": null
     },
     {
