@@ -867,14 +867,6 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.6",
-      "successor": null,
-      "discontinuation-version": null,
-      "discontinuation-date": "2027-05-04",
-      "obsolete-since": "2024-05-16",
-      "disruption": null
-    },
-    {
       "artifact-id": "Schleupen.CS.AP.SI.Demands.DemandActivityService_3.5",
       "successor": "Schleupen.CS.AP.SI.Demands.DemandActivityService_3.6",
       "discontinuation-version": "SV27",
