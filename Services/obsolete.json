@@ -395,11 +395,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.Erinnerungen.EmailTemplateVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.Erinnerungen.EmailTemplateVerwaltenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-13",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.Erinnerungen.ErinnerungQueryService_3.0",
       "successor": "Schleupen.CS.AP.MK.Erinnerungen.ErinnerungQueryService_3.1",
       "discontinuation-version": "HV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-11-04",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Erinnerungen.ErinnerungsmailErstellenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.Erinnerungen.ErinnerungsmailErstellenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-13",
       "disruption": null
     },
     {
@@ -424,6 +440,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-03-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Datenformatverwendungen.QueryService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Datenformatverwendungen.QueryService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-12",
       "disruption": null
     },
     {
@@ -747,6 +771,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktprozesse.MarktprozessmonitorQueryService_3.0",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-05-11",
+      "obsolete-since": "2024-05-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Aufgaben.AufgabenLoeschenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "SV27",
@@ -784,6 +816,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-20",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungOhneMarktmeldungKorrigierenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
       "disruption": null
     },
     {
@@ -864,6 +904,14 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-28",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.SI.Configurations.ElementConfigurationActivityService_3.6",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2027-05-11",
+      "obsolete-since": "2024-05-16",
       "disruption": null
     },
     {
@@ -984,6 +1032,14 @@
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-05-01",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.VertraegeFuerAusloeserErmittelnActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
       "disruption": null
     },
     {
@@ -1387,6 +1443,14 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.anr.PreisanpassungAnreichernActivityService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.anr.PreisanpassungAnreichernActivityService_3.2",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-09",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.clr.LieferbestaetigungErzeugenActivityService_3.0",
       "successor": "Schleupen.CS.ksp.vpm.clr.VertragsbestaetigungErzeugenActivityService_3.0",
       "discontinuation-version": "HV27",
@@ -1448,6 +1512,22 @@
       "discontinuation-version": "HV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-09-16",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.Prozessarten.rab.RueckabwicklungVertragsaufloesungQueryService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.rab.RueckabwicklungVertragsaufloesungQueryService_3.2",
+      "discontinuation-version": "SV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-06-30",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.Prozessarten.raw.RueckabwicklungVertragsanlageAbschliessenActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.raw.RueckabwicklungVertragsanlageAbschliessenActivityService_3.1",
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-09",
       "disruption": null
     },
     {
@@ -1752,6 +1832,46 @@
       "discontinuation-version": "SV27",
       "discontinuation-date": null,
       "obsolete-since": "2026-07-23",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.sda.Stammdatenaenderungen.StammdatenaenderungBeantwortenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.sda.Stammdatenaenderungen.StammdatenaenderungBestaetigtEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.sda.Stammdatenaenderungen.StammdatenaenderungEbdPruefungDurchfuehrenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.sda.Stammdatenaenderungen.StammdatenaenderungVerteilenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.sda.StammdatenaenderungVersandtErforderlichEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "HV27",
+      "discontinuation-date": null,
+      "obsolete-since": "2026-11-11",
       "disruption": null
     },
     {
