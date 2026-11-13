@@ -94,6 +94,13 @@
       "disruption": null
     },
     {
+      "command": "Merge-Kommunikationskanaele",
+      "successor": null,
+      "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "command": "New-Bilanzierungsgebiet",
       "successor": "New-Bilanzierungsgebiet_3.1",
       "discontinuation-version": "WV25",
