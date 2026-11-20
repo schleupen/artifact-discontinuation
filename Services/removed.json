@@ -325,6 +325,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.23",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.24",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.24",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanAktualisierenActivityService_3.25",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.10",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.11",
       "discontinuation-version": "WV26",
@@ -339,6 +353,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.12",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.13",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.8",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.9",
       "discontinuation-version": "HV25",
@@ -349,6 +370,13 @@
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.9",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanEntityService_3.10",
       "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.9",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanGenerierenActivityService_3.10",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -370,6 +398,13 @@
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.12",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.13",
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.13",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanQueryService_3.14",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -423,9 +458,23 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.15",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.AbschlagsplanSichernActivityService_3.16",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceErgaenzenActivityService_3.0",
       "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceErgaenzenActivityService_3.1",
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceQueryService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungsdaten.InvoiceQueryService_3.1",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -598,6 +647,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.Abrechnungssperren.AbrechnungssperreVerwaltenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungsstandErmittelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.AbrechnungsstandErmittelnActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.53",
       "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.54",
       "discontinuation-version": "WV26",
@@ -605,9 +668,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.54",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.EntityService_3.55",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungseinheiten.QueryService_3.9",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungseinheiten.QueryService_3.10",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.BIL.Rechnungspruefung.ManRgPruefungAnlegenProcessService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.BIL.Rechnungspruefung.PruefungenVerwaltenActivityService_3.2",
+      "successor": "Schleupen.CS.AP.BIL.Rechnungspruefung.PruefungenVerwaltenActivityService_3.3",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -640,6 +724,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.DSV.Anfragen.Reporting.ErstelleReportActivityService_3.0",
+      "successor": "Schleupen.CS.AP.DSV.Anfragen.Reporting.ErstelleReportActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerVersendenActivityService_3.1",
       "discontinuation-version": "WV25",
@@ -664,6 +755,13 @@
       "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.AnwendungsfehlerpruefungNeuVerarbeitenQueryService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MK.Anwendungsfehler.IOP.MarktmeldungAbgelehntEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -717,6 +815,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsbestaetigungsstatusSetzenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsbestaetigungsstatusSetzenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsstatusAktualisierenActivityService_3.0",
       "successor": "Schleupen.CS.AP.MK.UEB.Uebertragungen.UebertragungsstatusAktualisierenActivityService_3.1",
       "discontinuation-version": "SV26",
@@ -742,6 +847,83 @@
       "successor": null,
       "discontinuation-version": null,
       "discontinuation-date": "2026-06-12",
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.1",
+      "successor": "Schleupen.CS.AP.MKP.Datenformatverwendungen.EntityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Bilanzkreisverantwortliche.BilanzkreisverantwortlicherVerwaltenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Bilanzkreisverantwortliche.BilanzkreisverantwortlicherVerwaltenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Dienstleister.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Dienstleister.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.ErstelleOderAktualisiereLieferantActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Lieferanten.ErstelleOderAktualisiereLieferantActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.EntityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.EntityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.ErstelleOderAktualisiereNetzbetreiberActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.Netzbetreiber.ErstelleOderAktualisiereNetzbetreiberActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.2",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.3",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.4",
+      "successor": "Schleupen.CS.AP.MKP.Kommunikationspartner.QueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
       "disruption": null
     },
     {
@@ -811,6 +993,13 @@
       "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.7",
       "successor": null,
       "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.8",
+      "successor": "Schleupen.CS.AP.MKP.Preisblaetter.QueryService_3.9",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -1067,6 +1256,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Korrekturen_Korrektur755371CommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Korrekturen_Korrektur755371StartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.2",
       "successor": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsdatenblaetterVersendenActivityService_3.3",
       "discontinuation-version": "WV26",
@@ -1074,9 +1277,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsparameterVersendenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.KommunikationsparameterVersendenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.ProzessmeldungVerwaltenService_3.1",
       "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungVerwaltenActivityService_3.5",
       "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.AKD.Prozessmeldungen.UebermittlungenKommunikationsparameter.UebermittlungKommunikationsparameterEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -1256,6 +1480,27 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.3",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.5",
+      "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.InvoicDatenformatobjektQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.3",
       "successor": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.PricatDatenformatobjektQueryService_3.4",
       "discontinuation-version": "SV26",
@@ -1273,6 +1518,20 @@
       "artifact-id": "Schleupen.CS.AP.MPM.MAR.Datenformatobjekte.RemadvDatenformatobjektQueryService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050CommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050StartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -1420,6 +1679,13 @@
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.BilanzierteMengen.BilanzierteMengeVerwaltenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.8",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Energiemengen.EnergiemengeVersendenActivityService_3.9",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -1627,6 +1893,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.9",
+      "successor": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandVersendenActivityService_3.10",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.MWM.Prozessmeldungen.Zaehlerstaende.ZaehlerstandZuGeraetwechselEntgegenGenommenEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV26",
@@ -1662,6 +1935,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.MPM.Marktobjekte.VorlaeufigeMarktobjekteAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.AP.MPM.Marktobjekte.VorlaeufigeMarktobjekteAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.MPM.Marktprozesse.MarktprozessNegativBeendetEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV26",
@@ -1672,6 +1952,13 @@
       "artifact-id": "Schleupen.CS.AP.MPM.Marktprozesse.MarktprozessPositivBeendetEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungIdentifikationen.QueryService_3.4",
+      "successor": "Schleupen.CS.AP.MPM.Prozessmeldungen.ProzessmeldungIdentifikationen.QueryService_3.5",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -2348,6 +2635,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.SI.Demands.SaveDemandsCommandService_3.0",
+      "successor": "Schleupen.CS.AP.SI.Demands.SaveDemandsCommandService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Abrechnung.AbrechnungslaufStatusAendernActivityService_3.10",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -2488,6 +2782,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.1",
+      "successor": "Schleupen.CS.AP.VTM.Gas.Netznutzung.EntgeltQueryService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Gas.Vertraege.EntityService_3.5",
       "successor": "Schleupen.CS.AP.VTM.Gas.Vertraege.EntityService_3.6",
       "discontinuation-version": "SV25",
@@ -2554,6 +2862,13 @@
       "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.5",
       "successor": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.6",
       "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.6",
+      "successor": "Schleupen.CS.AP.VTM.MSB.Vertraege.QueryService_3.7",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -2649,6 +2964,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragRueckabwickelnActivityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragRueckabwickelnActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragVersandrelevantGeandertEventService_3.0",
       "successor": "Schleupen.CS.AP.VTM.Netznutzung.Vertraege.NetznutzungsvertragVersandrelevantGeandertEventService_3.1",
       "discontinuation-version": "HV25",
@@ -2694,6 +3016,13 @@
       "artifact-id": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.8",
       "successor": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.9",
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.9",
+      "successor": "Schleupen.CS.AP.VTM.Preise.KatalogpreisVerwaltenActivityService_3.10",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -2999,6 +3328,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.ReferenzAktualisierungPuffernActivityService_3.0",
+      "successor": "Schleupen.CS.AP.VTM.Erloeshochrechnung.ReferenzAktualisierungPuffernActivityService_3.0",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.AP.VTM.Vertraege.UpdatedEventService_3.50",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -3114,6 +3450,13 @@
       "artifact-id": "Schleupen.CS.AP.ZD.Personen.PersonEntityService_3.0",
       "successor": "Schleupen.CS.AP.ZD.Personen.PersonEntityService_3.1",
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.AP.ZD.SteuerrelevanteDaten.SteuerrelevanteDatenActivityService_3.1",
+      "successor": "Schleupen.CS.AP.ZD.SteuerrelevanteDaten.SteuerrelevanteDatenActivityService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -3300,6 +3643,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.Verguetungseigenschaften.AendernActivityService_3.1",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.Verguetungseigenschaften.AendernActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.VertragsartenErmittelnActivityService_3.4",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -3328,6 +3678,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Anlagen.VertragsdatenEntityService_3.8",
+      "successor": "Schleupen.CS.EEG.EEG.Anlagen.VertragsdatenEntityService_3.9",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.1",
       "successor": "Schleupen.CS.EEG.EEG.Auftraege.VerwaltenActivityService_3.2",
       "discontinuation-version": "WV25",
@@ -3345,6 +3702,13 @@
       "artifact-id": "Schleupen.CS.EEG.EEG.Berichte.Auftraege.QueryService_3.1",
       "successor": "Schleupen.CS.EEG.EEG.Berichte.Auftraege.QueryService_3.2",
       "discontinuation-version": "HV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.EEG.EEG.Berichte.Auftraege.QueryService_3.2",
+      "successor": "Schleupen.CS.EEG.EEG.Berichte.Auftraege.QueryService_3.3",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -4168,6 +4532,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.ZahlungsbelegeAnnehmenActivityService_3.4",
+      "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfallbelege.ZahlungsbelegeAnnehmenActivityService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.BST.Geschaeftsvorfalllaeufe.AnlegenActivityService_3.4",
       "successor": "Schleupen.CS.FW.BST.Geschaeftsvorfalllaeufe.AnlegenActivityService_3.5",
       "discontinuation-version": "HV26",
@@ -4259,6 +4630,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.17",
+      "successor": "Schleupen.CS.FW.BST.PersonenkontenPosten.LesenActivityService_3.18",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.BST.PortionMitAufgabeVerknuepfenActivityService_3.1",
       "successor": null,
       "discontinuation-version": "SV26",
@@ -4276,6 +4654,13 @@
       "artifact-id": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.2",
       "successor": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.3",
       "discontinuation-version": "WV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.3",
+      "successor": "Schleupen.CS.FW.BST.Umsatzsteuerdaten.RechnungUmsatzsteuerErmittelnActivityService_3.4",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -4336,9 +4721,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.KontenbewegungenListen.ListparameterPersistierenActivityService_3.4",
+      "successor": "Schleupen.CS.FW.NBP.KontenbewegungenListen.ListparameterPersistierenActivityService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnmodelle.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnmodelle.EntityService_3.7",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnmodelle.EntityService_3.6",
       "successor": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnmodelle.EntityService_3.7",
       "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnvorgaenge.MahnvorgangQueryService_3.1",
+      "successor": "Schleupen.CS.FW.NBP.Mahnsteuerung.Mahnvorgaenge.MahnvorgangQueryService_3.3",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -4374,6 +4780,13 @@
       "artifact-id": "Schleupen.CS.FW.NBP.NummernkreisDefinitionen.EntityService_3.10",
       "successor": "Schleupen.CS.FW.NBP.NummernkreisDefinitionen.EntityService_3.11",
       "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.OPListen.ListparameterPersistierenActivityService_3.15",
+      "successor": "Schleupen.CS.FW.NBP.OPListen.ListparameterPersistierenActivityService_3.16",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -4570,6 +4983,13 @@
       "artifact-id": "Schleupen.CS.FW.NBP.Ruecklastschriften.RuecklastschriftschreibenMetadatenQueryService_3.1",
       "successor": null,
       "discontinuation-version": "HV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.NBP.Saldenlisten.ListparameterPersistierenActivityService_3.15",
+      "successor": "Schleupen.CS.FW.NBP.Saldenlisten.ListparameterPersistierenActivityService_3.16",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -4920,6 +5340,13 @@
       "artifact-id": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.4",
       "successor": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.5",
       "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.5",
+      "successor": "Schleupen.CS.FW.REB.Rechnungsablehnungsgrund.EntityService_3.6",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -5326,6 +5753,13 @@
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.EntityService_3.1",
       "successor": null,
       "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.QueryService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.QueryService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -5897,6 +6331,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.VollstaendigkeitPruefenActivityService_3.3",
+      "successor": "Schleupen.CS.MDM.MWM.Messwerte.VollstaendigkeitPruefenActivityService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.Messwerte.ZaehlerstandsgangUndZugehoerigenLastgangNeubildenActivityService_3.0",
       "successor": "Schleupen.CS.MDM.MWM.Messwerte.ZaehlerstandsgangUndZugehoerigenLastgangNeubildenActivityService_3.1",
       "discontinuation-version": "FV26",
@@ -6079,9 +6520,30 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungMonitorQueryService_3.2",
+      "successor": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungMonitorQueryService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.MHS.SMG.SGA.Parametrierung.ParametrierungsanforderungQueryService_3.2",
       "successor": "Schleupen.CS.MHS.SMG.Parametrierung.ParametrierungsanforderungQueryService_3.2",
       "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.MesssystemDeaktivierungEntityService_3.2",
+      "successor": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.MesssystemDeaktivierungEntityService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.Monitor.ProzesseErmittelnActivityService_3.1",
+      "successor": "Schleupen.CS.MHS.SMG.SGAProzesse.MesssystemDeaktivierungen.Monitor.ProzesseErmittelnActivityService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -6145,6 +6607,13 @@
       "artifact-id": "Schleupen.CS.PI.AIF.Configuration.ManageCdtConfigurationActivityService_3.1",
       "successor": null,
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.AIF.Mails.MailConfigurationActivityService_3.2",
+      "successor": "Schleupen.CS.PI.AIF.Mails.MailConfigurationActivityService_3.3",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -6401,6 +6870,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.DP.Deployment.WriteMessageCallbackService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.DP.Hosting.Nomad.BootstrappingActivityService_3.0",
       "successor": null,
       "discontinuation-version": "WV25",
@@ -6478,6 +6954,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.AddFakeServiceImplementationActivityService_3.0",
+      "successor": "Schleupen.CS.PI.SB.Registry.ManageServiceImplementationActivityService_3.0",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.SB.Registry.AddServiceImplementationActivityService_3.5",
       "successor": "Schleupen.CS.PI.SB.Registry.AddServiceImplementationActivityService_3.6",
       "discontinuation-version": "WV26",
@@ -6502,6 +6985,13 @@
       "artifact-id": "Schleupen.CS.PI.SB.Registry.EndpointUpdatedEventService_3.0",
       "successor": null,
       "discontinuation-version": "HV24",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.PI.SB.Registry.RemoveFakeServiceImplementationActivityService_3.0",
+      "successor": "Schleupen.CS.PI.SB.Registry.ManageServiceImplementationActivityService_3.0",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -6807,6 +7297,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.PI.SR.SourceRepositoryQueryService_3.3",
+      "successor": "Schleupen.CS.PI.SR.SourceRepositoryQueryService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.SR.SyncProcessArtifactInfosActivityService_3.1",
       "successor": "Schleupen.CS.PI.SR.SyncProcessArtifactInfosActivityService_3.2",
       "discontinuation-version": "FV25",
@@ -6849,6 +7346,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauPositionStatusAktualisierenActivityService_3.2",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauPositionStatusAktualisierenActivityService_3.3",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.EntityService_3.3",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.EntityService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.EinzelpositionNeuStartenActivityService_3.1",
       "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.EinzelpositionNeuStartenActivityService_3.2",
       "discontinuation-version": "HV26",
@@ -6870,6 +7381,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.ProzessschrittDatenErmittelnQueryService_3.4",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.ProzessschrittDatenErmittelnQueryService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.ProzessschrittDatenErmittelnQueryService_3.5",
+      "successor": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.ProzessschrittDatenErmittelnQueryService_3.6",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.TA.ASM.APS.ErsteinbauiMSLos.Monitor.StatusUebersichtErmittelnQueryService_3.1",
       "successor": null,
       "discontinuation-version": "HV24",
@@ -6884,9 +7409,44 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.Montage.EIRPositionenZurInstallationFreigegebenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.APS.Montage.InstallationsprozessStartenActivityService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.TA.ASM.Geraete.SmartmeterSensorQueryService_3.6",
       "successor": "Schleupen.CS.TA.ASM.Geraete.SmartmeterSensorQueryService_3.7",
       "discontinuation-version": "SV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.Montage.ArbeitspaketvorgabenAnfrageAbgeschlossenEventService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.Objekte.Installationsorte.EntityService_3.2",
+      "successor": "Schleupen.CS.TA.ASM.Objekte.Installationsorte.EntityService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.TA.ASM.Objekte.Installationsorte.QueryActivityService_3.2",
+      "successor": "Schleupen.CS.TA.ASM.Objekte.Installationsorte.QueryActivityService_3.4",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -7269,6 +7829,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.3",
+      "successor": "Schleupen.CS.abr.bil.rst.StornierenProcessService_3.4",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.abr.gas.Stammdaten.AenderungDurchfuehrenProcessService_3.0",
       "successor": "Schleupen.CS.abr.gas.Stammdaten.AenderungDurchStammdatenAenderungDurchfuehrenProcessService_3.1",
       "discontinuation-version": "SV25",
@@ -7388,6 +7955,20 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.4",
+      "successor": "Schleupen.CS.abr.vtm.rst.RechnungenStornierenProcessService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.AnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.AnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.EntityService_3.1",
       "discontinuation-version": "HV25",
@@ -7482,6 +8063,13 @@
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AnmeldungEOGAlsLFVomNBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AnmeldungEOGAlsLFVomNBAnlegenActivityService_3.1",
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AntwortAufBilRelAnfrageAnNBMitAbhaengigkeitenAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Gas.AntwortAufBilRelAnfrageAnNBMitAbhaengigkeitenAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -7780,9 +8368,23 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.0",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsLFVomMSBAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.0",
       "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.1",
       "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.1",
+      "successor": "Schleupen.CS.ars.clr.Stammdatenprozessbuendel.Strom.AenderungDatenDerMeLoAlsNBVomMSBAnlegenActivityService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -7962,6 +8564,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.asm.zwm.eir.InstallationsprozessStartenActivityService_3.1",
+      "successor": "Schleupen.CS.asm.zwm.eir.InstallationsprozessStartenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.brd.bsd.bkv.BilanzkreisErmittelnActivityService_3.0",
       "successor": "Schleupen.CS.brd.bsd.bkv.BilanzkreisErmittelnActivityService_3.1",
       "discontinuation-version": "FV26",
@@ -7993,6 +8602,13 @@
       "artifact-id": "Schleupen.CS.bst.bav.buv.Buchungsmodelle.BuchungsmodellSchreibenActivityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.1",
+      "successor": "Schleupen.CS.dlm.dmt.cda.CreateStandardschreibenProcessService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -8063,6 +8679,13 @@
       "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.1",
       "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.2",
+      "successor": "Schleupen.CS.gpk.akd.Kommunikationsdatenblaetter.KommunikationsdatenblattVersendenActivityService_3.3",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -8277,6 +8900,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vma.dok.ETLEntityService_3.4",
+      "successor": null,
+      "discontinuation-version": null,
+      "discontinuation-date": "2026-11-16",
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vma.dok.KundenkorrespondenzdatenBereitstellenActivityService_3.2",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -8466,6 +9096,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.4",
+      "successor": "Schleupen.CS.ksp.vpm.dok.DokumentErzeugungVerwaltenActivityService_3.5",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.ksp.vpm.mon.VertragsprozessMonitorEntityService_3.3",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -8483,6 +9120,27 @@
       "artifact-id": "Schleupen.CS.ksp.vpm.mon.VertragsprozessMonitorEntityService_3.5",
       "successor": "Schleupen.CS.ksp.vpm.mon.VertragsprozessMonitorEntityService_3.6",
       "discontinuation-version": "FV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.taw.TarifWechselVerwaltenActivityService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.taw.TarifWechselAnlegenActivityService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vbe.VertragsBeendigungDurchNetzbetreiberActivityService_3.0",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vbe.VertragsBeendigungDurchNetzbetreiberAnlegenActivityService_3.0",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.ksp.vpm.vbe.VertragsBeendigungDurchNetzbetreiberActivityService_3.1",
+      "successor": "Schleupen.CS.ksp.vpm.Prozessarten.vbe.VertragsBeendigungDurchNetzbetreiberAnlegenActivityService_3.0",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
@@ -9145,6 +9803,34 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mlf.lws.MarktlokationGeprueftEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.lws.MarktlokationPruefenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen_Korrektur763590.DurchfuehrenCommandService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen_Korrektur763590.StartenActivityService_3.0",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.mlf.sda.Stammdatenaenderungen.StammdatensynchronisationBeantwortenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -9299,6 +9985,13 @@
       "disruption": null
     },
     {
+      "artifact-id": "Schleupen.CS.mwm.mml.IOP.StornierungAusVAVerarbeitenActivityService_3.2",
+      "successor": null,
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
       "artifact-id": "Schleupen.CS.mwm.mml.bfe.BerechnungsformelEmpfangenProcessService_3.1",
       "successor": null,
       "discontinuation-version": "HV26",
@@ -9365,6 +10058,27 @@
       "artifact-id": "Schleupen.CS.nnu.sda.NichtBilaRelAenderungNnaVomNbDerMaloEinfuehrenKonfiguratorActivityService_3.1",
       "successor": null,
       "discontinuation-version": "WV26",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozess.EntsperrungDurchLieferbeginnEntgegenGenommenEventService_3.0",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozess.EntsperrungDurchLieferbeginnEntgegenGenommenEventService_3.1",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.0",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.2",
+      "discontinuation-version": "FV27",
+      "discontinuation-date": null,
+      "disruption": null
+    },
+    {
+      "artifact-id": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.1",
+      "successor": "Schleupen.CS.nnu.spv.Sperrprozesse.EntsperrungMarktpartnerPruefenActivityService_3.2",
+      "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
