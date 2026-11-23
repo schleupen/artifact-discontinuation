@@ -9817,14 +9817,14 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen_Korrektur763590.DurchfuehrenCommandService_3.0",
+      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen.Korrektur763590.DurchfuehrenCommandService_3.0",
       "successor": null,
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen_Korrektur763590.StartenActivityService_3.0",
+      "artifact-id": "Schleupen.CS.mlf.ram.Korrekturen.Korrektur763590.StartenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
