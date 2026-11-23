@@ -1522,14 +1522,14 @@
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050CommandService_3.0",
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen.Korrektur736050CommandService_3.0",
       "successor": null,
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
       "disruption": null
     },
     {
-      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen_Korrektur736050StartenActivityService_3.0",
+      "artifact-id": "Schleupen.CS.AP.MPM.MAR.Korrekturen.Korrektur736050StartenActivityService_3.0",
       "successor": null,
       "discontinuation-version": "FV27",
       "discontinuation-date": null,
